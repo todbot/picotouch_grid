@@ -246,6 +246,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "232b20c7-f4b5-4ec9-a0cb-5111a6850cce")
 			(effects
 				(font
@@ -303,6 +304,8 @@
 			)
 		)
 		(path "/ab488d2b-ea3d-4750-ab21-a3c39fe02320")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -489,6 +492,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "813f3494-f95b-4ab2-8483-5c0830b1b844")
 			(effects
 				(font
@@ -546,6 +550,8 @@
 			)
 		)
 		(path "/69fdb61d-1243-4643-a85b-dbb28d9bcc64")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -732,6 +738,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "fdfd396b-dd57-4b42-9171-efaa22be951f")
 			(effects
 				(font
@@ -789,6 +796,8 @@
 			)
 		)
 		(path "/9604332b-d9b9-4cec-939b-813d0dfc8ef4")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -975,6 +984,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "7d3046d7-2969-44c8-ae4f-d1cdb20eeace")
 			(effects
 				(font
@@ -1032,6 +1042,8 @@
 			)
 		)
 		(path "/a90b2cad-0787-47fc-943d-04b071e53380")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -1218,6 +1230,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "fa3d92d0-5146-4dd0-935c-9af8ef6825ff")
 			(effects
 				(font
@@ -1275,6 +1288,8 @@
 			)
 		)
 		(path "/f5b8f39b-031b-4fe0-ba4c-d25fe37177bd")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -1461,6 +1476,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "60883a3a-dc9b-4dc9-91e2-0383f9688607")
 			(effects
 				(font
@@ -1518,6 +1534,8 @@
 			)
 		)
 		(path "/812cf028-6581-41f4-bfe7-0fb0911a9e37")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -1704,6 +1722,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "e260502f-f63b-4ea3-adcd-07e63a128f0b")
 			(effects
 				(font
@@ -1761,6 +1780,8 @@
 			)
 		)
 		(path "/0c645c9d-c6e2-4ef9-b623-9d2ca0de6108")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -1947,6 +1968,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "b7f44881-273d-4f61-9c1e-7e80b786ed4c")
 			(effects
 				(font
@@ -2004,6 +2026,8 @@
 			)
 		)
 		(path "/bc92ab85-7e7d-45e1-9bd3-de74fd212044")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -2190,6 +2214,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "fe4c4e9f-8c0e-4435-9773-1c7d9503e4e3")
 			(effects
 				(font
@@ -2247,6 +2272,8 @@
 			)
 		)
 		(path "/1ac6bff4-0f1c-4b98-a09c-5e3300170df4")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -2433,6 +2460,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "0cad2d8b-ebdc-47c7-a94c-4c1c2d3ba0e2")
 			(effects
 				(font
@@ -2490,6 +2518,8 @@
 			)
 		)
 		(path "/fa78f54a-64a7-4cc7-8202-a5ef07073d0f")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -2676,6 +2706,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "cfd0df86-2625-4af4-ad6c-4bae03f5afe3")
 			(effects
 				(font
@@ -2733,6 +2764,8 @@
 			)
 		)
 		(path "/1c3a53bc-d372-4479-b834-5cab2922c709")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -2919,6 +2952,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "f4d38145-f59d-4d89-8a37-bf9ee0bf3e34")
 			(effects
 				(font
@@ -2976,6 +3010,8 @@
 			)
 		)
 		(path "/5d02da84-3878-40d7-9de0-a9005ecb5805")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -3162,6 +3198,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "2832a28e-ad03-4c53-86fa-8f0ae0cd31e8")
 			(effects
 				(font
@@ -3219,6 +3256,8 @@
 			)
 		)
 		(path "/bc08a765-41e9-4b99-978c-6cc169ec2871")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -3405,6 +3444,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "686a2d02-3ee2-40cc-8159-9e60dac15b71")
 			(effects
 				(font
@@ -3462,6 +3502,8 @@
 			)
 		)
 		(path "/a862de9b-1d35-437c-8107-523be55bef59")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -3648,6 +3690,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "4ce17015-5372-4548-a0a5-50f5db3a9a4d")
 			(effects
 				(font
@@ -3705,6 +3748,8 @@
 			)
 		)
 		(path "/8449e509-ccbf-4ced-8ca3-31f627318d17")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -3891,6 +3936,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "f466e240-3082-4c19-a3b3-6aafc9627660")
 			(effects
 				(font
@@ -3948,6 +3994,8 @@
 			)
 		)
 		(path "/e9b953d2-df57-40f9-9f99-ea43e49a1cdf")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -4134,6 +4182,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "38d77f0b-804c-43b6-8805-0ff0dec5a6be")
 			(effects
 				(font
@@ -4191,6 +4240,8 @@
 			)
 		)
 		(path "/7face501-31e9-4b25-a9ed-995806ab1832")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -4377,6 +4428,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "4010cd68-3f60-4a09-a2aa-41c213d7752c")
 			(effects
 				(font
@@ -4434,6 +4486,8 @@
 			)
 		)
 		(path "/f4a91da0-7b43-4f07-bef3-cf9f0f8a6dad")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -4620,6 +4674,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "dd089850-9bd5-4406-a354-389792fc8344")
 			(effects
 				(font
@@ -4677,6 +4732,8 @@
 			)
 		)
 		(path "/b342abe1-aa73-4cb4-8d57-6a92af89f2ef")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -4863,6 +4920,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "f4099e4b-32ff-4a72-99dd-5a6c1cd2f344")
 			(effects
 				(font
@@ -4920,6 +4978,8 @@
 			)
 		)
 		(path "/6f416056-a24f-4b44-8a74-5985806f09f4")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -5106,6 +5166,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "6c48ed0d-e1d9-494b-abc1-466905693065")
 			(effects
 				(font
@@ -5163,6 +5224,8 @@
 			)
 		)
 		(path "/c9b1bd56-418a-4991-b35b-8b41721ceab7")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -5349,6 +5412,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "cb417627-304e-4648-80bd-cdd3b0d55d77")
 			(effects
 				(font
@@ -5406,6 +5470,8 @@
 			)
 		)
 		(path "/f38b5d4d-aaa9-406f-bac8-7a59e504fcf4")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -5592,6 +5658,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "b6848231-0b3f-4401-acb2-87501f5bffd8")
 			(effects
 				(font
@@ -5649,6 +5716,8 @@
 			)
 		)
 		(path "/3c95815e-1241-4880-98d8-27654cf9cb66")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -5835,6 +5904,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "8fc1bafe-e1b9-498f-a3cc-9005573b2b5b")
 			(effects
 				(font
@@ -5892,6 +5962,8 @@
 			)
 		)
 		(path "/76488370-2c9b-43fa-acfe-c1eedf69732f")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -6078,6 +6150,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "028b4c60-b063-42d9-9158-dc5efd62a955")
 			(effects
 				(font
@@ -6135,6 +6208,8 @@
 			)
 		)
 		(path "/ea267f1b-5bce-4faa-93a2-fcb764524218")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -6321,6 +6396,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "4c01c4a4-5fd8-4ea5-9d60-d3339c336774")
 			(effects
 				(font
@@ -6378,6 +6454,8 @@
 			)
 		)
 		(path "/0e945e26-22d3-4684-a2f8-26a1a358b2a0")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -6564,6 +6642,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "341b20b1-9286-43d9-a779-b5fba65eeca1")
 			(effects
 				(font
@@ -6621,6 +6700,8 @@
 			)
 		)
 		(path "/b36280d6-3bd5-46fb-8e9f-3080181529e6")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -6807,6 +6888,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "cb349fbf-5b00-415e-8390-55dec1924c42")
 			(effects
 				(font
@@ -6864,6 +6946,8 @@
 			)
 		)
 		(path "/cb2526a5-e6b5-4a8c-b80d-d7d21083f4c9")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -7050,6 +7134,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "cc91bc00-f414-4f22-9140-7d372563476d")
 			(effects
 				(font
@@ -7107,6 +7192,8 @@
 			)
 		)
 		(path "/dc725b83-65ae-43f3-b85b-c2da9afecb0f")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -7293,6 +7380,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "85eb6fe0-1ea0-466f-8309-b0d5902042e6")
 			(effects
 				(font
@@ -7350,6 +7438,8 @@
 			)
 		)
 		(path "/5f952ac4-94a2-4d58-8232-a74bf9d911ed")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -7536,6 +7626,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "d6d339f9-3aea-49fd-869b-7ddbbf9a8950")
 			(effects
 				(font
@@ -7593,6 +7684,8 @@
 			)
 		)
 		(path "/f19345e1-7c23-464d-ac1e-21c6be4fd461")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -7779,6 +7872,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "026fcf1c-d3e2-4d5c-979f-cdc18383d922")
 			(effects
 				(font
@@ -7836,6 +7930,8 @@
 			)
 		)
 		(path "/88071655-8d8c-477b-b0c9-a8f7edcf0ff3")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -8022,6 +8118,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "1f37f2b6-7fe7-49bf-9f41-3b67201e70a5")
 			(effects
 				(font
@@ -8079,6 +8176,8 @@
 			)
 		)
 		(path "/bd5573cd-9664-4cc7-a0b2-78eb68d26917")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -8265,6 +8364,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "6d2f86ba-2463-4d34-b792-7dfb4a1bb82e")
 			(effects
 				(font
@@ -8322,6 +8422,8 @@
 			)
 		)
 		(path "/1a440649-5e13-4e4b-b2d8-64d24b699c64")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -8508,6 +8610,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "b24ae697-00da-42e6-89a5-a64188a42bc1")
 			(effects
 				(font
@@ -8565,6 +8668,8 @@
 			)
 		)
 		(path "/ae55df19-0903-476a-8c6f-791d6287fd79")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -8751,6 +8856,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "da238802-091d-43b1-9c56-22437e35af36")
 			(effects
 				(font
@@ -8808,6 +8914,8 @@
 			)
 		)
 		(path "/4f14857c-784a-4f36-905f-5937d156984c")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -8994,6 +9102,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "497aa564-a4e8-4d38-a236-1f944046955b")
 			(effects
 				(font
@@ -9051,6 +9160,8 @@
 			)
 		)
 		(path "/3c78e9cd-13d7-4a78-b095-ef0b98b46af6")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -9237,6 +9348,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "17f4650d-56bb-4ee9-8425-eb035fa697a1")
 			(effects
 				(font
@@ -9294,6 +9406,8 @@
 			)
 		)
 		(path "/be6e2e54-aa93-405e-85e7-97495cda5d40")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -9480,6 +9594,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "98740670-f505-4c17-96b9-154c13da39ce")
 			(effects
 				(font
@@ -9537,6 +9652,8 @@
 			)
 		)
 		(path "/a72209ab-2a7f-4580-ab10-bb676de6dfb7")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -9723,6 +9840,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "e1cd51a2-1919-433e-80ff-39b425d60c44")
 			(effects
 				(font
@@ -9780,6 +9898,8 @@
 			)
 		)
 		(path "/e5048d20-f322-45e8-b0c0-ef8983723493")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -10027,7 +10147,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/8eafb09f-8e58-4aaa-879f-7d776f661710")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -10253,6 +10376,8 @@
 			)
 		)
 		(path "/452d7c4f-c77c-4659-8101-cc24310bd3f2")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 4.93 1.77)
@@ -10684,6 +10809,8 @@
 			)
 		)
 		(path "/89d979a1-9d66-4e56-ac56-88009e648258")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -10835,7 +10962,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -10846,7 +10973,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -10868,7 +10995,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -11102,7 +11229,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/77cec771-5c8a-4e52-821e-7b45fc3e0009")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -11316,6 +11446,8 @@
 			)
 		)
 		(path "/3a1227d1-049e-4906-8bc3-f11e76ba157d")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -11467,7 +11599,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -11478,7 +11610,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -11500,7 +11632,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -11735,6 +11867,8 @@
 			)
 		)
 		(path "/c6c227da-14e2-4c2d-86b5-4dcc076429ee")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -11886,7 +12020,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -11897,7 +12031,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -11919,7 +12053,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -12153,7 +12287,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/32383b1f-6dc6-4e4d-9663-721e594d2cf7")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -12366,7 +12503,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/cda6c1ad-58fe-4665-bce7-57a9c2789c94")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -12580,6 +12720,8 @@
 			)
 		)
 		(path "/d9bb8d5f-7140-41b1-b2de-275da0cffeff")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -12731,7 +12873,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -12742,7 +12884,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -12764,7 +12906,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -12999,6 +13141,8 @@
 			)
 		)
 		(path "/26bae627-31c2-46f8-bacd-78ca5e84d8df")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -13150,7 +13294,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -13161,7 +13305,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -13183,7 +13327,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -13417,7 +13561,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/8a9b3d49-8a7c-4776-9db8-e19a4ba05d92")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -13630,7 +13777,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/f13ca013-c47b-4aba-904e-a45b3506e20c")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 0.5225)
@@ -13843,7 +13993,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/85f83c59-3e0b-4fec-9e62-791db406b07d")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -14056,7 +14209,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/a80ea3b7-80a3-44f5-88ec-cd4f82069b93")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -14269,7 +14425,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/56d53435-a20e-4696-a2e3-7234ce0c0fa1")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -14482,7 +14641,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/964779fc-c9f5-437d-981f-8df9a0cf594e")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -14695,7 +14857,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/0abf5be4-1bff-4bb2-b75b-e10f9b0dbddb")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -14908,7 +15073,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/7e2d1c34-1742-4a88-bb02-abbf26481e4f")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -15122,6 +15290,8 @@
 			)
 		)
 		(path "/b785301e-e430-4e6d-93cd-03fe6cd18b60")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -15273,7 +15443,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -15284,7 +15454,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -15306,7 +15476,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -15541,6 +15711,8 @@
 			)
 		)
 		(path "/48f6eda7-45d6-4f2f-a657-296176dc2386")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -15692,7 +15864,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -15703,7 +15875,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -15725,7 +15897,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -15960,6 +16132,8 @@
 			)
 		)
 		(path "/bc2abf56-211b-4214-8666-141202a1e864")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -16111,7 +16285,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -16122,7 +16296,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -16144,7 +16318,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -16379,6 +16553,8 @@
 			)
 		)
 		(path "/d3c47f1e-d95e-4a29-b421-abe49f1e2f0f")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -16530,7 +16706,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -16541,7 +16717,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -16563,7 +16739,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -16797,7 +16973,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/3604abec-84d4-4d70-905c-50448980bc40")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -17011,6 +17190,8 @@
 			)
 		)
 		(path "/b550e3f8-938e-47db-84b7-7d9ba9340631")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -17162,7 +17343,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -17173,7 +17354,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -17195,7 +17376,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -17430,6 +17611,8 @@
 			)
 		)
 		(path "/77775673-f3ee-4396-b28e-0143bcbbf27d")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -17581,7 +17764,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -17592,7 +17775,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -17614,7 +17797,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -17848,7 +18031,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/26637be5-3c76-4125-a85e-16562a1b26ed")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -18061,7 +18247,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/60635959-2c1f-483c-bc38-61c684de2f44")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -18275,6 +18464,8 @@
 			)
 		)
 		(path "/eb613e14-f0ea-442f-a280-18f5e8c175ff")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -18426,7 +18617,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -18437,7 +18628,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -18459,7 +18650,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -18693,7 +18884,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/b7889a3a-e39e-4a2c-ad3b-43f97db64a5a")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -18907,6 +19101,8 @@
 			)
 		)
 		(path "/c41ff9e1-07ef-4a6b-bd8f-0fa36a373140")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -19058,7 +19254,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -19069,7 +19265,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -19091,7 +19287,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -19325,7 +19521,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/f44aea23-b190-4054-8d30-cafd751cedc3")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -19538,7 +19737,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/ded07c39-e433-489e-a763-8e6d77d8a7de")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -19752,6 +19954,8 @@
 			)
 		)
 		(path "/4c4acdb0-6b09-42b6-b6b7-233bb23bec8d")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -19903,7 +20107,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -19914,7 +20118,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -19936,7 +20140,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -20171,6 +20375,8 @@
 			)
 		)
 		(path "/cb7d9250-97a5-4417-ad90-296eb62e716d")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -20322,7 +20528,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -20333,7 +20539,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -20355,7 +20561,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -20589,7 +20795,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/de7629c7-deee-4f3b-ae36-6ae2b68635f0")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -20802,7 +21011,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/84424573-4cdf-490e-90f3-edce67f28daf")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -21016,6 +21228,8 @@
 			)
 		)
 		(path "/c155d9b0-2abc-4e67-a26b-113a88a5617b")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -21167,7 +21381,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -21178,7 +21392,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -21200,7 +21414,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -21435,6 +21649,8 @@
 			)
 		)
 		(path "/946240eb-85eb-4883-bd97-bab8192b4d79")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -21586,7 +21802,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -21597,7 +21813,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -21619,7 +21835,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -21853,7 +22069,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/7b7da81c-da3f-4b9f-9a1f-e69b72fb8947")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -22066,7 +22285,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/1098bb60-f0ff-45f2-85f7-945cb07a437f")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -22279,7 +22501,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/a6edb37f-fe60-453b-96cd-acc2701ec329")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -22493,6 +22718,8 @@
 			)
 		)
 		(path "/b2f60a61-5af2-4cc0-bb60-985a1fdb8cf2")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -22644,7 +22871,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -22655,7 +22882,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -22677,7 +22904,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -22912,6 +23139,8 @@
 			)
 		)
 		(path "/3a216050-b77f-4653-9b2c-0e809f26f8e7")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -23063,7 +23292,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -23074,7 +23303,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -23096,7 +23325,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -23331,6 +23560,8 @@
 			)
 		)
 		(path "/1bb26156-3219-46fe-b212-e9b8d9b0569a")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -23482,7 +23713,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -23493,7 +23724,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -23515,7 +23746,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -23749,7 +23980,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/584ae6ba-07d7-43b7-b180-7454ce921445")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -23963,6 +24197,8 @@
 			)
 		)
 		(path "/a49bbb5b-08ba-4ff3-93c0-5cf13d78d891")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -24114,7 +24350,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -24125,7 +24361,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -24147,7 +24383,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -24382,6 +24618,8 @@
 			)
 		)
 		(path "/e8c6f050-8343-4820-a32b-c4ebece4730b")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -24533,7 +24771,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -24544,7 +24782,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -24566,7 +24804,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -24800,7 +25038,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/ad0a5dfa-f62a-4353-a7da-6b74b337dad0")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -25013,7 +25254,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/11d9d61c-801f-4e83-9d6b-5e1174a073c7")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 0.5225)
@@ -25227,6 +25471,8 @@
 			)
 		)
 		(path "/4e89bc9d-abbd-407b-a8ec-ba0782e98c62")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -25378,7 +25624,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -25389,7 +25635,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -25411,7 +25657,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -25645,7 +25891,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/91dd89c6-7947-4334-bbe4-3cee165f8610")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -25859,6 +26108,8 @@
 			)
 		)
 		(path "/ed2d25ad-2cbb-49e1-b6a3-e568d630fedd")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -26010,7 +26261,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -26021,7 +26272,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -26043,7 +26294,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -26278,6 +26529,8 @@
 			)
 		)
 		(path "/7b2be262-0011-4021-8a54-55c5725b3e59")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -26429,7 +26682,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -26440,7 +26693,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -26462,7 +26715,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -26696,7 +26949,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/73ca9371-f4b1-489d-bf07-d34d52f8e350")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -26909,7 +27165,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/cabc52e8-581f-4dbb-afa9-32eda1ca82a1")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -27122,7 +27381,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/b1c24858-000b-4dd0-95bf-ff0827698d4c")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -27335,7 +27597,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/57991d9a-3872-4fb9-9a67-aafb822257bd")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -27548,7 +27813,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/d304ab3b-207f-4070-9d06-a2f53b395212")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -27774,6 +28042,8 @@
 			)
 		)
 		(path "/355be702-b1f8-410e-8e6f-db52a6246045")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 4.93 1.77)
@@ -28204,7 +28474,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/afae91cc-585d-47ef-8a19-ccbaa2f1cbb6")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -28418,6 +28691,8 @@
 			)
 		)
 		(path "/cb62a6be-ab24-4128-b330-5eea03d724a3")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -28569,7 +28844,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -28580,7 +28855,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -28602,7 +28877,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -28837,6 +29112,8 @@
 			)
 		)
 		(path "/0890446f-2edc-4deb-8b7b-40eee2f60ba7")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -28988,7 +29265,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -28999,7 +29276,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -29021,7 +29298,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -29255,7 +29532,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/eab95b6c-d153-4e65-b8c5-15727f037f67")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -29469,6 +29749,8 @@
 			)
 		)
 		(path "/e4ad4e0d-6d50-46ba-a97b-13ef6d7ed2c5")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -29620,7 +29902,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -29631,7 +29913,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -29653,7 +29935,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -29888,6 +30170,8 @@
 			)
 		)
 		(path "/4a4ccd72-2106-4aa1-8b61-b8002233fdb0")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -30039,7 +30323,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -30050,7 +30334,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -30072,7 +30356,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -30307,6 +30591,8 @@
 			)
 		)
 		(path "/439ab2d0-6dd4-468c-89c8-f60fa1f66c89")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -30458,7 +30744,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -30469,7 +30755,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -30491,7 +30777,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -30726,6 +31012,8 @@
 			)
 		)
 		(path "/1f1a4b33-3435-4752-82bb-45d08895a43e")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -30877,7 +31165,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -30888,7 +31176,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -30910,7 +31198,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -31145,6 +31433,8 @@
 			)
 		)
 		(path "/da8dd4e7-7bd5-49a7-b967-df63a250666c")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -31296,7 +31586,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -31307,7 +31597,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -31329,7 +31619,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -31563,7 +31853,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/475f1afe-8b05-4f4a-965c-0e0aa6f1bfab")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -31777,6 +32070,8 @@
 			)
 		)
 		(path "/45f0bce7-ef9c-4a1c-b594-c18475c7e14d")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -31928,7 +32223,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -31939,7 +32234,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -31961,7 +32256,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -32195,7 +32490,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/b8722e95-07eb-4928-b881-a524d2822f2e")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -32408,7 +32706,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/d6221137-4578-49ba-9d02-5623a081436b")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -32622,6 +32923,8 @@
 			)
 		)
 		(path "/7fd901af-56f7-4614-9b62-4a023f005550")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -7.493 25.5)
@@ -34448,6 +34751,8 @@
 			)
 		)
 		(path "/ed2c999c-5a85-4c00-b345-fe160d301463")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -34599,7 +34904,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -34610,7 +34915,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -34632,7 +34937,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -34866,7 +35171,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/965c5e1f-7267-4a54-a32f-131d949efc51")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -35080,6 +35388,8 @@
 			)
 		)
 		(path "/32db37b2-7433-4ece-89a9-0cad96dfa3bd")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -35231,7 +35541,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -35242,7 +35552,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -35264,7 +35574,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -35499,6 +35809,8 @@
 			)
 		)
 		(path "/12a83474-6db0-4d49-b375-4ac5a1756b3e")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -35650,7 +35962,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -35661,7 +35973,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -35683,7 +35995,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -35917,7 +36229,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/0f2c527d-0018-4a27-9260-9f8ee41275b4")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -36131,6 +36446,8 @@
 			)
 		)
 		(path "/0e61e67a-e9a5-4ad3-b2ec-d210e3076f31")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -36282,7 +36599,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -36293,7 +36610,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -36315,7 +36632,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -36549,7 +36866,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/53ffc0e6-0fce-446d-bbab-9025142700cf")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -36763,6 +37083,8 @@
 			)
 		)
 		(path "/4dec682f-8a3f-4edd-a073-62953f7e7dea")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -36914,7 +37236,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -36925,7 +37247,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -36947,7 +37269,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -37181,7 +37503,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/8340b5e4-2089-42cf-afcf-709d677ab472")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -37395,6 +37720,8 @@
 			)
 		)
 		(path "/92b72c7f-1f6e-40d3-929c-63239426a24c")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -37546,7 +37873,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -37557,7 +37884,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -37579,7 +37906,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -37813,7 +38140,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/9d05f38e-bfb6-4f4a-aa27-2b4818d23566")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -38026,7 +38356,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/022d380a-cbc2-4a3b-8f55-649da8d800ee")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -38239,7 +38572,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/88aa5868-472a-4fea-abb1-0c23adda9ab6")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -38453,6 +38789,8 @@
 			)
 		)
 		(path "/06c019f8-3ae0-4b99-b51d-1f7ba3b51efa")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -38604,7 +38942,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -38615,7 +38953,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -38637,7 +38975,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -38976,14 +39314,6 @@
 		(uuid "1a665cfe-9234-4828-82b6-ab787dc5b2e3")
 	)
 	(segment
-		(start 49 57.8)
-		(end 48.9 57.7)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 3)
-		(uuid "20dadcea-02cf-4b2a-9f0b-494a30570f82")
-	)
-	(segment
 		(start 126 111.2)
 		(end 121.2 111.2)
 		(width 0.2)
@@ -39016,14 +39346,6 @@
 		(uuid "b5252452-f8c5-4c92-a84a-54f5b7c4d360")
 	)
 	(segment
-		(start 95.9 57.8)
-		(end 95.9 33.6)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 3)
-		(uuid "b56944a8-2666-4bb0-b45e-f70f3bd4e6f5")
-	)
-	(segment
 		(start 128.7 108.5)
 		(end 126 111.2)
 		(width 0.2)
@@ -39040,6 +39362,14 @@
 		(uuid "b883bbcc-7d68-40a2-9877-5fd73da1ac19")
 	)
 	(segment
+		(start 95.9 57.8)
+		(end 49 57.8)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 3)
+		(uuid "bb4e271b-b1b3-46ee-977e-83df58b951ee")
+	)
+	(segment
 		(start 42.1 72.95)
 		(end 42.175 72.875)
 		(width 0.2)
@@ -39048,12 +39378,12 @@
 		(uuid "db971cf6-6167-4bb7-937a-8d23a607c125")
 	)
 	(segment
-		(start 95.9 57.8)
-		(end 49 57.8)
+		(start 49 57.8)
+		(end 48.9 57.7)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 3)
-		(uuid "f412aa87-e6c6-4521-b860-ae3813e3ec3e")
+		(uuid "ea79fb2c-6341-41d5-b5c1-d91d89709d78")
 	)
 	(segment
 		(start 42.1 89.3)
@@ -39104,7 +39434,7 @@
 		(uuid "b6008848-3cf0-4930-b0b8-131d192e6085")
 	)
 	(via
-		(at 95.9 33.6)
+		(at 95.9 57.8)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -39558,6 +39888,14 @@
 		(layer "B.Cu")
 		(net 3)
 		(uuid "3b0341f5-8073-4352-9aee-83c16ee1fa75")
+	)
+	(segment
+		(start 95.925 57.775)
+		(end 95.925 31)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 3)
+		(uuid "3be61b95-e078-4879-85ee-9b3d7156c785")
 	)
 	(segment
 		(start 188.4 122)
@@ -40040,6 +40378,14 @@
 		(uuid "7493bbc0-534e-4650-b292-5dd844f76294")
 	)
 	(segment
+		(start 95.9 57.8)
+		(end 95.925 57.775)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 3)
+		(uuid "76d2896b-7a1a-48d4-8597-32d3d0070b92")
+	)
+	(segment
 		(start 103.4 89.275)
 		(end 88.8 89.275)
 		(width 0.2)
@@ -40264,14 +40610,6 @@
 		(uuid "99af0bf0-d85a-4731-bc46-aca67ee02acd")
 	)
 	(segment
-		(start 95.925 33.575)
-		(end 95.9 33.6)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 3)
-		(uuid "9bff4ada-0851-4380-8580-09bec2d925f7")
-	)
-	(segment
 		(start 55.7 105.7)
 		(end 70.2 105.7)
 		(width 0.2)
@@ -40382,14 +40720,6 @@
 		(layer "B.Cu")
 		(net 3)
 		(uuid "b01f5752-5f5c-49a6-aa3e-4eff7ea06a86")
-	)
-	(segment
-		(start 95.925 31)
-		(end 95.925 33.575)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 3)
-		(uuid "b01f8e2a-4b0e-43e6-a465-e6f453bbd1fd")
 	)
 	(segment
 		(start 40.6 107.3)
@@ -43464,28 +43794,12 @@
 		(uuid "ddfee99d-f138-4caf-a1f0-66a92eb33199")
 	)
 	(segment
-		(start 126.67 73.47)
-		(end 126.67 59.87)
+		(start 126.67 64.07)
+		(end 95 32.4)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 100)
-		(uuid "05b7f39b-7cb5-404a-9968-2ca1022e3edd")
-	)
-	(segment
-		(start 99.2 32.4)
-		(end 94.2 32.4)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 100)
-		(uuid "32f5ebaf-1381-44bb-a539-207d38c3593e")
-	)
-	(segment
-		(start 126.85 73.65)
-		(end 126.67 73.47)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 100)
-		(uuid "4a4c799e-6544-4887-8465-e5591600622a")
+		(uuid "33d7c17b-129f-4eae-8e93-eaf18dfed31a")
 	)
 	(segment
 		(start 127 73.8)
@@ -43496,12 +43810,12 @@
 		(uuid "5ccc3b65-6de4-4073-b4f7-ce904434b325")
 	)
 	(segment
-		(start 126.67 59.87)
-		(end 99.2 32.4)
+		(start 126.85 73.65)
+		(end 126.67 73.47)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 100)
-		(uuid "668e6758-72ba-465b-9371-ea65a338ebe7")
+		(uuid "a7167c30-c9b6-455a-b8ae-96e223d1359e")
 	)
 	(segment
 		(start 127 105.9)
@@ -43512,12 +43826,28 @@
 		(uuid "a81824b1-ac1e-4759-914d-8bf9565101de")
 	)
 	(segment
+		(start 95 32.4)
+		(end 94.2 32.4)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 100)
+		(uuid "bfc9ce2e-2bf6-4d0c-b32f-30899778964f")
+	)
+	(segment
 		(start 126.85 73.65)
 		(end 127 73.8)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 100)
 		(uuid "c31c3bfd-2014-4ea4-986e-4c848a3cd393")
+	)
+	(segment
+		(start 126.67 73.47)
+		(end 126.67 64.07)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 100)
+		(uuid "eca4bc6e-9595-460c-afcb-df21fa1ea7e2")
 	)
 	(via
 		(at 126.85 73.65)
@@ -43632,36 +43962,36 @@
 		(uuid "f1b5c73f-d293-43eb-a842-48a2b5614582")
 	)
 	(segment
+		(start 94.3 27.6)
+		(end 94.3 30.4)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 101)
+		(uuid "192511f8-dc24-4f81-aa12-400202200dbc")
+	)
+	(segment
+		(start 94.3 30.4)
+		(end 127.32 63.42)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 101)
+		(uuid "3cfc5b88-c2fd-4069-bd58-05f0b301640b")
+	)
+	(segment
 		(start 127.9 73)
 		(end 127.9 73.4)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 101)
-		(uuid "195d1dab-7738-47c0-90c1-c91f9b364b7e")
+		(uuid "59426cb1-090b-481e-a634-757e4406b5c1")
 	)
 	(segment
-		(start 127.32 72.42)
-		(end 127.9 73)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 101)
-		(uuid "2729567d-ea64-4cf5-9570-ec3343977c9c")
-	)
-	(segment
-		(start 97.8 27.6)
-		(end 127.32 57.12)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 101)
-		(uuid "3bbdf3e3-185c-449a-b2a1-1fc6a33b46a5")
-	)
-	(segment
-		(start 127.32 57.12)
+		(start 127.32 63.42)
 		(end 127.32 72.42)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 101)
-		(uuid "7044b330-e475-4e1d-afb4-8d4567124c65")
+		(uuid "745401e7-2fd2-4a82-a3d0-68610c50a12f")
 	)
 	(segment
 		(start 127.5 106.6)
@@ -43688,20 +44018,20 @@
 		(uuid "9c3a1c8e-19f4-4fde-8910-6d466f2cca88")
 	)
 	(segment
+		(start 127.32 72.42)
+		(end 127.9 73)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 101)
+		(uuid "bcad6ef8-c0c6-46fa-abb0-d63b49231a46")
+	)
+	(segment
 		(start 127.9 73.9)
 		(end 127.5 74.3)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 101)
 		(uuid "da56bc58-980c-45c6-a3f5-352fc5db7acd")
-	)
-	(segment
-		(start 94.3 27.6)
-		(end 97.8 27.6)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 101)
-		(uuid "e7ffd103-9e56-4b32-be29-cf2f0b8ea65b")
 	)
 	(via
 		(at 94.3 27.6)
@@ -45390,28 +45720,29 @@
 				(xy 40.380201 97.526111) (xy 40.378532 97.532343) (xy 40.378531 97.532342) (xy 40.378531 97.532346)
 				(xy 40.3495 97.640688) (xy 40.3495 97.640691) (xy 40.3495 101.959309) (xy 40.36667 102.023387) (xy 40.379767 102.072267)
 				(xy 40.380202 102.07389) (xy 40.402264 102.112101) (xy 40.439511 102.176614) (xy 42.423386 104.16049)
-				(xy 42.526113 104.219799) (xy 42.550326 104.226286) (xy 42.595508 104.238393) (xy 42.640689 104.2505)
-				(xy 42.640691 104.2505) (xy 49.106884 104.2505) (xy 49.141532 104.264852) (xy 49.153133 104.283315)
-				(xy 49.170301 104.332376) (xy 49.170302 104.332378) (xy 49.170301 104.332378) (xy 49.247721 104.437278)
-				(xy 49.352621 104.514697) (xy 49.352624 104.514699) (xy 49.475685 104.55776) (xy 49.504905 104.5605)
-				(xy 50.795094 104.560499) (xy 50.824315 104.55776) (xy 50.865842 104.543228) (xy 50.903283 104.54533)
-				(xy 50.922099 104.561282) (xy 51.008291 104.683786) (xy 51.00831 104.683812) (xy 51.12586 104.792295)
-				(xy 51.263635 104.873565) (xy 51.415444 104.92397) (xy 51.574467 104.941245) (xy 51.733559 104.924616)
-				(xy 51.885571 104.874828) (xy 51.912468 104.85916) (xy 51.913128 104.85885) (xy 51.916511 104.856873)
-				(xy 51.916514 104.856873) (xy 51.9528 104.835674) (xy 51.956601 104.833674) (xy 51.990463 104.817706)
-				(xy 51.998551 104.81473) (xy 52.032598 104.805515) (xy 52.04108 104.804005) (xy 52.064393 104.801947)
-				(xy 52.078645 104.80069) (xy 52.082952 104.8005) (xy 52.124693 104.800504) (xy 52.124696 104.800502)
-				(xy 52.128949 104.800503) (xy 52.128996 104.8005) (xy 53.621069 104.8005) (xy 53.621127 104.800504)
-				(xy 53.625303 104.800503) (xy 53.625307 104.800505) (xy 53.667323 104.800501) (xy 53.671628 104.80069)
-				(xy 53.708917 104.803982) (xy 53.717409 104.805494) (xy 53.727984 104.808356) (xy 53.751452 104.814708)
-				(xy 53.759541 104.817683) (xy 53.793135 104.833523) (xy 53.797006 104.835564) (xy 53.812007 104.844352)
-				(xy 53.813082 104.844953) (xy 53.833485 104.856873) (xy 53.836623 104.858706) (xy 53.837714 104.85922)
-				(xy 53.864446 104.874791) (xy 54.01645 104.924576) (xy 54.175533 104.941204) (xy 54.334547 104.923929)
-				(xy 54.486348 104.873527) (xy 54.514493 104.856925) (xy 54.624109 104.792266) (xy 54.624116 104.792261)
-				(xy 54.74166 104.683785) (xy 54.82786 104.561267) (xy 54.859534 104.54119) (xy 54.884117 104.543214)
-				(xy 54.925685 104.55776) (xy 54.949575 104.56) (xy 54.954893 104.560499) (xy 54.954894 104.560499)
-				(xy 54.954905 104.5605) (xy 55.1005 104.560499) (xy 55.135148 104.574851) (xy 55.1495 104.609499)
-				(xy 55.1495 105.2005) (xy 55.135148 105.235148) (xy 55.1005 105.2495) (xy 42.462946 105.2495) (xy 42.440174 105.243887)
+				(xy 42.526113 104.219799) (xy 42.531411 104.221218) (xy 42.537416 104.222828) (xy 42.53742 104.222828)
+				(xy 42.537422 104.222829) (xy 42.583397 104.235148) (xy 42.640689 104.2505) (xy 42.640691 104.2505)
+				(xy 49.106884 104.2505) (xy 49.141532 104.264852) (xy 49.153133 104.283315) (xy 49.170301 104.332376)
+				(xy 49.170302 104.332378) (xy 49.170301 104.332378) (xy 49.247721 104.437278) (xy 49.352621 104.514697)
+				(xy 49.352624 104.514699) (xy 49.475685 104.55776) (xy 49.504905 104.5605) (xy 50.795094 104.560499)
+				(xy 50.824315 104.55776) (xy 50.865842 104.543228) (xy 50.903283 104.54533) (xy 50.922099 104.561282)
+				(xy 51.008291 104.683786) (xy 51.00831 104.683812) (xy 51.12586 104.792295) (xy 51.263635 104.873565)
+				(xy 51.415444 104.92397) (xy 51.574467 104.941245) (xy 51.733559 104.924616) (xy 51.885571 104.874828)
+				(xy 51.912468 104.85916) (xy 51.913128 104.85885) (xy 51.916511 104.856873) (xy 51.916514 104.856873)
+				(xy 51.9528 104.835674) (xy 51.956601 104.833674) (xy 51.990463 104.817706) (xy 51.998551 104.81473)
+				(xy 52.032598 104.805515) (xy 52.04108 104.804005) (xy 52.064393 104.801947) (xy 52.078645 104.80069)
+				(xy 52.082952 104.8005) (xy 52.124693 104.800504) (xy 52.124696 104.800502) (xy 52.128949 104.800503)
+				(xy 52.128996 104.8005) (xy 53.621069 104.8005) (xy 53.621127 104.800504) (xy 53.625303 104.800503)
+				(xy 53.625307 104.800505) (xy 53.667323 104.800501) (xy 53.671628 104.80069) (xy 53.708917 104.803982)
+				(xy 53.717409 104.805494) (xy 53.727984 104.808356) (xy 53.751452 104.814708) (xy 53.759541 104.817683)
+				(xy 53.793135 104.833523) (xy 53.797006 104.835564) (xy 53.812007 104.844352) (xy 53.813082 104.844953)
+				(xy 53.833485 104.856873) (xy 53.836623 104.858706) (xy 53.837714 104.85922) (xy 53.864446 104.874791)
+				(xy 54.01645 104.924576) (xy 54.175533 104.941204) (xy 54.334547 104.923929) (xy 54.486348 104.873527)
+				(xy 54.514493 104.856925) (xy 54.624109 104.792266) (xy 54.624116 104.792261) (xy 54.74166 104.683785)
+				(xy 54.82786 104.561267) (xy 54.859534 104.54119) (xy 54.884117 104.543214) (xy 54.925685 104.55776)
+				(xy 54.949575 104.56) (xy 54.954893 104.560499) (xy 54.954894 104.560499) (xy 54.954905 104.5605)
+				(xy 55.1005 104.560499) (xy 55.135148 104.574851) (xy 55.1495 104.609499) (xy 55.1495 105.2005)
+				(xy 55.135148 105.235148) (xy 55.1005 105.2495) (xy 42.462946 105.2495) (xy 42.440174 105.243887)
 				(xy 42.332364 105.187303) (xy 42.216788 105.158817) (xy 42.178985 105.1495) (xy 42.021015 105.1495)
 				(xy 41.990687 105.156975) (xy 41.867635 105.187303) (xy 41.72776 105.260716) (xy 41.60952 105.365466)
 				(xy 41.609516 105.365471) (xy 41.51978 105.495475) (xy 41.463763 105.64318) (xy 41.460056 105.673713)
@@ -46169,84 +46500,85 @@
 				(xy 42.432992 114.655326) (xy 42.449411 114.689044) (xy 42.4495 114.692004) (xy 42.4495 117.259311)
 				(xy 42.473666 117.349498) (xy 42.473666 117.349499) (xy 42.4802 117.373885) (xy 42.480201 117.373888)
 				(xy 42.515215 117.434533) (xy 42.539511 117.476614) (xy 45.623386 120.56049) (xy 45.623389 120.560491)
-				(xy 45.623392 120.560494) (xy 45.657326 120.580085) (xy 45.726113 120.619799) (xy 45.750326 120.626286)
-				(xy 45.795508 120.638393) (xy 45.840689 120.6505) (xy 45.840691 120.6505) (xy 49.106884 120.6505)
-				(xy 49.141532 120.664852) (xy 49.153133 120.683315) (xy 49.170301 120.732376) (xy 49.170302 120.732378)
-				(xy 49.170301 120.732378) (xy 49.247721 120.837278) (xy 49.352621 120.914697) (xy 49.352624 120.914699)
-				(xy 49.475685 120.95776) (xy 49.504905 120.9605) (xy 50.795094 120.960499) (xy 50.824315 120.95776)
-				(xy 50.865842 120.943228) (xy 50.903283 120.94533) (xy 50.922099 120.961282) (xy 51.008291 121.083786)
-				(xy 51.00831 121.083812) (xy 51.12586 121.192295) (xy 51.263635 121.273565) (xy 51.415444 121.32397)
-				(xy 51.574467 121.341245) (xy 51.733559 121.324616) (xy 51.885571 121.274828) (xy 51.912468 121.25916)
-				(xy 51.913128 121.25885) (xy 51.916511 121.256873) (xy 51.916514 121.256873) (xy 51.9528 121.235674)
-				(xy 51.956601 121.233674) (xy 51.990463 121.217706) (xy 51.998551 121.21473) (xy 52.032598 121.205515)
-				(xy 52.04108 121.204005) (xy 52.064393 121.201947) (xy 52.078645 121.20069) (xy 52.082952 121.2005)
-				(xy 52.124693 121.200504) (xy 52.124696 121.200502) (xy 52.128949 121.200503) (xy 52.128996 121.2005)
-				(xy 53.621069 121.2005) (xy 53.621127 121.200504) (xy 53.625303 121.200503) (xy 53.625307 121.200505)
-				(xy 53.667323 121.200501) (xy 53.671628 121.20069) (xy 53.708917 121.203982) (xy 53.717409 121.205494)
-				(xy 53.727984 121.208356) (xy 53.751452 121.214708) (xy 53.759541 121.217683) (xy 53.793135 121.233523)
-				(xy 53.797006 121.235564) (xy 53.812007 121.244352) (xy 53.813082 121.244953) (xy 53.833485 121.256873)
-				(xy 53.836623 121.258706) (xy 53.837714 121.25922) (xy 53.864446 121.274791) (xy 54.01645 121.324576)
-				(xy 54.175533 121.341204) (xy 54.334547 121.323929) (xy 54.486348 121.273527) (xy 54.514493 121.256925)
-				(xy 54.624109 121.192266) (xy 54.624116 121.192261) (xy 54.74166 121.083785) (xy 54.82786 120.961267)
-				(xy 54.859534 120.94119) (xy 54.884117 120.943214) (xy 54.925685 120.95776) (xy 54.949575 120.96)
-				(xy 54.954893 120.960499) (xy 54.954894 120.960499) (xy 54.954905 120.9605) (xy 55.1005 120.960499)
-				(xy 55.135148 120.974851) (xy 55.1495 121.009499) (xy 55.1495 121.5005) (xy 55.135148 121.535148)
-				(xy 55.1005 121.5495) (xy 43.091039 121.5495) (xy 43.058546 121.537177) (xy 42.972239 121.460716)
-				(xy 42.832364 121.387303) (xy 42.716788 121.358817) (xy 42.678985 121.3495) (xy 42.521015 121.3495)
-				(xy 42.490687 121.356975) (xy 42.367635 121.387303) (xy 42.22776 121.460716) (xy 42.10952 121.565466)
-				(xy 42.109516 121.565471) (xy 42.01978 121.695475) (xy 41.963763 121.84318) (xy 41.944722 122) (xy 41.255278 122)
-				(xy 41.236237 121.843182) (xy 41.18022 121.695477) (xy 41.090483 121.56547) (xy 41.067006 121.544671)
-				(xy 41.050589 121.510953) (xy 41.0505 121.507995) (xy 41.0505 107.506899) (xy 41.064852 107.472251)
-				(xy 41.837103 106.7) (xy 51.225 106.7) (xy 51.225 106.887687) (xy 51.239799 107.000104) (xy 51.297735 107.139976)
-				(xy 51.297738 107.139981) (xy 51.389904 107.260094) (xy 51.389905 107.260095) (xy 51.510018 107.352261)
-				(xy 51.510023 107.352264) (xy 51.649895 107.4102) (xy 51.762312 107.425) (xy 51.925 107.425) (xy 51.925 106.7)
-				(xy 51.225 106.7) (xy 41.837103 106.7) (xy 42.072251 106.464852) (xy 42.106899 106.4505) (xy 42.178983 106.4505)
-				(xy 42.178985 106.4505) (xy 42.332365 106.412696) (xy 42.47224 106.339283) (xy 42.590483 106.23453)
-				(xy 42.633875 106.171663) (xy 42.665368 106.151303) (xy 42.674201 106.1505) (xy 51.190429 106.1505)
-				(xy 51.225077 106.164852) (xy 51.239429 106.1995) (xy 51.23901 106.205896) (xy 51.225 106.312312)
-				(xy 51.225 106.5) (xy 52.076 106.5) (xy 52.110648 106.514352) (xy 52.125 106.549) (xy 52.125 107.425)
-				(xy 52.287687 107.425) (xy 52.400104 107.4102) (xy 52.539976 107.352264) (xy 52.539981 107.352261)
-				(xy 52.660094 107.260095) (xy 52.660095 107.260094) (xy 52.752258 107.139984) (xy 52.75226 107.139982)
-				(xy 52.754457 107.134678) (xy 52.780974 107.108157) (xy 52.818477 107.108154) (xy 52.844998 107.134671)
-				(xy 52.844998 107.134673) (xy 52.847298 107.140226) (xy 52.847302 107.140233) (xy 52.924386 107.240691)
-				(xy 52.939549 107.260451) (xy 53.059767 107.352698) (xy 53.059769 107.352698) (xy 53.059771 107.3527)
-				(xy 53.093027 107.366475) (xy 53.199764 107.410687) (xy 53.31228 107.4255) (xy 53.312284 107.4255)
-				(xy 53.837716 107.4255) (xy 53.83772 107.4255) (xy 53.950236 107.410687) (xy 54.090233 107.352698)
-				(xy 54.210451 107.260451) (xy 54.302698 107.140233) (xy 54.360687 107.000236) (xy 54.3755 106.88772)
-				(xy 54.3755 106.7) (xy 67.825 106.7) (xy 67.825 106.887687) (xy 67.839799 107.000104) (xy 67.897735 107.139976)
-				(xy 67.897738 107.139981) (xy 67.989904 107.260094) (xy 67.989905 107.260095) (xy 68.110018 107.352261)
-				(xy 68.110023 107.352264) (xy 68.249895 107.4102) (xy 68.362312 107.425) (xy 68.525 107.425) (xy 68.525 106.7)
-				(xy 67.825 106.7) (xy 54.3755 106.7) (xy 54.3755 106.31228) (xy 54.361494 106.205895) (xy 54.371201 106.169671)
-				(xy 54.403679 106.150919) (xy 54.410075 106.1505) (xy 55.640691 106.1505) (xy 67.790429 106.1505)
-				(xy 67.825077 106.164852) (xy 67.839429 106.1995) (xy 67.83901 106.205896) (xy 67.825 106.312312)
-				(xy 67.825 106.5) (xy 68.676 106.5) (xy 68.710648 106.514352) (xy 68.725 106.549) (xy 68.725 107.425)
-				(xy 68.887687 107.425) (xy 69.000104 107.4102) (xy 69.139976 107.352264) (xy 69.139981 107.352261)
-				(xy 69.260094 107.260095) (xy 69.260095 107.260094) (xy 69.352258 107.139984) (xy 69.35226 107.139982)
-				(xy 69.354457 107.134678) (xy 69.380974 107.108157) (xy 69.418477 107.108154) (xy 69.444998 107.134671)
-				(xy 69.444998 107.134673) (xy 69.447298 107.140226) (xy 69.447302 107.140233) (xy 69.524386 107.240691)
-				(xy 69.539549 107.260451) (xy 69.659767 107.352698) (xy 69.659769 107.352698) (xy 69.659771 107.3527)
-				(xy 69.693027 107.366475) (xy 69.799764 107.410687) (xy 69.91228 107.4255) (xy 69.912284 107.4255)
-				(xy 70.437716 107.4255) (xy 70.43772 107.4255) (xy 70.550236 107.410687) (xy 70.690233 107.352698)
-				(xy 70.810451 107.260451) (xy 70.902698 107.140233) (xy 70.960687 107.000236) (xy 70.9755 106.88772)
-				(xy 70.9755 106.31228) (xy 70.961494 106.205895) (xy 70.971201 106.169671) (xy 71.003679 106.150919)
-				(xy 71.010075 106.1505) (xy 72.240691 106.1505) (xy 84.390429 106.1505) (xy 84.425077 106.164852)
-				(xy 84.439429 106.1995) (xy 84.43901 106.205896) (xy 84.425 106.312312) (xy 84.425 106.5) (xy 85.276 106.5)
-				(xy 85.310648 106.514352) (xy 85.325 106.549) (xy 85.325 107.425) (xy 85.487687 107.425) (xy 85.600104 107.4102)
-				(xy 85.739976 107.352264) (xy 85.739981 107.352261) (xy 85.860094 107.260095) (xy 85.860095 107.260094)
-				(xy 85.952258 107.139984) (xy 85.95226 107.139982) (xy 85.954457 107.134678) (xy 85.980974 107.108157)
-				(xy 86.018477 107.108154) (xy 86.044998 107.134671) (xy 86.044998 107.134673) (xy 86.047298 107.140226)
-				(xy 86.047302 107.140233) (xy 86.124386 107.240691) (xy 86.139549 107.260451) (xy 86.259767 107.352698)
-				(xy 86.259769 107.352698) (xy 86.259771 107.3527) (xy 86.293027 107.366475) (xy 86.399764 107.410687)
-				(xy 86.51228 107.4255) (xy 86.512284 107.4255) (xy 87.037716 107.4255) (xy 87.03772 107.4255) (xy 87.150236 107.410687)
-				(xy 87.290233 107.352698) (xy 87.410451 107.260451) (xy 87.502698 107.140233) (xy 87.560687 107.000236)
-				(xy 87.5755 106.88772) (xy 87.5755 106.7) (xy 101.025 106.7) (xy 101.025 106.887687) (xy 101.039799 107.000104)
-				(xy 101.097735 107.139976) (xy 101.097738 107.139981) (xy 101.189904 107.260094) (xy 101.189905 107.260095)
-				(xy 101.310018 107.352261) (xy 101.310023 107.352264) (xy 101.449895 107.4102) (xy 101.562312 107.425)
-				(xy 101.725 107.425) (xy 101.725 106.7) (xy 101.025 106.7) (xy 87.5755 106.7) (xy 87.5755 106.31228)
-				(xy 87.561494 106.205895) (xy 87.571201 106.169671) (xy 87.603679 106.150919) (xy 87.610075 106.1505)
-				(xy 88.740691 106.1505) (xy 100.990429 106.1505) (xy 101.025077 106.164852) (xy 101.039429 106.1995)
-				(xy 101.03901 106.205896) (xy 101.025 106.312312) (xy 101.025 106.5) (xy 101.876 106.5) (xy 101.910648 106.514352)
-				(xy 101.925 106.549) (xy 101.925 107.425) (xy 102.087687 107.425) (xy 102.200104 107.4102) (xy 102.339976 107.352264)
+				(xy 45.623392 120.560494) (xy 45.657326 120.580085) (xy 45.726113 120.619799) (xy 45.731411 120.621218)
+				(xy 45.737416 120.622828) (xy 45.73742 120.622828) (xy 45.737422 120.622829) (xy 45.781102 120.634533)
+				(xy 45.840689 120.6505) (xy 45.840691 120.6505) (xy 49.106884 120.6505) (xy 49.141532 120.664852)
+				(xy 49.153133 120.683315) (xy 49.170301 120.732376) (xy 49.170302 120.732378) (xy 49.170301 120.732378)
+				(xy 49.247721 120.837278) (xy 49.352621 120.914697) (xy 49.352624 120.914699) (xy 49.475685 120.95776)
+				(xy 49.504905 120.9605) (xy 50.795094 120.960499) (xy 50.824315 120.95776) (xy 50.865842 120.943228)
+				(xy 50.903283 120.94533) (xy 50.922099 120.961282) (xy 51.008291 121.083786) (xy 51.00831 121.083812)
+				(xy 51.12586 121.192295) (xy 51.263635 121.273565) (xy 51.415444 121.32397) (xy 51.574467 121.341245)
+				(xy 51.733559 121.324616) (xy 51.885571 121.274828) (xy 51.912468 121.25916) (xy 51.913128 121.25885)
+				(xy 51.916511 121.256873) (xy 51.916514 121.256873) (xy 51.9528 121.235674) (xy 51.956601 121.233674)
+				(xy 51.990463 121.217706) (xy 51.998551 121.21473) (xy 52.032598 121.205515) (xy 52.04108 121.204005)
+				(xy 52.064393 121.201947) (xy 52.078645 121.20069) (xy 52.082952 121.2005) (xy 52.124693 121.200504)
+				(xy 52.124696 121.200502) (xy 52.128949 121.200503) (xy 52.128996 121.2005) (xy 53.621069 121.2005)
+				(xy 53.621127 121.200504) (xy 53.625303 121.200503) (xy 53.625307 121.200505) (xy 53.667323 121.200501)
+				(xy 53.671628 121.20069) (xy 53.708917 121.203982) (xy 53.717409 121.205494) (xy 53.727984 121.208356)
+				(xy 53.751452 121.214708) (xy 53.759541 121.217683) (xy 53.793135 121.233523) (xy 53.797006 121.235564)
+				(xy 53.812007 121.244352) (xy 53.813082 121.244953) (xy 53.833485 121.256873) (xy 53.836623 121.258706)
+				(xy 53.837714 121.25922) (xy 53.864446 121.274791) (xy 54.01645 121.324576) (xy 54.175533 121.341204)
+				(xy 54.334547 121.323929) (xy 54.486348 121.273527) (xy 54.514493 121.256925) (xy 54.624109 121.192266)
+				(xy 54.624116 121.192261) (xy 54.74166 121.083785) (xy 54.82786 120.961267) (xy 54.859534 120.94119)
+				(xy 54.884117 120.943214) (xy 54.925685 120.95776) (xy 54.949575 120.96) (xy 54.954893 120.960499)
+				(xy 54.954894 120.960499) (xy 54.954905 120.9605) (xy 55.1005 120.960499) (xy 55.135148 120.974851)
+				(xy 55.1495 121.009499) (xy 55.1495 121.5005) (xy 55.135148 121.535148) (xy 55.1005 121.5495) (xy 43.091039 121.5495)
+				(xy 43.058546 121.537177) (xy 42.972239 121.460716) (xy 42.832364 121.387303) (xy 42.716788 121.358817)
+				(xy 42.678985 121.3495) (xy 42.521015 121.3495) (xy 42.490687 121.356975) (xy 42.367635 121.387303)
+				(xy 42.22776 121.460716) (xy 42.10952 121.565466) (xy 42.109516 121.565471) (xy 42.01978 121.695475)
+				(xy 41.963763 121.84318) (xy 41.944722 122) (xy 41.255278 122) (xy 41.236237 121.843182) (xy 41.18022 121.695477)
+				(xy 41.090483 121.56547) (xy 41.067006 121.544671) (xy 41.050589 121.510953) (xy 41.0505 121.507995)
+				(xy 41.0505 107.506899) (xy 41.064852 107.472251) (xy 41.837103 106.7) (xy 51.225 106.7) (xy 51.225 106.887687)
+				(xy 51.239799 107.000104) (xy 51.297735 107.139976) (xy 51.297738 107.139981) (xy 51.389904 107.260094)
+				(xy 51.389905 107.260095) (xy 51.510018 107.352261) (xy 51.510023 107.352264) (xy 51.649895 107.4102)
+				(xy 51.762312 107.425) (xy 51.925 107.425) (xy 51.925 106.7) (xy 51.225 106.7) (xy 41.837103 106.7)
+				(xy 42.072251 106.464852) (xy 42.106899 106.4505) (xy 42.178983 106.4505) (xy 42.178985 106.4505)
+				(xy 42.332365 106.412696) (xy 42.47224 106.339283) (xy 42.590483 106.23453) (xy 42.633875 106.171663)
+				(xy 42.665368 106.151303) (xy 42.674201 106.1505) (xy 51.190429 106.1505) (xy 51.225077 106.164852)
+				(xy 51.239429 106.1995) (xy 51.23901 106.205896) (xy 51.225 106.312312) (xy 51.225 106.5) (xy 52.076 106.5)
+				(xy 52.110648 106.514352) (xy 52.125 106.549) (xy 52.125 107.425) (xy 52.287687 107.425) (xy 52.400104 107.4102)
+				(xy 52.539976 107.352264) (xy 52.539981 107.352261) (xy 52.660094 107.260095) (xy 52.660095 107.260094)
+				(xy 52.752258 107.139984) (xy 52.75226 107.139982) (xy 52.754457 107.134678) (xy 52.780974 107.108157)
+				(xy 52.818477 107.108154) (xy 52.844998 107.134671) (xy 52.844998 107.134673) (xy 52.847298 107.140226)
+				(xy 52.847302 107.140233) (xy 52.924386 107.240691) (xy 52.939549 107.260451) (xy 53.059767 107.352698)
+				(xy 53.059769 107.352698) (xy 53.059771 107.3527) (xy 53.093027 107.366475) (xy 53.199764 107.410687)
+				(xy 53.31228 107.4255) (xy 53.312284 107.4255) (xy 53.837716 107.4255) (xy 53.83772 107.4255) (xy 53.950236 107.410687)
+				(xy 54.090233 107.352698) (xy 54.210451 107.260451) (xy 54.302698 107.140233) (xy 54.360687 107.000236)
+				(xy 54.3755 106.88772) (xy 54.3755 106.7) (xy 67.825 106.7) (xy 67.825 106.887687) (xy 67.839799 107.000104)
+				(xy 67.897735 107.139976) (xy 67.897738 107.139981) (xy 67.989904 107.260094) (xy 67.989905 107.260095)
+				(xy 68.110018 107.352261) (xy 68.110023 107.352264) (xy 68.249895 107.4102) (xy 68.362312 107.425)
+				(xy 68.525 107.425) (xy 68.525 106.7) (xy 67.825 106.7) (xy 54.3755 106.7) (xy 54.3755 106.31228)
+				(xy 54.361494 106.205895) (xy 54.371201 106.169671) (xy 54.403679 106.150919) (xy 54.410075 106.1505)
+				(xy 55.640691 106.1505) (xy 67.790429 106.1505) (xy 67.825077 106.164852) (xy 67.839429 106.1995)
+				(xy 67.83901 106.205896) (xy 67.825 106.312312) (xy 67.825 106.5) (xy 68.676 106.5) (xy 68.710648 106.514352)
+				(xy 68.725 106.549) (xy 68.725 107.425) (xy 68.887687 107.425) (xy 69.000104 107.4102) (xy 69.139976 107.352264)
+				(xy 69.139981 107.352261) (xy 69.260094 107.260095) (xy 69.260095 107.260094) (xy 69.352258 107.139984)
+				(xy 69.35226 107.139982) (xy 69.354457 107.134678) (xy 69.380974 107.108157) (xy 69.418477 107.108154)
+				(xy 69.444998 107.134671) (xy 69.444998 107.134673) (xy 69.447298 107.140226) (xy 69.447302 107.140233)
+				(xy 69.524386 107.240691) (xy 69.539549 107.260451) (xy 69.659767 107.352698) (xy 69.659769 107.352698)
+				(xy 69.659771 107.3527) (xy 69.693027 107.366475) (xy 69.799764 107.410687) (xy 69.91228 107.4255)
+				(xy 69.912284 107.4255) (xy 70.437716 107.4255) (xy 70.43772 107.4255) (xy 70.550236 107.410687)
+				(xy 70.690233 107.352698) (xy 70.810451 107.260451) (xy 70.902698 107.140233) (xy 70.960687 107.000236)
+				(xy 70.9755 106.88772) (xy 70.9755 106.31228) (xy 70.961494 106.205895) (xy 70.971201 106.169671)
+				(xy 71.003679 106.150919) (xy 71.010075 106.1505) (xy 72.240691 106.1505) (xy 84.390429 106.1505)
+				(xy 84.425077 106.164852) (xy 84.439429 106.1995) (xy 84.43901 106.205896) (xy 84.425 106.312312)
+				(xy 84.425 106.5) (xy 85.276 106.5) (xy 85.310648 106.514352) (xy 85.325 106.549) (xy 85.325 107.425)
+				(xy 85.487687 107.425) (xy 85.600104 107.4102) (xy 85.739976 107.352264) (xy 85.739981 107.352261)
+				(xy 85.860094 107.260095) (xy 85.860095 107.260094) (xy 85.952258 107.139984) (xy 85.95226 107.139982)
+				(xy 85.954457 107.134678) (xy 85.980974 107.108157) (xy 86.018477 107.108154) (xy 86.044998 107.134671)
+				(xy 86.044998 107.134673) (xy 86.047298 107.140226) (xy 86.047302 107.140233) (xy 86.124386 107.240691)
+				(xy 86.139549 107.260451) (xy 86.259767 107.352698) (xy 86.259769 107.352698) (xy 86.259771 107.3527)
+				(xy 86.293027 107.366475) (xy 86.399764 107.410687) (xy 86.51228 107.4255) (xy 86.512284 107.4255)
+				(xy 87.037716 107.4255) (xy 87.03772 107.4255) (xy 87.150236 107.410687) (xy 87.290233 107.352698)
+				(xy 87.410451 107.260451) (xy 87.502698 107.140233) (xy 87.560687 107.000236) (xy 87.5755 106.88772)
+				(xy 87.5755 106.7) (xy 101.025 106.7) (xy 101.025 106.887687) (xy 101.039799 107.000104) (xy 101.097735 107.139976)
+				(xy 101.097738 107.139981) (xy 101.189904 107.260094) (xy 101.189905 107.260095) (xy 101.310018 107.352261)
+				(xy 101.310023 107.352264) (xy 101.449895 107.4102) (xy 101.562312 107.425) (xy 101.725 107.425)
+				(xy 101.725 106.7) (xy 101.025 106.7) (xy 87.5755 106.7) (xy 87.5755 106.31228) (xy 87.561494 106.205895)
+				(xy 87.571201 106.169671) (xy 87.603679 106.150919) (xy 87.610075 106.1505) (xy 88.740691 106.1505)
+				(xy 100.990429 106.1505) (xy 101.025077 106.164852) (xy 101.039429 106.1995) (xy 101.03901 106.205896)
+				(xy 101.025 106.312312) (xy 101.025 106.5) (xy 101.876 106.5) (xy 101.910648 106.514352) (xy 101.925 106.549)
+				(xy 101.925 107.425) (xy 102.087687 107.425) (xy 102.200104 107.4102) (xy 102.339976 107.352264)
 				(xy 102.339981 107.352261) (xy 102.460094 107.260095) (xy 102.460095 107.260094) (xy 102.552258 107.139984)
 				(xy 102.55226 107.139982) (xy 102.554457 107.134678) (xy 102.580974 107.108157) (xy 102.618477 107.108154)
 				(xy 102.644998 107.134671) (xy 102.644998 107.134673) (xy 102.647298 107.140226) (xy 102.647302 107.140233)
@@ -47643,8 +47975,9 @@
 				(xy 44.739511 64.023385) (xy 44.680201 64.126111) (xy 44.678532 64.132343) (xy 44.678531 64.132342)
 				(xy 44.678531 64.132346) (xy 44.6495 64.240688) (xy 44.6495 69.95931) (xy 44.673713 70.049672) (xy 44.673713 70.049673)
 				(xy 44.6802 70.073886) (xy 44.680201 70.073888) (xy 44.716594 70.136921) (xy 44.739511 70.176614)
-				(xy 45.923386 71.360489) (xy 46.026113 71.419799) (xy 46.050326 71.426286) (xy 46.095508 71.438393)
-				(xy 46.140689 71.4505) (xy 46.140691 71.4505) (xy 49.106884 71.4505) (xy 49.141532 71.464852) (xy 49.153133 71.483315)
+				(xy 45.923386 71.360489) (xy 46.026113 71.419799) (xy 46.031007 71.42111) (xy 46.037416 71.422828)
+				(xy 46.03742 71.422828) (xy 46.037422 71.422829) (xy 46.089056 71.436664) (xy 46.140689 71.4505)
+				(xy 46.140691 71.4505) (xy 49.106884 71.4505) (xy 49.141532 71.464852) (xy 49.153133 71.483315)
 				(xy 49.170301 71.532376) (xy 49.170302 71.532378) (xy 49.170301 71.532378) (xy 49.247721 71.637278)
 				(xy 49.352621 71.714697) (xy 49.352624 71.714699) (xy 49.475685 71.75776) (xy 49.504905 71.7605)
 				(xy 50.795094 71.760499) (xy 50.824315 71.75776) (xy 50.865842 71.743228) (xy 50.903283 71.74533)
