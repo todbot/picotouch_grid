@@ -2532,6 +2532,16 @@
 	)
 	(wire
 		(pts
+			(xy 80.01 212.09) (xy 90.17 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03a23591-c568-4c53-9e7b-ae9c20ba417b")
+	)
+	(wire
+		(pts
 			(xy 161.29 190.5) (xy 170.18 190.5)
 		)
 		(stroke
@@ -2682,6 +2692,16 @@
 	)
 	(wire
 		(pts
+			(xy 80.01 209.55) (xy 90.17 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1055663c-1923-4df0-a5a1-9f49fe00cde5")
+	)
+	(wire
+		(pts
 			(xy 317.5 68.58) (xy 309.88 68.58)
 		)
 		(stroke
@@ -2779,6 +2799,16 @@
 			(type default)
 		)
 		(uuid "1fb76ba9-9900-450d-9e73-3e3344c4c5ab")
+	)
+	(wire
+		(pts
+			(xy 163.83 31.75) (xy 179.07 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21cc191b-005c-42be-b6ae-72022bdf857f")
 	)
 	(wire
 		(pts
@@ -2902,6 +2932,16 @@
 	)
 	(wire
 		(pts
+			(xy 80.01 207.01) (xy 90.17 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "339cdd71-1ced-452d-bdb7-f17e8600986c")
+	)
+	(wire
+		(pts
 			(xy 127 210.82) (xy 135.89 210.82)
 		)
 		(stroke
@@ -2909,6 +2949,26 @@
 			(type default)
 		)
 		(uuid "3429cd7c-ccc2-49b4-a817-9adc81d8d619")
+	)
+	(wire
+		(pts
+			(xy 45.72 207.01) (xy 54.61 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "370c4f48-38b0-49b7-963f-bc1621c42f93")
+	)
+	(wire
+		(pts
+			(xy 80.01 214.63) (xy 90.17 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3830adfd-6930-4d0e-9d2d-947aefc474c6")
 	)
 	(wire
 		(pts
@@ -2949,6 +3009,26 @@
 			(type default)
 		)
 		(uuid "3d461a45-ecb3-47d5-8b99-9fb510384c98")
+	)
+	(wire
+		(pts
+			(xy 45.72 212.09) (xy 54.61 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d5dd2a6-a7d0-4808-a220-2c3cd98e5883")
+	)
+	(wire
+		(pts
+			(xy 87.63 54.61) (xy 99.06 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3def2ac5-fca3-4dd9-a636-80d942e52e5d")
 	)
 	(wire
 		(pts
@@ -3029,6 +3109,16 @@
 			(type default)
 		)
 		(uuid "47654e01-9e62-4c15-b1b3-bde73d995473")
+	)
+	(wire
+		(pts
+			(xy 80.01 189.23) (xy 90.17 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48b2aac9-304a-4301-b728-3259c8428cf4")
 	)
 	(wire
 		(pts
@@ -3129,6 +3219,16 @@
 			(type default)
 		)
 		(uuid "510ccc5f-d240-4c48-a29a-2d7590157d12")
+	)
+	(wire
+		(pts
+			(xy 80.01 186.69) (xy 90.17 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53437c6c-0866-47a8-bc1e-eb14d1551fb4")
 	)
 	(wire
 		(pts
@@ -3299,6 +3399,16 @@
 			(type default)
 		)
 		(uuid "69b42ba3-1b81-45d3-bf2a-eee2e664b78b")
+	)
+	(wire
+		(pts
+			(xy 80.01 181.61) (xy 90.17 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69d44185-97f5-464c-9a27-6e7c0a43f269")
 	)
 	(wire
 		(pts
@@ -3562,6 +3672,16 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 214.63) (xy 54.61 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b11665e-778d-4863-bf64-f8ff8eac89f3")
+	)
+	(wire
+		(pts
 			(xy 194.31 185.42) (xy 203.2 185.42)
 		)
 		(stroke
@@ -3629,6 +3749,16 @@
 			(type default)
 		)
 		(uuid "9228f72c-9a38-450a-96d5-00db2cc94945")
+	)
+	(wire
+		(pts
+			(xy 45.72 209.55) (xy 54.61 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "922d9dd5-2f54-4ff1-8a3a-6693827793d7")
 	)
 	(wire
 		(pts
@@ -4192,6 +4322,16 @@
 	)
 	(wire
 		(pts
+			(xy 80.01 184.15) (xy 90.17 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3fd839e-d3c7-4d51-87b7-67286e6fef0b")
+	)
+	(wire
+		(pts
 			(xy 401.32 120.65) (xy 161.29 120.65)
 		)
 		(stroke
@@ -4282,6 +4422,16 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 199.39) (xy 54.61 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed447e6a-5758-4599-9a0c-95067b6b3568")
+	)
+	(wire
+		(pts
 			(xy 262.89 31.75) (xy 271.78 31.75)
 		)
 		(stroke
@@ -4299,6 +4449,16 @@
 			(type default)
 		)
 		(uuid "ee84942b-3a40-418b-a3aa-776c06ec58de")
+	)
+	(wire
+		(pts
+			(xy 45.72 201.93) (xy 54.61 201.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef6df962-e856-4dd6-bf6a-b8cc5860f795")
 	)
 	(wire
 		(pts
@@ -4399,16 +4559,6 @@
 			(type default)
 		)
 		(uuid "fa36cc16-0fad-4f91-80a7-17755c78c17b")
-	)
-	(wire
-		(pts
-			(xy 170.18 31.75) (xy 179.07 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fa41a530-f085-4a0a-8c9f-69ee37f34867")
 	)
 	(wire
 		(pts
@@ -4587,6 +4737,17 @@
 		)
 		(uuid "0cada920-3212-462b-bd3d-5d39ad942284")
 	)
+	(label "tp15"
+		(at 45.72 212.09 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1104c35c-647d-42ae-9510-07a9812ce4af")
+	)
 	(label "tp38"
 		(at 45.72 245.11 0)
 		(fields_autoplaced yes)
@@ -4619,6 +4780,17 @@
 			(justify left bottom)
 		)
 		(uuid "14ead123-a868-44ba-9458-36e6211d191e")
+	)
+	(label "tp1"
+		(at 45.72 214.63 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "179aa87b-b2bb-4ccf-aab5-0b2b1be55141")
 	)
 	(label "tp29"
 		(at 87.63 234.95 0)
@@ -4796,6 +4968,28 @@
 		)
 		(uuid "4ef3a866-d17b-442a-9bbd-0b23c14b6a7c")
 	)
+	(label "tp11"
+		(at 45.72 199.39 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5ad91b53-631d-4399-a782-472cbc44d7b0")
+	)
+	(label "NEOPIXEL_DATA"
+		(at 163.83 31.75 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5f13f76a-494b-497f-a0ff-b43bb2ed34eb")
+	)
 	(label "tp15"
 		(at 161.29 205.74 0)
 		(fields_autoplaced yes)
@@ -4828,6 +5022,17 @@
 			(justify left bottom)
 		)
 		(uuid "66a8f664-c7b2-4bc1-9059-b96e4728bb0c")
+	)
+	(label "tp14"
+		(at 45.72 209.55 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6d55a833-3b6c-4aeb-ad68-e6dae594218b")
 	)
 	(label "tp9"
 		(at 127 226.06 0)
@@ -4961,6 +5166,17 @@
 		)
 		(uuid "87f2e2a6-ad72-4655-baa9-2545f1354c13")
 	)
+	(label "tp12"
+		(at 45.72 201.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8be21ca4-ef8c-4232-b252-5e86d0c322d7")
+	)
 	(label "tp33"
 		(at 45.72 260.35 0)
 		(fields_autoplaced yes)
@@ -5092,6 +5308,28 @@
 			(justify left bottom)
 		)
 		(uuid "abbe17a5-b47a-4124-8d6d-859650e01f8f")
+	)
+	(label "tp13"
+		(at 45.72 207.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ad1b5026-4b6d-44d3-9522-72782e580db1")
+	)
+	(label "NEOPIXEL_DATA"
+		(at 90.17 54.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "af38f772-b41c-4390-975d-b8783aa71a29")
 	)
 	(label "tp27"
 		(at 194.31 215.9 0)
@@ -11221,6 +11459,75 @@
 	)
 	(symbol
 		(lib_id "Device:C")
+		(at 29.21 170.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "56d53435-a20e-4696-a2e3-7234ce0c0fa1")
+		(property "Reference" "C41"
+			(at 22.606 168.656 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF"
+			(at 21.59 171.196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 30.1752 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 29.21 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 29.21 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "dcfda5cb-77d4-4bb0-90df-903416fd8aff")
+		)
+		(pin "1"
+			(uuid "81274dcf-2595-48bd-9f9c-7962239c2d71")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "C41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
 		(at 247.65 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12012,6 +12319,72 @@
 			(project "picotouch_grid"
 				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
 					(reference "#PWR0116")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 27.94 224.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "690f244f-f10c-4a0f-9b7e-498912d35caa")
+		(property "Reference" "#PWR0144"
+			(at 27.94 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 27.94 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 27.94 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.94 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 27.94 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0957fc2c-29fa-4e88-a251-632c5b584daf")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "#PWR0144")
 					(unit 1)
 				)
 			)
@@ -15292,6 +15665,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 29.21 173.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "929d565b-db8b-41d2-ad09-a693bf7b13c0")
+		(property "Reference" "#PWR0142"
+			(at 29.21 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 26.924 174.244 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 29.21 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 29.21 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 29.21 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "560059d9-d6d6-4949-ae2e-debcede79508")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "#PWR0142")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "PCM_marbastlib-various:SK6812MINI-E")
 		(at 393.7 68.58 0)
 		(unit 1)
@@ -15628,6 +16066,75 @@
 			(project "picotouch_grid"
 				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
 					(reference "#PWR0140")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 27.94 228.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "964779fc-c9f5-437d-981f-8df9a0cf594e")
+		(property "Reference" "C42"
+			(at 21.336 227.076 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF"
+			(at 20.32 229.616 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 28.9052 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 27.94 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 27.94 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "46b48b2e-c34e-47c5-978b-6187d0df1611")
+		)
+		(pin "1"
+			(uuid "416f4c38-ca19-460c-a424-57847379781b")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "C42")
 					(unit 1)
 				)
 			)
@@ -17979,6 +18486,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 27.94 232.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b7809208-1090-439d-8558-1afdd783a1cf")
+		(property "Reference" "#PWR0145"
+			(at 27.94 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 25.654 232.664 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 27.94 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.94 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 27.94 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "50e4fb03-73e1-4b8e-be89-3a61124bd819")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "#PWR0145")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "PCM_marbastlib-various:SK6812MINI-E")
 		(at 302.26 68.58 0)
 		(unit 1)
@@ -19261,6 +19833,72 @@
 			(project "picotouch_grid"
 				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
 					(reference "LED28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 29.21 166.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c455e48e-55d1-4ae8-839f-1e54880422ef")
+		(property "Reference" "#PWR0143"
+			(at 29.21 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 29.21 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 29.21 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 29.21 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 29.21 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "378cc91d-8227-4993-a0b7-06a394b139da")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "#PWR0143")
 					(unit 1)
 				)
 			)
@@ -20903,7 +21541,8 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 203.2 210.82 270)
+		(at 203.2 210.82 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20911,7 +21550,7 @@
 		(dnp no)
 		(uuid "dc725b83-65ae-43f3-b85b-c2da9afecb0f")
 		(property "Reference" "TP26"
-			(at 207.264 210.82 90)
+			(at 199.136 210.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20920,7 +21559,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 206.502 208.28 90)
+			(at 199.898 208.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20929,7 +21568,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 195.58 210.82 0)
+			(at 210.82 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20938,7 +21577,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 193.04 210.82 0)
+			(at 213.36 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
