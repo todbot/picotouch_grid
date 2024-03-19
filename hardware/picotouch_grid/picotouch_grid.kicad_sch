@@ -1347,602 +1347,6 @@
 				)
 			)
 		)
-		(symbol "easyeda2kicad:TS20"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at 0 21.59 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "TS20"
-				(at 0 -21.59 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "easyeda2kicad:TSSOP-28_L9.7-W4.4-P0.65-LS6.4-BL"
-				(at 0 -24.13 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://lcsc.com/product-detail/Touch-Screen-Controller-ICs_TS20_C95876.html"
-				(at 0 -26.67 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "LCSC Part" "C95876"
-				(at 0 -29.21 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "TS20_0_1"
-				(rectangle
-					(start -10.16 19.56)
-					(end 10.16 -19.56)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(circle
-					(center -8.89 18.29)
-					(radius 0.38)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -8.89 18.29)
-					(radius 0.38)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin unspecified line
-					(at -12.7 16.51 0)
-					(length 2.54)
-					(name "CS5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -12.7 -6.35 0)
-					(length 2.54)
-					(name "VSS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -12.7 -8.89 0)
-					(length 2.54)
-					(name "CS13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -12.7 -11.43 0)
-					(length 2.54)
-					(name "CS14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -12.7 -13.97 0)
-					(length 2.54)
-					(name "CS15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -12.7 -16.51 0)
-					(length 2.54)
-					(name "CS16"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 12.7 -16.51 180)
-					(length 2.54)
-					(name "CS17"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 12.7 -13.97 180)
-					(length 2.54)
-					(name "CS18"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "16"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 12.7 -11.43 180)
-					(length 2.54)
-					(name "CS19"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "17"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 12.7 -8.89 180)
-					(length 2.54)
-					(name "CS20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "18"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 12.7 -6.35 180)
-					(length 2.54)
-					(name "INT"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "19"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -12.7 13.97 0)
-					(length 2.54)
-					(name "CS6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 12.7 -3.81 180)
-					(length 2.54)
-					(name "VDD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 12.7 -1.27 180)
-					(length 2.54)
-					(name "SDA"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "21"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 12.7 1.27 180)
-					(length 2.54)
-					(name "SCL"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "22"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 12.7 3.81 180)
-					(length 2.54)
-					(name "VSS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "23"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 12.7 6.35 180)
-					(length 2.54)
-					(name "ADD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "24"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 12.7 8.89 180)
-					(length 2.54)
-					(name "CS1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "25"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 12.7 11.43 180)
-					(length 2.54)
-					(name "CS2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "26"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 12.7 13.97 180)
-					(length 2.54)
-					(name "CS3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "27"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 12.7 16.51 180)
-					(length 2.54)
-					(name "CS4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "28"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -12.7 11.43 0)
-					(length 2.54)
-					(name "CS7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -12.7 8.89 0)
-					(length 2.54)
-					(name "VSS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -12.7 6.35 0)
-					(length 2.54)
-					(name "CS8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -12.7 3.81 0)
-					(length 2.54)
-					(name "CS9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -12.7 1.27 0)
-					(length 2.54)
-					(name "CS10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -12.7 -1.27 0)
-					(length 2.54)
-					(name "CS11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -12.7 -3.81 0)
-					(length 2.54)
-					(name "CS12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "power:+3V3"
 			(power)
 			(pin_numbers hide)
@@ -2251,6 +1655,602 @@
 				)
 			)
 		)
+		(symbol "todbot_stuff:TS20_easyeda"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 21.59 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TS20_easyeda"
+				(at 0 -21.59 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:TSSOP-28_L9.7-W4.4-P0.65-LS6.4-BL"
+				(at 0 -24.13 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/Touch-Screen-Controller-ICs_TS20_C95876.html"
+				(at 0 -26.67 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C95876"
+				(at 0 -29.21 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TS20_easyeda_0_1"
+				(rectangle
+					(start -10.16 19.56)
+					(end 10.16 -19.56)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center -8.89 18.29)
+					(radius 0.38)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -8.89 18.29)
+					(radius 0.38)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -12.7 16.51 0)
+					(length 2.54)
+					(name "CS5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 -6.35 0)
+					(length 2.54)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 -8.89 0)
+					(length 2.54)
+					(name "CS13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 -11.43 0)
+					(length 2.54)
+					(name "CS14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 -13.97 0)
+					(length 2.54)
+					(name "CS15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 -16.51 0)
+					(length 2.54)
+					(name "CS16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 -16.51 180)
+					(length 2.54)
+					(name "CS17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 -13.97 180)
+					(length 2.54)
+					(name "CS18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 -11.43 180)
+					(length 2.54)
+					(name "CS19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 -8.89 180)
+					(length 2.54)
+					(name "CS20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 12.7 -6.35 180)
+					(length 2.54)
+					(name "INT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 13.97 0)
+					(length 2.54)
+					(name "CS6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 12.7 -3.81 180)
+					(length 2.54)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 12.7 -1.27 180)
+					(length 2.54)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 12.7 1.27 180)
+					(length 2.54)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 12.7 3.81 180)
+					(length 2.54)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 12.7 6.35 180)
+					(length 2.54)
+					(name "ADD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 8.89 180)
+					(length 2.54)
+					(name "CS1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 11.43 180)
+					(length 2.54)
+					(name "CS2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 13.97 180)
+					(length 2.54)
+					(name "CS3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "27"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 16.51 180)
+					(length 2.54)
+					(name "CS4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 11.43 0)
+					(length 2.54)
+					(name "CS7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 8.89 0)
+					(length 2.54)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 6.35 0)
+					(length 2.54)
+					(name "CS8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 3.81 0)
+					(length 2.54)
+					(name "CS9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 1.27 0)
+					(length 2.54)
+					(name "CS10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 -1.27 0)
+					(length 2.54)
+					(name "CS11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 -3.81 0)
+					(length 2.54)
+					(name "CS12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 	)
 	(junction
 		(at 209.55 129.54)
@@ -2493,12 +2493,144 @@
 		(uuid "fa801ccd-5d27-4d1e-9c2e-c60194a779c7")
 	)
 	(no_connect
+		(at 401.32 142.24)
+		(uuid "0005e6c4-fa2a-4141-9c23-845481e562b8")
+	)
+	(no_connect
+		(at 52.07 39.37)
+		(uuid "08a79430-2c58-48bb-8077-771b2b436b6d")
+	)
+	(no_connect
+		(at 52.07 49.53)
+		(uuid "0c2125b4-ca3e-461c-8158-30de0dac8b9f")
+	)
+	(no_connect
+		(at 87.63 72.39)
+		(uuid "0f125c11-dc20-407f-ac3b-d672c9b12217")
+	)
+	(no_connect
+		(at 87.63 67.31)
+		(uuid "12c78800-fb08-48ec-bd06-aaae70ef92e6")
+	)
+	(no_connect
+		(at 87.63 46.99)
+		(uuid "154af525-8a29-4464-a5ed-01d140837fd0")
+	)
+	(no_connect
+		(at 87.63 64.77)
+		(uuid "24e5f7c0-fe34-4574-b53b-b673fd11eeb9")
+	)
+	(no_connect
+		(at 72.39 92.71)
+		(uuid "283b8167-2a6e-4ec0-8628-993d484705c2")
+	)
+	(no_connect
+		(at 52.07 41.91)
+		(uuid "29d3c56c-56c2-4b85-a956-7faffa2e5b03")
+	)
+	(no_connect
+		(at 52.07 74.93)
+		(uuid "2ae8b66a-f72d-43e7-a147-086b0f702066")
+	)
+	(no_connect
+		(at 87.63 80.01)
+		(uuid "2b26ccef-4687-41f5-9a44-5d72db3166ee")
+	)
+	(no_connect
+		(at 52.07 62.23)
+		(uuid "2c4c4298-2f8c-4e01-a9e3-12b4a118ab86")
+	)
+	(no_connect
+		(at 87.63 62.23)
+		(uuid "35665bd6-c32f-41cb-b350-2b45929c8bca")
+	)
+	(no_connect
+		(at 87.63 52.07)
+		(uuid "37864a95-ea44-4585-befa-ac65d182816a")
+	)
+	(no_connect
+		(at 87.63 85.09)
+		(uuid "3fb11061-deda-44a2-b4c7-e4cdb3c29845")
+	)
+	(no_connect
+		(at 87.63 87.63)
+		(uuid "4cf63b06-8f13-4e24-bc3b-f79160eb910e")
+	)
+	(no_connect
+		(at 87.63 74.93)
+		(uuid "51f95cd9-be5a-4fed-b3ff-218509f8e640")
+	)
+	(no_connect
+		(at 87.63 41.91)
+		(uuid "51fca048-21ac-45e8-872f-a7ffc9a88189")
+	)
+	(no_connect
+		(at 67.31 92.71)
+		(uuid "56807893-7a92-48f8-a8c9-870b8fb0fa3b")
+	)
+	(no_connect
+		(at 52.07 77.47)
+		(uuid "58bb2137-e4f0-4264-9086-b9a63a451247")
+	)
+	(no_connect
+		(at 52.07 52.07)
+		(uuid "5b8eff8c-e60b-48ac-8c4e-da413a576e18")
+	)
+	(no_connect
 		(at 81.28 257.81)
 		(uuid "5c47d234-84b9-4a2b-8e95-0bacc57c19e6")
 	)
 	(no_connect
+		(at 52.07 72.39)
+		(uuid "5e2a30d3-dfa7-4bda-a4e4-1233a6535105")
+	)
+	(no_connect
+		(at 52.07 64.77)
+		(uuid "5e60e1d7-519b-4d78-a0f6-b9a06ea4255b")
+	)
+	(no_connect
+		(at 52.07 67.31)
+		(uuid "79a8d51a-09f2-401a-b571-c28425287ab5")
+	)
+	(no_connect
+		(at 69.85 92.71)
+		(uuid "7cede798-400f-4c8a-a46a-78c6dcad1de8")
+	)
+	(no_connect
+		(at 87.63 57.15)
+		(uuid "a4e5a6ab-4269-41b9-a235-ccff645dc27a")
+	)
+	(no_connect
+		(at 52.07 80.01)
+		(uuid "a6925899-1ca1-4f2a-ad51-8d6013770733")
+	)
+	(no_connect
 		(at 80.01 204.47)
 		(uuid "bdde9838-896d-47f0-b357-61da1338320f")
+	)
+	(no_connect
+		(at 87.63 39.37)
+		(uuid "ca4fa3dc-4e60-4767-bd12-2c3168cbe7a7")
+	)
+	(no_connect
+		(at 87.63 77.47)
+		(uuid "ccc1fc08-de82-4d01-9f63-0b92e4521cb9")
+	)
+	(no_connect
+		(at 52.07 59.69)
+		(uuid "db6ccebd-062c-4dd8-8235-5adb8dc16f2c")
+	)
+	(no_connect
+		(at 87.63 59.69)
+		(uuid "deb711d3-1150-464c-b8e9-5096d973ebc3")
+	)
+	(no_connect
+		(at 52.07 54.61)
+		(uuid "e9f6b560-2904-4d21-9259-a5075d261ba3")
+	)
+	(no_connect
+		(at 52.07 46.99)
+		(uuid "f76dd8c9-15e4-4f16-adb8-d672e7604da5")
 	)
 	(wire
 		(pts
@@ -2712,6 +2844,16 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 194.31) (xy 54.61 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "119016ef-750b-4e70-8f35-bcb143b2d7e6")
+	)
+	(wire
+		(pts
 			(xy 302.26 55.88) (xy 302.26 60.96)
 		)
 		(stroke
@@ -2829,6 +2971,16 @@
 			(type default)
 		)
 		(uuid "2378fa5e-92a6-4188-8ecf-ef3b3c8dc663")
+	)
+	(wire
+		(pts
+			(xy 45.72 191.77) (xy 54.61 191.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2407cc76-5904-472e-a88c-aee429b73599")
 	)
 	(wire
 		(pts
@@ -2969,6 +3121,16 @@
 			(type default)
 		)
 		(uuid "3830adfd-6930-4d0e-9d2d-947aefc474c6")
+	)
+	(wire
+		(pts
+			(xy 45.72 186.69) (xy 54.61 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3909648b-c1b1-4908-aaf2-e71cdaa59555")
 	)
 	(wire
 		(pts
@@ -3382,6 +3544,16 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 196.85) (xy 54.61 196.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "681ccd63-8ee0-454e-b22d-7125cc3e4c3d")
+	)
+	(wire
+		(pts
 			(xy 317.5 105.41) (xy 309.88 105.41)
 		)
 		(stroke
@@ -3602,7 +3774,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 129.54) (xy 255.27 129.54)
+			(xy 247.65 129.54) (xy 255.27 129.54)
 		)
 		(stroke
 			(width 0)
@@ -4152,6 +4324,16 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 181.61) (xy 54.61 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7124f03-6302-4631-81d9-fe6d7034d6c5")
+	)
+	(wire
+		(pts
 			(xy 127 205.74) (xy 135.89 205.74)
 		)
 		(stroke
@@ -4482,6 +4664,16 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 184.15) (xy 54.61 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3d71e6d-1f2a-4b74-b7b8-782fe8621778")
+	)
+	(wire
+		(pts
 			(xy 279.4 129.54) (xy 279.4 134.62)
 		)
 		(stroke
@@ -4726,6 +4918,17 @@
 		)
 		(uuid "0991130a-44c1-41c8-9109-3d2526b966f6")
 	)
+	(label "tp4"
+		(at 86.36 209.55 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0ba3e519-ac1a-4a0a-93e1-9499c2e45943")
+	)
 	(label "tp24"
 		(at 87.63 262.89 0)
 		(fields_autoplaced yes)
@@ -4781,6 +4984,17 @@
 		)
 		(uuid "14ead123-a868-44ba-9458-36e6211d191e")
 	)
+	(label "tp5"
+		(at 86.36 207.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "16736c39-42c3-4f2b-940d-e275eed47d88")
+	)
 	(label "tp1"
 		(at 45.72 214.63 0)
 		(fields_autoplaced yes)
@@ -4825,6 +5039,17 @@
 		)
 		(uuid "1f10035f-d708-4c01-8105-99b0bd5934fa")
 	)
+	(label "tp18"
+		(at 45.72 191.77 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1f56f8bd-6dc4-4f0d-9205-54bf9627fcd5")
+	)
 	(label "tp34"
 		(at 45.72 262.89 0)
 		(fields_autoplaced yes)
@@ -4846,6 +5071,17 @@
 			(justify left bottom)
 		)
 		(uuid "20e7edfe-c485-417b-bb6c-37a712e69e7e")
+	)
+	(label "tp6"
+		(at 86.36 189.23 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "22bdf4c6-1f20-4864-88cb-89cd23e71453")
 	)
 	(label "tp1"
 		(at 127 185.42 0)
@@ -4935,6 +5171,28 @@
 		)
 		(uuid "38307553-0215-4288-af2c-42aee58b29e4")
 	)
+	(label "tp7"
+		(at 86.36 186.69 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3f404462-a67c-43e4-8c28-54b35b253c9a")
+	)
+	(label "tp2"
+		(at 86.36 214.63 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4351bbba-3fa7-47fd-8339-b62b6b45920d")
+	)
 	(label "tp23"
 		(at 194.31 195.58 0)
 		(fields_autoplaced yes)
@@ -4945,6 +5203,17 @@
 			(justify left bottom)
 		)
 		(uuid "446ce6ed-8125-498b-83c8-420943f0c4dc")
+	)
+	(label "tp8"
+		(at 86.36 184.15 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "45694ac6-70e9-4c11-a7e1-3b8ed0e34787")
 	)
 	(label "tp14"
 		(at 161.29 200.66 0)
@@ -5012,6 +5281,17 @@
 		)
 		(uuid "6236e9bb-ad9b-4332-af80-3e4cf70d0a28")
 	)
+	(label "tp16"
+		(at 45.72 196.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "64a39f30-b205-49dc-9b0c-7f943bf9d032")
+	)
 	(label "tp35"
 		(at 45.72 265.43 0)
 		(fields_autoplaced yes)
@@ -5044,6 +5324,17 @@
 			(justify left bottom)
 		)
 		(uuid "705f5a5b-6679-42f3-9d81-7dfb15e2f07b")
+	)
+	(label "tp19"
+		(at 45.72 186.69 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7104e2c9-442f-4c17-89a9-037f874da006")
 	)
 	(label "tp36"
 		(at 227.33 210.82 0)
@@ -5375,6 +5666,17 @@
 		)
 		(uuid "bae09087-4ba4-420d-b480-6a65345bb7a4")
 	)
+	(label "tp3"
+		(at 86.36 212.09 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c59f84c6-d859-4221-9ff5-618d70bd1996")
+	)
 	(label "tp24"
 		(at 194.31 200.66 0)
 		(fields_autoplaced yes)
@@ -5396,6 +5698,28 @@
 			(justify left bottom)
 		)
 		(uuid "d1242ef9-3b8c-4e69-9999-1eaa9100b69a")
+	)
+	(label "tp9"
+		(at 86.36 181.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d5a54ed5-0a47-42bd-bfb1-c04579f28520")
+	)
+	(label "tp20"
+		(at 45.72 184.15 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d798b7da-ba15-4642-bb5a-d4ea73dd91e9")
 	)
 	(label "TOUCH_SCL"
 		(at 34.29 87.63 0)
@@ -5430,6 +5754,17 @@
 		)
 		(uuid "dee83d93-d088-4537-b4ae-806181e87731")
 	)
+	(label "tp17"
+		(at 45.72 194.31 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "df4612f9-214a-41e5-a071-c705c73c48e6")
+	)
 	(label "tp31"
 		(at 227.33 185.42 0)
 		(fields_autoplaced yes)
@@ -5451,6 +5786,17 @@
 			(justify left bottom)
 		)
 		(uuid "ea90f1e2-1fad-4b83-8098-b7acd63bb9d6")
+	)
+	(label "tp10"
+		(at 45.72 181.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "eef20602-dd77-4c4f-afe6-95ea8ebb130c")
 	)
 	(label "tp22"
 		(at 87.63 267.97 0)
@@ -5535,71 +5881,6 @@
 			(project "picotouch_grid"
 				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
 					(reference "#PWR049")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 248.92 137.16 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "02194016-22c5-4f8b-b6e0-a90153bf7bcc")
-		(property "Reference" "#PWR0135"
-			(at 248.92 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 246.634 137.414 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 248.92 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 248.92 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 248.92 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5c80199a-8dd6-4f31-9898-7c7e2cdcbaea")
-		)
-		(instances
-			(project "picotouch_grid"
-				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
-					(reference "#PWR0135")
 					(unit 1)
 				)
 			)
@@ -8027,6 +8308,71 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 247.65 137.16 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1bed3b0c-ad31-4b70-be26-7b018e557e4a")
+		(property "Reference" "#PWR083"
+			(at 247.65 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 245.364 137.414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 247.65 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 247.65 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 247.65 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8ecb2ec0-c951-4159-8f62-86cbf6f608ed")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "#PWR083")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 302.26 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9170,7 +9516,7 @@
 		)
 	)
 	(symbol
-		(lib_id "easyeda2kicad:TS20")
+		(lib_id "todbot_stuff:TS20_easyeda")
 		(at 67.31 198.12 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10334,7 +10680,7 @@
 		)
 	)
 	(symbol
-		(lib_id "easyeda2kicad:TS20")
+		(lib_id "todbot_stuff:TS20_easyeda")
 		(at 68.58 251.46 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15332,72 +15678,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 87.63 57.15 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8f9fda4d-707f-41b8-8e23-be59c216529e")
-		(property "Reference" "#PWR083"
-			(at 93.98 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 90.424 57.15 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 87.63 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 87.63 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 87.63 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e69fb083-4c80-471c-98ee-56de90cdd0af")
-		)
-		(instances
-			(project "picotouch_grid"
-				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
-					(reference "#PWR083")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3V3")
 		(at 370.84 92.71 0)
 		(unit 1)
@@ -16475,7 +16755,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 248.92 133.35 0)
+		(at 247.65 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16483,7 +16763,7 @@
 		(dnp no)
 		(uuid "9d05f38e-bfb6-4f4a-aa27-2b4818d23566")
 		(property "Reference" "C34"
-			(at 242.316 131.826 0)
+			(at 241.046 131.826 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16492,7 +16772,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 241.3 134.366 0)
+			(at 240.03 134.366 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16501,7 +16781,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 249.8852 137.16 0)
+			(at 248.6152 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16510,7 +16790,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 248.92 133.35 0)
+			(at 247.65 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16519,7 +16799,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 248.92 133.35 0)
+			(at 247.65 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
