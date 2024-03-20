@@ -141,6 +141,169 @@
 				)
 			)
 		)
+		(symbol "Device:D"
+			(pin_numbers hide)
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "D"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Device" "D"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Pins" "1=K 2=A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "D_0_1"
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "D_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Device:R"
 			(pin_numbers hide)
 			(pin_names
@@ -253,6 +416,308 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Isolator:H11L1"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 1.27 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "H11L1"
+				(at 1.27 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at -2.286 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.onsemi.com/pub/Collateral/H11L3M-D.PDF"
+				(at -2.286 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Schmitt Trigger Output Optocoupler, High Speed, DIP-6, 1.6mA turn on threshold"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "High Speed Schmitt Optocoupler"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "DIP*W7.62mm* DIP*W10.16mm* SMDIP*W9.53mm*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "H11L1_0_1"
+				(rectangle
+					(start -5.08 5.08)
+					(end 5.08 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -4.445 -0.635) (xy -3.175 -0.635)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0 5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 0 -5.08) (xy 0 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 -2.54) (xy -3.81 -2.54) (xy -3.81 2.54) (xy -5.08 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 -0.635) (xy -4.445 0.635) (xy -3.175 0.635) (xy -3.81 -0.635)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy -1.27 -2.54) (xy -1.27 2.54) (xy 1.27 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.794 -0.508) (xy -1.524 -0.508) (xy -1.905 -0.635) (xy -1.905 -0.381) (xy -1.524 -0.508)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.794 0.508) (xy -1.524 0.508) (xy -1.905 0.381) (xy -1.905 0.635) (xy -1.524 0.508)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.27 -2.54)
+					(mid 3.799 0)
+					(end 1.27 2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "H11L1_1_1"
+				(pin passive line
+					(at -7.62 2.54 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -2.54 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at -5.08 0 0)
+					(length 2.54) hide
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output inverted
+					(at 7.62 0 180)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -7.62 90)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 7.62 270)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1347,6 +1812,330 @@
 				)
 			)
 		)
+		(symbol "easyeda2kicad:HS96L03W2C03"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "HS96L03W2C03"
+				(at 0 -8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:OLED-TH_L27.8-W27.2-P2.54_C9900033791"
+				(at 0 -11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C5248080"
+				(at 0 -13.97 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "HS96L03W2C03_0_1"
+				(rectangle
+					(start -3.81 6.35)
+					(end 3.81 -6.35)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center -2.54 5.08)
+					(radius 0.38)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -6.35 3.81 0)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -6.35 1.27 0)
+					(length 2.54)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -6.35 -1.27 0)
+					(length 2.54)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -6.35 -3.81 0)
+					(length 2.54)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "keebio:TRRS"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 15.24 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "TRRS"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 3.81 0 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 3.81 0 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TRRS_0_1"
+				(rectangle
+					(start -3.81 0)
+					(end -3.81 12.7)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -3.81 12.7)
+					(end 5.08 12.7)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 5.08 0)
+					(end -3.81 0)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 5.08 12.7)
+					(end 5.08 0)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TRRS_1_1"
+				(pin input line
+					(at -8.89 2.54 0)
+					(length 5.08)
+					(name "SLEEVE"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -8.89 10.16 0)
+					(length 5.08)
+					(name "TIP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -8.89 7.62 0)
+					(length 5.08)
+					(name "RING1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -8.89 5.08 0)
+					(length 5.08)
+					(name "RING2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "power:+3V3"
 			(power)
 			(pin_numbers hide)
@@ -1646,173 +2435,6 @@
 						)
 					)
 					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "todbot_eagle2023:TouchSlider3"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "SLIDER"
-				(at -5.08 13.462 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" ""
-				(at -5.08 -12.7 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "touchslider_export:TODSTUFF2023_TOUCHSLIDER3_5X18"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "TouchSlider3_1_0"
-				(polyline
-					(pts
-						(xy -5.08 -10.16) (xy 2.54 -10.16)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -5.08 7.62) (xy -5.08 -10.16)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -5.08 12.7) (xy -5.08 7.62)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -10.16) (xy 2.54 12.7)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 12.7) (xy -5.08 12.7)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin bidirectional line
-					(at -10.16 7.62 0)
-					(length 5.08)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -10.16 0 0)
-					(length 5.08)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -10.16 -7.62 0)
-					(length 5.08)
-					(name "C"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "C"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2486,6 +3108,12 @@
 		(uuid "3375058d-851c-4295-bd1d-17448cc88a66")
 	)
 	(junction
+		(at 62.23 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "496f975d-bb92-4013-800a-772ca9747214")
+	)
+	(junction
 		(at 302.26 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2552,10 +3180,22 @@
 		(uuid "6f882aa3-75e7-4cf6-9b90-04606c2fa143")
 	)
 	(junction
+		(at 73.66 212.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "734d4794-219f-44dd-9de6-eee5419e9325")
+	)
+	(junction
 		(at 325.12 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "73c1bc6f-69e8-469b-a88e-f58809d3b222")
+	)
+	(junction
+		(at 99.06 212.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "76414d02-e2b4-4830-9c15-f906fa15617a")
 	)
 	(junction
 		(at 279.4 55.88)
@@ -2570,6 +3210,12 @@
 		(uuid "79b6ebb3-e9b7-451f-a1e0-617f5822aedc")
 	)
 	(junction
+		(at 78.74 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7df60ac8-2fba-4fc1-adf1-56a4ef649b1d")
+	)
+	(junction
 		(at 393.7 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2580,6 +3226,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b8dfe35e-cca6-4fb2-b08b-9fbd0e064570")
+	)
+	(junction
+		(at 52.07 193.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bc3b138b-d232-4799-a494-48ff6886a69d")
 	)
 	(junction
 		(at 255.27 19.05)
@@ -2618,6 +3270,18 @@
 		(uuid "cff35a02-dfd9-4d47-8034-b2b755fd2409")
 	)
 	(junction
+		(at 81.28 212.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d8267f68-81da-4b32-b59e-d922f9f4ddf7")
+	)
+	(junction
+		(at 62.23 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dbcef146-9b7d-4d0c-9c93-66c676f39a49")
+	)
+	(junction
 		(at 393.7 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2628,6 +3292,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "def5eae2-a149-4df6-aa35-ae3ebce61209")
+	)
+	(junction
+		(at 81.28 220.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e32b63f8-25f4-4fd3-a4c5-b74ecc78024a")
 	)
 	(junction
 		(at 370.84 92.71)
@@ -2659,6 +3329,12 @@
 		(color 0 0 0 0)
 		(uuid "fa801ccd-5d27-4d1e-9c2e-c60194a779c7")
 	)
+	(junction
+		(at 73.66 220.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fd59552c-ed54-446c-a600-9469ad35b1c6")
+	)
 	(no_connect
 		(at 401.32 142.24)
 		(uuid "0005e6c4-fa2a-4141-9c23-845481e562b8")
@@ -2670,10 +3346,6 @@
 	(no_connect
 		(at 52.07 49.53)
 		(uuid "0c2125b4-ca3e-461c-8158-30de0dac8b9f")
-	)
-	(no_connect
-		(at 87.63 72.39)
-		(uuid "0f125c11-dc20-407f-ac3b-d672c9b12217")
 	)
 	(no_connect
 		(at 87.63 67.31)
@@ -2716,18 +3388,6 @@
 		(uuid "37864a95-ea44-4585-befa-ac65d182816a")
 	)
 	(no_connect
-		(at 87.63 85.09)
-		(uuid "3fb11061-deda-44a2-b4c7-e4cdb3c29845")
-	)
-	(no_connect
-		(at 87.63 87.63)
-		(uuid "4cf63b06-8f13-4e24-bc3b-f79160eb910e")
-	)
-	(no_connect
-		(at 87.63 74.93)
-		(uuid "51f95cd9-be5a-4fed-b3ff-218509f8e640")
-	)
-	(no_connect
 		(at 87.63 41.91)
 		(uuid "51fca048-21ac-45e8-872f-a7ffc9a88189")
 	)
@@ -2744,7 +3404,7 @@
 		(uuid "5b8eff8c-e60b-48ac-8c4e-da413a576e18")
 	)
 	(no_connect
-		(at 81.28 257.81)
+		(at 212.09 264.16)
 		(uuid "5c47d234-84b9-4a2b-8e95-0bacc57c19e6")
 	)
 	(no_connect
@@ -2752,12 +3412,12 @@
 		(uuid "5e2a30d3-dfa7-4bda-a4e4-1233a6535105")
 	)
 	(no_connect
-		(at 52.07 64.77)
-		(uuid "5e60e1d7-519b-4d78-a0f6-b9a06ea4255b")
+		(at 87.63 72.39)
+		(uuid "6285161c-ad81-48e7-80e4-53df1320d2ff")
 	)
 	(no_connect
-		(at 52.07 67.31)
-		(uuid "79a8d51a-09f2-401a-b571-c28425287ab5")
+		(at 87.63 74.93)
+		(uuid "6871e623-71f2-4030-977e-add40a580abf")
 	)
 	(no_connect
 		(at 69.85 92.71)
@@ -2768,11 +3428,7 @@
 		(uuid "a4e5a6ab-4269-41b9-a235-ccff645dc27a")
 	)
 	(no_connect
-		(at 52.07 80.01)
-		(uuid "a6925899-1ca1-4f2a-ad51-8d6013770733")
-	)
-	(no_connect
-		(at 80.01 204.47)
+		(at 212.09 208.28)
 		(uuid "bdde9838-896d-47f0-b357-61da1338320f")
 	)
 	(no_connect
@@ -2831,7 +3487,17 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 212.09) (xy 90.17 212.09)
+			(xy 60.96 162.56) (xy 67.31 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03486330-2df6-4a02-980d-e8fa9304f62e")
+	)
+	(wire
+		(pts
+			(xy 212.09 215.9) (xy 222.25 215.9)
 		)
 		(stroke
 			(width 0)
@@ -2841,7 +3507,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 190.5) (xy 170.18 190.5)
+			(xy 300.99 187.96) (xy 309.88 187.96)
 		)
 		(stroke
 			(width 0)
@@ -2861,7 +3527,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 237.49) (xy 55.88 237.49)
+			(xy 176.53 243.84) (xy 186.69 243.84)
 		)
 		(stroke
 			(width 0)
@@ -2911,13 +3577,23 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 226.06) (xy 203.2 226.06)
+			(xy 334.01 223.52) (xy 342.9 223.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "0b760ce1-fc3c-4680-baac-cfd7ff0332c2")
+	)
+	(wire
+		(pts
+			(xy 99.06 219.71) (xy 99.06 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ba880ce-d06e-4e6b-b4b7-9d6c7a5fe123")
 	)
 	(wire
 		(pts
@@ -2941,7 +3617,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 226.06) (xy 135.89 226.06)
+			(xy 266.7 223.52) (xy 275.59 223.52)
 		)
 		(stroke
 			(width 0)
@@ -2961,7 +3637,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 210.82) (xy 236.22 210.82)
+			(xy 367.03 208.28) (xy 375.92 208.28)
 		)
 		(stroke
 			(width 0)
@@ -2971,7 +3647,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 220.98) (xy 170.18 220.98)
+			(xy 300.99 218.44) (xy 309.88 218.44)
 		)
 		(stroke
 			(width 0)
@@ -2991,7 +3667,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 209.55) (xy 90.17 209.55)
+			(xy 212.09 213.36) (xy 222.25 213.36)
 		)
 		(stroke
 			(width 0)
@@ -3011,7 +3687,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 194.31) (xy 54.61 194.31)
+			(xy 177.8 198.12) (xy 186.69 198.12)
 		)
 		(stroke
 			(width 0)
@@ -3031,7 +3707,17 @@
 	)
 	(wire
 		(pts
-			(xy 127 190.5) (xy 135.89 190.5)
+			(xy 52.07 101.6) (xy 40.64 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12ee4b03-1231-4ab9-ba32-13a000f232ad")
+	)
+	(wire
+		(pts
+			(xy 266.7 187.96) (xy 275.59 187.96)
 		)
 		(stroke
 			(width 0)
@@ -3041,7 +3727,17 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 245.11) (xy 55.88 245.11)
+			(xy 62.23 134.62) (xy 71.12 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1345ec8f-db98-47ce-aa94-503c1fed4c33")
+	)
+	(wire
+		(pts
+			(xy 176.53 251.46) (xy 186.69 251.46)
 		)
 		(stroke
 			(width 0)
@@ -3071,7 +3767,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 265.43) (xy 92.71 265.43)
+			(xy 212.09 271.78) (xy 223.52 271.78)
 		)
 		(stroke
 			(width 0)
@@ -3081,7 +3777,17 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 200.66) (xy 203.2 200.66)
+			(xy 73.66 212.09) (xy 73.66 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19e6e079-b0b9-47f6-8b36-eeb8ba688b49")
+	)
+	(wire
+		(pts
+			(xy 334.01 198.12) (xy 342.9 198.12)
 		)
 		(stroke
 			(width 0)
@@ -3111,6 +3817,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 167.64) (xy 53.34 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "219f68c8-b87b-4d59-b2e0-bb61b2d26e37")
+	)
+	(wire
+		(pts
 			(xy 163.83 31.75) (xy 179.07 31.75)
 		)
 		(stroke
@@ -3131,6 +3847,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 193.04) (xy 52.07 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2346784a-53a0-4a9b-9b96-3beb6c87a42b")
+	)
+	(wire
+		(pts
 			(xy 347.98 92.71) (xy 347.98 97.79)
 		)
 		(stroke
@@ -3141,7 +3867,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 191.77) (xy 54.61 191.77)
+			(xy 177.8 195.58) (xy 186.69 195.58)
 		)
 		(stroke
 			(width 0)
@@ -3161,7 +3887,17 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 191.77) (xy 97.79 191.77)
+			(xy 78.74 120.65) (xy 78.74 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26ea3e8f-8a14-4adf-b73c-07078241195c")
+	)
+	(wire
+		(pts
+			(xy 212.09 195.58) (xy 229.87 195.58)
 		)
 		(stroke
 			(width 0)
@@ -3181,7 +3917,17 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 231.14) (xy 203.2 231.14)
+			(xy 81.28 212.09) (xy 87.63 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e473104-5b06-418d-9005-c8054a3222d0")
+	)
+	(wire
+		(pts
+			(xy 334.01 228.6) (xy 342.9 228.6)
 		)
 		(stroke
 			(width 0)
@@ -3191,7 +3937,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 252.73) (xy 55.88 252.73)
+			(xy 176.53 259.08) (xy 186.69 259.08)
 		)
 		(stroke
 			(width 0)
@@ -3221,7 +3967,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 234.95) (xy 55.88 234.95)
+			(xy 176.53 241.3) (xy 186.69 241.3)
 		)
 		(stroke
 			(width 0)
@@ -3251,7 +3997,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 207.01) (xy 90.17 207.01)
+			(xy 212.09 210.82) (xy 222.25 210.82)
 		)
 		(stroke
 			(width 0)
@@ -3261,7 +4007,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 210.82) (xy 135.89 210.82)
+			(xy 266.7 208.28) (xy 275.59 208.28)
 		)
 		(stroke
 			(width 0)
@@ -3271,7 +4017,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 207.01) (xy 54.61 207.01)
+			(xy 177.8 210.82) (xy 186.69 210.82)
 		)
 		(stroke
 			(width 0)
@@ -3281,7 +4027,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 214.63) (xy 90.17 214.63)
+			(xy 212.09 218.44) (xy 222.25 218.44)
 		)
 		(stroke
 			(width 0)
@@ -3291,7 +4037,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 186.69) (xy 54.61 186.69)
+			(xy 177.8 190.5) (xy 186.69 190.5)
 		)
 		(stroke
 			(width 0)
@@ -3331,7 +4077,17 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 215.9) (xy 203.2 215.9)
+			(xy 95.25 212.09) (xy 99.06 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bf699c8-9797-4285-a12d-1d74e34931a9")
+	)
+	(wire
+		(pts
+			(xy 334.01 213.36) (xy 342.9 213.36)
 		)
 		(stroke
 			(width 0)
@@ -3341,7 +4097,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 212.09) (xy 54.61 212.09)
+			(xy 177.8 215.9) (xy 186.69 215.9)
 		)
 		(stroke
 			(width 0)
@@ -3361,7 +4117,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 220.98) (xy 135.89 220.98)
+			(xy 266.7 218.44) (xy 275.59 218.44)
 		)
 		(stroke
 			(width 0)
@@ -3391,7 +4147,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 260.35) (xy 92.71 260.35)
+			(xy 212.09 266.7) (xy 223.52 266.7)
 		)
 		(stroke
 			(width 0)
@@ -3431,7 +4187,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 242.57) (xy 92.71 242.57)
+			(xy 212.09 248.92) (xy 223.52 248.92)
 		)
 		(stroke
 			(width 0)
@@ -3441,7 +4197,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 189.23) (xy 90.17 189.23)
+			(xy 212.09 193.04) (xy 222.25 193.04)
 		)
 		(stroke
 			(width 0)
@@ -3461,7 +4217,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 262.89) (xy 55.88 262.89)
+			(xy 176.53 269.24) (xy 186.69 269.24)
 		)
 		(stroke
 			(width 0)
@@ -3481,7 +4237,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 200.66) (xy 135.89 200.66)
+			(xy 266.7 198.12) (xy 275.59 198.12)
 		)
 		(stroke
 			(width 0)
@@ -3511,7 +4267,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 255.27) (xy 55.88 255.27)
+			(xy 176.53 261.62) (xy 186.69 261.62)
 		)
 		(stroke
 			(width 0)
@@ -3541,7 +4297,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 205.74) (xy 236.22 205.74)
+			(xy 367.03 203.2) (xy 375.92 203.2)
 		)
 		(stroke
 			(width 0)
@@ -3551,7 +4307,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 186.69) (xy 90.17 186.69)
+			(xy 212.09 190.5) (xy 222.25 190.5)
 		)
 		(stroke
 			(width 0)
@@ -3561,7 +4317,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 240.03) (xy 92.71 240.03)
+			(xy 212.09 246.38) (xy 223.52 246.38)
 		)
 		(stroke
 			(width 0)
@@ -3571,7 +4327,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 195.58) (xy 135.89 195.58)
+			(xy 266.7 193.04) (xy 275.59 193.04)
 		)
 		(stroke
 			(width 0)
@@ -3588,6 +4344,16 @@
 			(type default)
 		)
 		(uuid "556771b2-9c6f-4df5-962e-df4ec920d63a")
+	)
+	(wire
+		(pts
+			(xy 99.06 212.09) (xy 105.41 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55c00d4d-752a-4f4c-8ec0-9b65e78fe717")
 	)
 	(wire
 		(pts
@@ -3611,13 +4377,43 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 252.73) (xy 101.6 252.73)
+			(xy 212.09 259.08) (xy 232.41 259.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "5ae34af2-2f8b-44e2-843d-e2119223ccf4")
+	)
+	(wire
+		(pts
+			(xy 60.96 167.64) (xy 83.82 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b834e0b-42e3-46f4-ab14-9e8562d05d7c")
+	)
+	(wire
+		(pts
+			(xy 49.53 142.24) (xy 49.53 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c3030cf-1cc9-4410-871e-1f708ff45195")
+	)
+	(wire
+		(pts
+			(xy 87.63 85.09) (xy 109.22 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d3446d4-fc21-4f85-bee9-e991e159346c")
 	)
 	(wire
 		(pts
@@ -3681,6 +4477,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.36 137.16) (xy 96.52 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63f2bd65-c827-4eca-b314-b0b7454701f6")
+	)
+	(wire
+		(pts
 			(xy 294.64 19.05) (xy 302.26 19.05)
 		)
 		(stroke
@@ -3701,6 +4507,26 @@
 	)
 	(wire
 		(pts
+			(xy 81.28 212.09) (xy 81.28 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64eb0c85-faff-44af-a88f-c79b5911d324")
+	)
+	(wire
+		(pts
+			(xy 105.41 212.09) (xy 105.41 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67094898-f02f-463b-b1b5-796ce238a7e2")
+	)
+	(wire
+		(pts
 			(xy 363.22 55.88) (xy 370.84 55.88)
 		)
 		(stroke
@@ -3711,7 +4537,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 196.85) (xy 54.61 196.85)
+			(xy 177.8 200.66) (xy 186.69 200.66)
 		)
 		(stroke
 			(width 0)
@@ -3741,7 +4567,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 181.61) (xy 90.17 181.61)
+			(xy 212.09 185.42) (xy 222.25 185.42)
 		)
 		(stroke
 			(width 0)
@@ -3761,7 +4587,27 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 210.82) (xy 170.18 210.82)
+			(xy 58.42 134.62) (xy 62.23 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ae0ff7b-5adb-4ead-9abe-229ffaa0ce86")
+	)
+	(wire
+		(pts
+			(xy 87.63 87.63) (xy 118.11 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b450e6e-7ad5-45c2-b381-dbacc9cf0a93")
+	)
+	(wire
+		(pts
+			(xy 300.99 208.28) (xy 309.88 208.28)
 		)
 		(stroke
 			(width 0)
@@ -3771,7 +4617,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 226.06) (xy 170.18 226.06)
+			(xy 300.99 223.52) (xy 309.88 223.52)
 		)
 		(stroke
 			(width 0)
@@ -3791,7 +4637,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 215.9) (xy 170.18 215.9)
+			(xy 300.99 213.36) (xy 309.88 213.36)
 		)
 		(stroke
 			(width 0)
@@ -3811,6 +4657,16 @@
 	)
 	(wire
 		(pts
+			(xy 67.31 212.09) (xy 73.66 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f8d4278-7ed9-427c-a212-e1770874635b")
+	)
+	(wire
+		(pts
 			(xy 294.64 55.88) (xy 302.26 55.88)
 		)
 		(stroke
@@ -3821,7 +4677,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 265.43) (xy 55.88 265.43)
+			(xy 176.53 271.78) (xy 186.69 271.78)
 		)
 		(stroke
 			(width 0)
@@ -3851,7 +4707,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 262.89) (xy 92.71 262.89)
+			(xy 212.09 269.24) (xy 223.52 269.24)
 		)
 		(stroke
 			(width 0)
@@ -3901,7 +4757,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 226.06) (xy 236.22 226.06)
+			(xy 367.03 223.52) (xy 375.92 223.52)
 		)
 		(stroke
 			(width 0)
@@ -3931,7 +4787,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 200.66) (xy 236.22 200.66)
+			(xy 367.03 198.12) (xy 375.92 198.12)
 		)
 		(stroke
 			(width 0)
@@ -3951,7 +4807,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 250.19) (xy 55.88 250.19)
+			(xy 176.53 256.54) (xy 186.69 256.54)
 		)
 		(stroke
 			(width 0)
@@ -3981,7 +4837,17 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 196.85) (xy 97.79 196.85)
+			(xy 73.66 212.09) (xy 81.28 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "863deb9b-3ef5-4049-8d82-67947e732df7")
+	)
+	(wire
+		(pts
+			(xy 212.09 200.66) (xy 229.87 200.66)
 		)
 		(stroke
 			(width 0)
@@ -4001,7 +4867,17 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 210.82) (xy 203.2 210.82)
+			(xy 44.45 134.62) (xy 50.8 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "889901be-9b85-46e0-ace9-c2a19831318e")
+	)
+	(wire
+		(pts
+			(xy 334.01 208.28) (xy 342.9 208.28)
 		)
 		(stroke
 			(width 0)
@@ -4011,7 +4887,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 214.63) (xy 54.61 214.63)
+			(xy 177.8 218.44) (xy 186.69 218.44)
 		)
 		(stroke
 			(width 0)
@@ -4021,7 +4897,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 185.42) (xy 203.2 185.42)
+			(xy 334.01 182.88) (xy 342.9 182.88)
 		)
 		(stroke
 			(width 0)
@@ -4038,6 +4914,16 @@
 			(type default)
 		)
 		(uuid "8d0f2ee3-2695-48ce-801a-feaeae3fa099")
+	)
+	(wire
+		(pts
+			(xy 73.66 220.98) (xy 81.28 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d33aac2-0021-41fe-b136-5e24f7bfbe14")
 	)
 	(wire
 		(pts
@@ -4081,7 +4967,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 195.58) (xy 203.2 195.58)
+			(xy 334.01 193.04) (xy 342.9 193.04)
 		)
 		(stroke
 			(width 0)
@@ -4091,7 +4977,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 209.55) (xy 54.61 209.55)
+			(xy 177.8 213.36) (xy 186.69 213.36)
 		)
 		(stroke
 			(width 0)
@@ -4101,7 +4987,17 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 190.5) (xy 236.22 190.5)
+			(xy 48.26 162.56) (xy 53.34 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "940904da-552a-4e2d-8966-f50da89dea2b")
+	)
+	(wire
+		(pts
+			(xy 367.03 187.96) (xy 375.92 187.96)
 		)
 		(stroke
 			(width 0)
@@ -4121,6 +5017,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 99.06) (xy 40.64 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b8ec925-c643-4a37-b773-a635c6da32ba")
+	)
+	(wire
+		(pts
 			(xy 363.22 19.05) (xy 370.84 19.05)
 		)
 		(stroke
@@ -4131,7 +5037,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 190.5) (xy 203.2 190.5)
+			(xy 334.01 187.96) (xy 342.9 187.96)
 		)
 		(stroke
 			(width 0)
@@ -4151,7 +5057,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 267.97) (xy 92.71 267.97)
+			(xy 212.09 274.32) (xy 223.52 274.32)
 		)
 		(stroke
 			(width 0)
@@ -4171,7 +5077,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 231.14) (xy 236.22 231.14)
+			(xy 367.03 228.6) (xy 375.92 228.6)
 		)
 		(stroke
 			(width 0)
@@ -4241,6 +5147,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 212.09) (xy 59.69 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad861394-e096-43e2-8240-30b139e9322e")
+	)
+	(wire
+		(pts
 			(xy 347.98 129.54) (xy 347.98 134.62)
 		)
 		(stroke
@@ -4281,7 +5197,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 195.58) (xy 236.22 195.58)
+			(xy 367.03 193.04) (xy 375.92 193.04)
 		)
 		(stroke
 			(width 0)
@@ -4291,7 +5207,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 240.03) (xy 55.88 240.03)
+			(xy 176.53 246.38) (xy 186.69 246.38)
 		)
 		(stroke
 			(width 0)
@@ -4301,7 +5217,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 215.9) (xy 236.22 215.9)
+			(xy 367.03 213.36) (xy 375.92 213.36)
 		)
 		(stroke
 			(width 0)
@@ -4321,7 +5237,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 199.39) (xy 97.79 199.39)
+			(xy 212.09 203.2) (xy 229.87 203.2)
 		)
 		(stroke
 			(width 0)
@@ -4341,7 +5257,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 231.14) (xy 135.89 231.14)
+			(xy 266.7 228.6) (xy 275.59 228.6)
 		)
 		(stroke
 			(width 0)
@@ -4371,7 +5287,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 185.42) (xy 170.18 185.42)
+			(xy 300.99 182.88) (xy 309.88 182.88)
 		)
 		(stroke
 			(width 0)
@@ -4388,6 +5304,16 @@
 			(type default)
 		)
 		(uuid "bc7d55d5-f07e-4a18-8710-ed69acec12ea")
+	)
+	(wire
+		(pts
+			(xy 118.11 85.09) (xy 118.11 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd17ade0-f1dd-4878-bd21-2abc7e30d0f7")
 	)
 	(wire
 		(pts
@@ -4421,7 +5347,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 250.19) (xy 101.6 250.19)
+			(xy 212.09 256.54) (xy 232.41 256.54)
 		)
 		(stroke
 			(width 0)
@@ -4441,6 +5367,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 195.58) (xy 52.07 195.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfdc98f3-67e3-4838-9f14-a26294758aa8")
+	)
+	(wire
+		(pts
 			(xy 240.03 68.58) (xy 247.65 68.58)
 		)
 		(stroke
@@ -4451,7 +5387,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 220.98) (xy 236.22 220.98)
+			(xy 367.03 218.44) (xy 375.92 218.44)
 		)
 		(stroke
 			(width 0)
@@ -4468,6 +5404,16 @@
 			(type default)
 		)
 		(uuid "c41f8753-ef35-428d-a7c5-bc8cc960a2f5")
+	)
+	(wire
+		(pts
+			(xy 67.31 120.65) (xy 78.74 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c51bd903-1ece-4dbd-8891-05aa48eff5c7")
 	)
 	(wire
 		(pts
@@ -4491,7 +5437,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 181.61) (xy 54.61 181.61)
+			(xy 177.8 185.42) (xy 186.69 185.42)
 		)
 		(stroke
 			(width 0)
@@ -4501,7 +5447,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 205.74) (xy 135.89 205.74)
+			(xy 266.7 203.2) (xy 275.59 203.2)
 		)
 		(stroke
 			(width 0)
@@ -4521,7 +5467,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 260.35) (xy 55.88 260.35)
+			(xy 176.53 266.7) (xy 186.69 266.7)
 		)
 		(stroke
 			(width 0)
@@ -4531,7 +5477,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 205.74) (xy 203.2 205.74)
+			(xy 334.01 203.2) (xy 342.9 203.2)
 		)
 		(stroke
 			(width 0)
@@ -4548,6 +5494,36 @@
 			(type default)
 		)
 		(uuid "ce98b2f2-68a6-4015-b9c7-a6ea07233359")
+	)
+	(wire
+		(pts
+			(xy 44.45 165.1) (xy 48.26 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf42d7c7-f7d5-436d-aff1-6895bc97404f")
+	)
+	(wire
+		(pts
+			(xy 35.56 80.01) (xy 52.07 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf5648b2-ae61-46fc-99cd-d1bc68fc407b")
+	)
+	(wire
+		(pts
+			(xy 99.06 220.98) (xy 81.28 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d33a05a9-1ddb-4ed6-97d3-c01e58f2de54")
 	)
 	(wire
 		(pts
@@ -4571,7 +5547,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 215.9) (xy 135.89 215.9)
+			(xy 266.7 213.36) (xy 275.59 213.36)
 		)
 		(stroke
 			(width 0)
@@ -4601,13 +5577,33 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 237.49) (xy 92.71 237.49)
+			(xy 38.1 64.77) (xy 52.07 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da55bc83-7852-476a-b246-f39a81c5ee61")
+	)
+	(wire
+		(pts
+			(xy 212.09 243.84) (xy 223.52 243.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "db48e718-0850-4191-a135-cc331419780e")
+	)
+	(wire
+		(pts
+			(xy 62.23 142.24) (xy 49.53 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbc047f5-d845-42c3-ab2d-694ed37f3a32")
 	)
 	(wire
 		(pts
@@ -4641,7 +5637,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 234.95) (xy 92.71 234.95)
+			(xy 212.09 241.3) (xy 223.52 241.3)
 		)
 		(stroke
 			(width 0)
@@ -4661,7 +5657,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 245.11) (xy 97.79 245.11)
+			(xy 212.09 251.46) (xy 228.6 251.46)
 		)
 		(stroke
 			(width 0)
@@ -4671,7 +5667,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 184.15) (xy 90.17 184.15)
+			(xy 212.09 187.96) (xy 222.25 187.96)
 		)
 		(stroke
 			(width 0)
@@ -4701,6 +5697,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 142.24) (xy 71.12 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5a63638-28cf-4906-927b-4a8fda58e0bd")
+	)
+	(wire
+		(pts
 			(xy 378.46 68.58) (xy 386.08 68.58)
 		)
 		(stroke
@@ -4711,7 +5717,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 220.98) (xy 203.2 220.98)
+			(xy 334.01 218.44) (xy 342.9 218.44)
 		)
 		(stroke
 			(width 0)
@@ -4741,7 +5747,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 185.42) (xy 135.89 185.42)
+			(xy 266.7 182.88) (xy 275.59 182.88)
 		)
 		(stroke
 			(width 0)
@@ -4761,7 +5767,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 247.65) (xy 55.88 247.65)
+			(xy 176.53 254) (xy 186.69 254)
 		)
 		(stroke
 			(width 0)
@@ -4771,7 +5777,17 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 199.39) (xy 54.61 199.39)
+			(xy 52.07 193.04) (xy 52.07 195.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ecee21b1-3a22-47c8-b2c9-1568bfd0db40")
+	)
+	(wire
+		(pts
+			(xy 177.8 203.2) (xy 186.69 203.2)
 		)
 		(stroke
 			(width 0)
@@ -4801,7 +5817,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 201.93) (xy 54.61 201.93)
+			(xy 177.8 205.74) (xy 186.69 205.74)
 		)
 		(stroke
 			(width 0)
@@ -4831,7 +5847,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 184.15) (xy 54.61 184.15)
+			(xy 177.8 187.96) (xy 186.69 187.96)
 		)
 		(stroke
 			(width 0)
@@ -4881,6 +5897,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 165.1) (xy 48.26 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6b27c24-03d7-494e-8ce5-4941591ce6a3")
+	)
+	(wire
+		(pts
 			(xy 255.27 55.88) (xy 255.27 60.96)
 		)
 		(stroke
@@ -4891,7 +5917,17 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 200.66) (xy 170.18 200.66)
+			(xy 49.53 137.16) (xy 44.45 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f83956f3-8c6a-4364-9209-aa917b287f92")
+	)
+	(wire
+		(pts
+			(xy 300.99 198.12) (xy 309.88 198.12)
 		)
 		(stroke
 			(width 0)
@@ -4901,7 +5937,17 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 267.97) (xy 55.88 267.97)
+			(xy 38.1 67.31) (xy 52.07 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8ccd0fa-59b0-4d98-90f6-a908ea5fe75d")
+	)
+	(wire
+		(pts
+			(xy 176.53 274.32) (xy 186.69 274.32)
 		)
 		(stroke
 			(width 0)
@@ -4911,7 +5957,17 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 205.74) (xy 170.18 205.74)
+			(xy 52.07 193.04) (xy 105.41 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f91436da-c03d-478b-b716-b2d5d8b8e028")
+	)
+	(wire
+		(pts
+			(xy 300.99 203.2) (xy 309.88 203.2)
 		)
 		(stroke
 			(width 0)
@@ -4921,7 +5977,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 231.14) (xy 170.18 231.14)
+			(xy 300.99 228.6) (xy 309.88 228.6)
 		)
 		(stroke
 			(width 0)
@@ -4938,6 +5994,16 @@
 			(type default)
 		)
 		(uuid "fb5c5499-0796-4a92-b6c7-ca6c18c94c7c")
+	)
+	(wire
+		(pts
+			(xy 71.12 142.24) (xy 62.23 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbba3c09-2f4f-4299-9555-8507b1ebf182")
 	)
 	(wire
 		(pts
@@ -4961,7 +6027,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 195.58) (xy 170.18 195.58)
+			(xy 300.99 193.04) (xy 309.88 193.04)
 		)
 		(stroke
 			(width 0)
@@ -4971,7 +6037,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 185.42) (xy 236.22 185.42)
+			(xy 367.03 182.88) (xy 375.92 182.88)
 		)
 		(stroke
 			(width 0)
@@ -5001,7 +6067,7 @@
 	)
 	(text "i2c addr = 0x7A\n"
 		(exclude_from_sim no)
-		(at 103.886 243.078 0)
+		(at 234.696 249.428 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5011,7 +6077,7 @@
 	)
 	(text "i2c addr = 0x6A\n"
 		(exclude_from_sim no)
-		(at 103.124 189.484 0)
+		(at 235.204 193.294 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5020,7 +6086,7 @@
 		(uuid "e36a24de-0987-42f9-bff8-ae03bdea3626")
 	)
 	(label "tp28"
-		(at 87.63 237.49 0)
+		(at 218.44 243.84 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5031,7 +6097,7 @@
 		(uuid "023a9953-69d5-46ec-9b36-a07956e77ee5")
 	)
 	(label "tp37"
-		(at 227.33 215.9 0)
+		(at 367.03 213.36 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5042,7 +6108,7 @@
 		(uuid "02bc4402-e7dc-43bf-9243-96fab41ef8ed")
 	)
 	(label "tp32"
-		(at 45.72 255.27 0)
+		(at 176.53 261.62 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5053,7 +6119,7 @@
 		(uuid "03445b74-89e4-4c97-bed7-6db383504a55")
 	)
 	(label "tp39"
-		(at 45.72 240.03 0)
+		(at 176.53 246.38 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5064,7 +6130,7 @@
 		(uuid "07a813e2-39d9-46f1-a1ea-125a53d9fb0c")
 	)
 	(label "tp36"
-		(at 45.72 250.19 0)
+		(at 176.53 256.54 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5075,7 +6141,7 @@
 		(uuid "083c0f06-3fa5-4c07-a92d-a1e4263d6175")
 	)
 	(label "tp31"
-		(at 45.72 252.73 0)
+		(at 176.53 259.08 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5086,7 +6152,7 @@
 		(uuid "0991130a-44c1-41c8-9109-3d2526b966f6")
 	)
 	(label "tp4"
-		(at 86.36 209.55 0)
+		(at 218.44 213.36 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5097,7 +6163,7 @@
 		(uuid "0ba3e519-ac1a-4a0a-93e1-9499c2e45943")
 	)
 	(label "tp24"
-		(at 87.63 262.89 0)
+		(at 218.44 269.24 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5108,7 +6174,7 @@
 		(uuid "0cada920-3212-462b-bd3d-5d39ad942284")
 	)
 	(label "tp15"
-		(at 45.72 212.09 0)
+		(at 177.8 215.9 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5119,7 +6185,7 @@
 		(uuid "1104c35c-647d-42ae-9510-07a9812ce4af")
 	)
 	(label "tp38"
-		(at 45.72 245.11 0)
+		(at 176.53 251.46 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5129,7 +6195,7 @@
 		)
 		(uuid "12fbc9e2-830a-4792-8bdc-ae4857e72f55")
 	)
-	(label "TOUCH_SDA"
+	(label "DISP_SDA"
 		(at 34.29 85.09 0)
 		(fields_autoplaced yes)
 		(effects
@@ -5141,7 +6207,7 @@
 		(uuid "13c60353-e816-441b-af81-5b83575d607e")
 	)
 	(label "tp37"
-		(at 45.72 247.65 0)
+		(at 176.53 254 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5152,7 +6218,7 @@
 		(uuid "14ead123-a868-44ba-9458-36e6211d191e")
 	)
 	(label "tp5"
-		(at 86.36 207.01 0)
+		(at 218.44 210.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5163,7 +6229,7 @@
 		(uuid "16736c39-42c3-4f2b-940d-e275eed47d88")
 	)
 	(label "tp1"
-		(at 45.72 214.63 0)
+		(at 177.8 218.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5174,7 +6240,7 @@
 		(uuid "179aa87b-b2bb-4ccf-aab5-0b2b1be55141")
 	)
 	(label "tp29"
-		(at 87.63 234.95 0)
+		(at 218.44 241.3 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5185,7 +6251,7 @@
 		(uuid "180d3c5e-ed8f-4290-8474-04c6eecb0caa")
 	)
 	(label "tp30"
-		(at 45.72 234.95 0)
+		(at 176.53 241.3 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5196,7 +6262,7 @@
 		(uuid "1b510c48-15d3-4bae-96a4-b4b145032de9")
 	)
 	(label "tp29"
-		(at 194.31 226.06 0)
+		(at 334.01 223.52 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5207,7 +6273,7 @@
 		(uuid "1f10035f-d708-4c01-8105-99b0bd5934fa")
 	)
 	(label "tp18"
-		(at 45.72 191.77 0)
+		(at 177.8 195.58 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5218,7 +6284,7 @@
 		(uuid "1f56f8bd-6dc4-4f0d-9205-54bf9627fcd5")
 	)
 	(label "tp34"
-		(at 45.72 262.89 0)
+		(at 176.53 269.24 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5229,7 +6295,7 @@
 		(uuid "20d40cd5-6fa0-4b62-8caa-8f6a8991d67a")
 	)
 	(label "TOUCH_SCL"
-		(at 87.63 196.85 0)
+		(at 219.71 200.66 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5239,8 +6305,30 @@
 		)
 		(uuid "20e7edfe-c485-417b-bb6c-37a712e69e7e")
 	)
+	(label "MIDI_OUT"
+		(at 74.93 167.64 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "21486391-92cd-4fc3-a6a4-84334889d767")
+	)
+	(label "MIDI_OUT"
+		(at 38.1 64.77 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "215794a2-4ffb-48a5-8d4a-bba2c8655881")
+	)
 	(label "tp6"
-		(at 86.36 189.23 0)
+		(at 218.44 193.04 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5251,7 +6339,7 @@
 		(uuid "22bdf4c6-1f20-4864-88cb-89cd23e71453")
 	)
 	(label "tp1"
-		(at 127 185.42 0)
+		(at 266.7 182.88 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5262,7 +6350,7 @@
 		(uuid "238309c7-c411-48a1-819d-8f9c3527e825")
 	)
 	(label "tp26"
-		(at 194.31 210.82 0)
+		(at 334.01 208.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5273,7 +6361,7 @@
 		(uuid "242690eb-b19a-4cd8-b18a-5d4e2f490dbc")
 	)
 	(label "tp40"
-		(at 227.33 231.14 0)
+		(at 367.03 228.6 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5284,7 +6372,7 @@
 		(uuid "25bdb60f-139a-4db0-b438-0ad92eea09c7")
 	)
 	(label "tp25"
-		(at 194.31 205.74 0)
+		(at 334.01 203.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5295,7 +6383,7 @@
 		(uuid "276ff55f-d5e5-48a4-b9cc-45c40485811c")
 	)
 	(label "tp16"
-		(at 161.29 210.82 0)
+		(at 300.99 208.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5306,7 +6394,7 @@
 		(uuid "2d12ee9b-e47e-43b9-b7ab-1bd8182c08d5")
 	)
 	(label "tp39"
-		(at 227.33 226.06 0)
+		(at 367.03 223.52 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5317,7 +6405,7 @@
 		(uuid "35d97d3d-6da9-49c2-a485-212dfad83975")
 	)
 	(label "tp7"
-		(at 127 215.9 0)
+		(at 266.7 213.36 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5328,7 +6416,7 @@
 		(uuid "36fc1dc1-904b-444e-99d7-36354e112a79")
 	)
 	(label "tp21"
-		(at 45.72 267.97 0)
+		(at 176.53 274.32 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5338,8 +6426,19 @@
 		)
 		(uuid "38307553-0215-4288-af2c-42aee58b29e4")
 	)
+	(label "PWM_AUDIO"
+		(at 35.56 80.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3d1d9b45-3881-4c0f-839a-af8d6581557d")
+	)
 	(label "tp7"
-		(at 86.36 186.69 0)
+		(at 218.44 190.5 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5350,7 +6449,7 @@
 		(uuid "3f404462-a67c-43e4-8c28-54b35b253c9a")
 	)
 	(label "tp2"
-		(at 86.36 214.63 0)
+		(at 218.44 218.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5361,7 +6460,7 @@
 		(uuid "4351bbba-3fa7-47fd-8339-b62b6b45920d")
 	)
 	(label "tp23"
-		(at 194.31 195.58 0)
+		(at 334.01 193.04 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5372,7 +6471,7 @@
 		(uuid "446ce6ed-8125-498b-83c8-420943f0c4dc")
 	)
 	(label "tp8"
-		(at 86.36 184.15 0)
+		(at 218.44 187.96 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5382,8 +6481,19 @@
 		)
 		(uuid "45694ac6-70e9-4c11-a7e1-3b8ed0e34787")
 	)
+	(label "MIDI_IN"
+		(at 90.17 137.16 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "480b9444-1601-4493-a6ae-6dcdd93d8114")
+	)
 	(label "tp14"
-		(at 161.29 200.66 0)
+		(at 300.99 198.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5393,8 +6503,19 @@
 		)
 		(uuid "4c5365f4-7a85-481e-92c5-d601abfd970e")
 	)
+	(label "PWM_AUDIO"
+		(at 35.56 80.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4c8fb8ab-df7b-46ea-8507-a3b353145c3a")
+	)
 	(label "tp17"
-		(at 161.29 215.9 0)
+		(at 300.99 213.36 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5404,8 +6525,19 @@
 		)
 		(uuid "4ef3a866-d17b-442a-9bbd-0b23c14b6a7c")
 	)
+	(label "DISP_SDA"
+		(at 52.07 99.06 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "55e1e90a-958c-4b0a-9efd-c0e48be36b2b")
+	)
 	(label "tp11"
-		(at 45.72 199.39 0)
+		(at 177.8 203.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5414,6 +6546,17 @@
 			(justify left bottom)
 		)
 		(uuid "5ad91b53-631d-4399-a782-472cbc44d7b0")
+	)
+	(label "TOUCH_SCL"
+		(at 95.25 85.09 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5aeb1a30-422d-46b0-afa9-19417544da1d")
 	)
 	(label "NEOPIXEL_DATA"
 		(at 163.83 31.75 0)
@@ -5427,7 +6570,7 @@
 		(uuid "5f13f76a-494b-497f-a0ff-b43bb2ed34eb")
 	)
 	(label "tp15"
-		(at 161.29 205.74 0)
+		(at 300.99 203.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5438,7 +6581,7 @@
 		(uuid "60638a6f-fe3a-4057-b2d8-224dae121fe9")
 	)
 	(label "tp6"
-		(at 127 210.82 0)
+		(at 266.7 208.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5448,8 +6591,19 @@
 		)
 		(uuid "6236e9bb-ad9b-4332-af80-3e4cf70d0a28")
 	)
+	(label "TOUCH_SDA"
+		(at 95.25 87.63 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "643bfa9a-3c4a-4caf-9e50-84b702bef317")
+	)
 	(label "tp16"
-		(at 45.72 196.85 0)
+		(at 177.8 200.66 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5460,7 +6614,7 @@
 		(uuid "64a39f30-b205-49dc-9b0c-7f943bf9d032")
 	)
 	(label "tp35"
-		(at 45.72 265.43 0)
+		(at 176.53 271.78 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5471,7 +6625,7 @@
 		(uuid "66a8f664-c7b2-4bc1-9059-b96e4728bb0c")
 	)
 	(label "tp14"
-		(at 45.72 209.55 0)
+		(at 177.8 213.36 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5482,7 +6636,7 @@
 		(uuid "6d55a833-3b6c-4aeb-ad68-e6dae594218b")
 	)
 	(label "tp9"
-		(at 127 226.06 0)
+		(at 266.7 223.52 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5493,7 +6647,7 @@
 		(uuid "705f5a5b-6679-42f3-9d81-7dfb15e2f07b")
 	)
 	(label "tp19"
-		(at 45.72 186.69 0)
+		(at 177.8 190.5 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5504,7 +6658,7 @@
 		(uuid "7104e2c9-442f-4c17-89a9-037f874da006")
 	)
 	(label "tp36"
-		(at 227.33 210.82 0)
+		(at 367.03 208.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5515,7 +6669,7 @@
 		(uuid "71ea5f20-b79c-4289-838c-16d84686600b")
 	)
 	(label "tp21"
-		(at 194.31 185.42 0)
+		(at 334.01 182.88 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5525,8 +6679,19 @@
 		)
 		(uuid "729e4885-ce00-4a7e-97f2-de329b14e448")
 	)
+	(label "PWM_AUDIO"
+		(at 48.26 212.09 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7312a936-71ba-4f40-9f89-50baf9e6b8e1")
+	)
 	(label "tp38"
-		(at 227.33 220.98 0)
+		(at 367.03 218.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5537,7 +6702,7 @@
 		(uuid "745bfd80-2145-43a5-824e-4ef76eba0551")
 	)
 	(label "tp12"
-		(at 161.29 190.5 0)
+		(at 300.99 187.96 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5548,7 +6713,7 @@
 		(uuid "7856a25a-199c-4ce8-96c1-eeacf3182583")
 	)
 	(label "tp10"
-		(at 127 231.14 0)
+		(at 266.7 228.6 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5559,7 +6724,7 @@
 		(uuid "7a09cf7d-db5a-4887-ade0-dea46c83f395")
 	)
 	(label "tp26"
-		(at 87.63 242.57 0)
+		(at 218.44 248.92 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5570,7 +6735,7 @@
 		(uuid "7d2b45ed-7cbb-498c-9696-6fe9d9c68dc7")
 	)
 	(label "tp23"
-		(at 87.63 265.43 0)
+		(at 218.44 271.78 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5581,7 +6746,7 @@
 		(uuid "7e40661a-7ef3-48a3-a03f-9702672353a1")
 	)
 	(label "TOUCH_SCL"
-		(at 91.44 250.19 0)
+		(at 222.25 256.54 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5592,7 +6757,7 @@
 		(uuid "7e8537c2-e83a-461a-866c-f158c6caa246")
 	)
 	(label "tp25"
-		(at 87.63 260.35 0)
+		(at 218.44 266.7 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5603,7 +6768,7 @@
 		(uuid "80b0c6bd-6dee-4b94-bae3-b3d8ee4cfc80")
 	)
 	(label "tp19"
-		(at 161.29 226.06 0)
+		(at 300.99 223.52 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5614,7 +6779,7 @@
 		(uuid "833a65dc-bb8b-4467-9bdb-9ca31bb858e5")
 	)
 	(label "TOUCH_SDA"
-		(at 87.63 199.39 0)
+		(at 219.71 203.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5625,7 +6790,7 @@
 		(uuid "87f2e2a6-ad72-4655-baa9-2545f1354c13")
 	)
 	(label "tp12"
-		(at 45.72 201.93 0)
+		(at 177.8 205.74 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5636,7 +6801,7 @@
 		(uuid "8be21ca4-ef8c-4232-b252-5e86d0c322d7")
 	)
 	(label "tp33"
-		(at 45.72 260.35 0)
+		(at 176.53 266.7 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5647,7 +6812,7 @@
 		(uuid "8e0d5e0a-b317-40e6-bbaf-f8efbcda83aa")
 	)
 	(label "tp20"
-		(at 161.29 231.14 0)
+		(at 300.99 228.6 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5658,7 +6823,7 @@
 		(uuid "8ee38324-a42f-4aee-9675-6bc21e64fcda")
 	)
 	(label "tp40"
-		(at 45.72 237.49 0)
+		(at 176.53 243.84 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5669,7 +6834,7 @@
 		(uuid "90e8ce1a-7956-4c4e-bd2c-f00b26a35ecb")
 	)
 	(label "TOUCH_SDA"
-		(at 91.44 252.73 0)
+		(at 222.25 259.08 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5680,7 +6845,7 @@
 		(uuid "9181cda6-f80a-4fec-8fcd-a099e0fcbdce")
 	)
 	(label "tp5"
-		(at 127 205.74 0)
+		(at 266.7 203.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5691,7 +6856,7 @@
 		(uuid "929fd8c7-edcb-45b7-8371-cc17db0f8ce8")
 	)
 	(label "tp4"
-		(at 127 200.66 0)
+		(at 266.7 198.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5702,7 +6867,7 @@
 		(uuid "9c33d835-2dc0-4468-8534-46ffc899dde9")
 	)
 	(label "tp28"
-		(at 194.31 220.98 0)
+		(at 334.01 218.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5713,7 +6878,7 @@
 		(uuid "9e740b9a-c415-43b8-a937-3e4bcba562e5")
 	)
 	(label "tp2"
-		(at 127 190.5 0)
+		(at 266.7 187.96 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5724,7 +6889,7 @@
 		(uuid "9e995ebc-41e4-48f5-891a-51c5023e8b55")
 	)
 	(label "tp8"
-		(at 127 220.98 0)
+		(at 266.7 218.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5734,8 +6899,19 @@
 		)
 		(uuid "9ec6b729-fbde-4cfb-90f9-bb3d65558eab")
 	)
+	(label "AUDIO_OUT"
+		(at 73.66 193.04 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a0631b64-f2e4-4644-a838-6630475175bd")
+	)
 	(label "tp33"
-		(at 227.33 195.58 0)
+		(at 367.03 193.04 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5746,7 +6922,7 @@
 		(uuid "a0cee6aa-9005-4110-8404-82fd18998979")
 	)
 	(label "tp34"
-		(at 227.33 200.66 0)
+		(at 367.03 198.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5757,7 +6933,7 @@
 		(uuid "a68b928f-ba54-40aa-96d6-d5abb5d1bf07")
 	)
 	(label "tp27"
-		(at 87.63 240.03 0)
+		(at 218.44 246.38 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5768,7 +6944,7 @@
 		(uuid "abbe17a5-b47a-4124-8d6d-859650e01f8f")
 	)
 	(label "tp13"
-		(at 45.72 207.01 0)
+		(at 177.8 210.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5790,7 +6966,7 @@
 		(uuid "af38f772-b41c-4390-975d-b8783aa71a29")
 	)
 	(label "tp27"
-		(at 194.31 215.9 0)
+		(at 334.01 213.36 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5801,7 +6977,7 @@
 		(uuid "b3361b78-5743-4c2a-9923-47208b092768")
 	)
 	(label "tp13"
-		(at 161.29 195.58 0)
+		(at 300.99 193.04 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5812,7 +6988,7 @@
 		(uuid "ba32a99e-0d7b-460c-8ecd-32300e1a4569")
 	)
 	(label "tp30"
-		(at 194.31 231.14 0)
+		(at 334.01 228.6 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5823,7 +6999,7 @@
 		(uuid "ba917c6c-992a-4e24-a3b8-6587c596207c")
 	)
 	(label "tp11"
-		(at 161.29 185.42 0)
+		(at 300.99 182.88 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5834,7 +7010,7 @@
 		(uuid "bae09087-4ba4-420d-b480-6a65345bb7a4")
 	)
 	(label "tp3"
-		(at 86.36 212.09 0)
+		(at 218.44 215.9 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5845,7 +7021,7 @@
 		(uuid "c59f84c6-d859-4221-9ff5-618d70bd1996")
 	)
 	(label "tp24"
-		(at 194.31 200.66 0)
+		(at 334.01 198.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5855,8 +7031,19 @@
 		)
 		(uuid "c7024569-779e-48e9-993b-454a920ba3ba")
 	)
+	(label "DISP_SCL"
+		(at 52.07 101.6 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c9ae6252-1736-4c1e-a613-c3a9e234dc93")
+	)
 	(label "tp3"
-		(at 127 195.58 0)
+		(at 266.7 193.04 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5867,7 +7054,7 @@
 		(uuid "d1242ef9-3b8c-4e69-9999-1eaa9100b69a")
 	)
 	(label "tp9"
-		(at 86.36 181.61 0)
+		(at 218.44 185.42 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5878,7 +7065,7 @@
 		(uuid "d5a54ed5-0a47-42bd-bfb1-c04579f28520")
 	)
 	(label "tp20"
-		(at 45.72 184.15 0)
+		(at 177.8 187.96 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5888,7 +7075,7 @@
 		)
 		(uuid "d798b7da-ba15-4642-bb5a-d4ea73dd91e9")
 	)
-	(label "TOUCH_SCL"
+	(label "DISP_SCL"
 		(at 34.29 87.63 0)
 		(fields_autoplaced yes)
 		(effects
@@ -5900,7 +7087,7 @@
 		(uuid "d92b5068-7f15-4c69-9808-0896b37a5e40")
 	)
 	(label "tp32"
-		(at 227.33 190.5 0)
+		(at 367.03 187.96 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5911,7 +7098,7 @@
 		(uuid "de10af26-8bd0-41f6-9f1b-9ad44146a332")
 	)
 	(label "tp18"
-		(at 161.29 220.98 0)
+		(at 300.99 218.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5922,7 +7109,7 @@
 		(uuid "dee83d93-d088-4537-b4ae-806181e87731")
 	)
 	(label "tp17"
-		(at 45.72 194.31 0)
+		(at 177.8 198.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5933,7 +7120,7 @@
 		(uuid "df4612f9-214a-41e5-a071-c705c73c48e6")
 	)
 	(label "tp31"
-		(at 227.33 185.42 0)
+		(at 367.03 182.88 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5944,7 +7131,7 @@
 		(uuid "e16139ce-1937-4235-a655-1f76a6835816")
 	)
 	(label "tp35"
-		(at 227.33 205.74 0)
+		(at 367.03 203.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5955,7 +7142,7 @@
 		(uuid "ea90f1e2-1fad-4b83-8098-b7acd63bb9d6")
 	)
 	(label "tp10"
-		(at 45.72 181.61 0)
+		(at 177.8 185.42 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5966,7 +7153,7 @@
 		(uuid "eef20602-dd77-4c4f-afe6-95ea8ebb130c")
 	)
 	(label "tp22"
-		(at 87.63 267.97 0)
+		(at 218.44 274.32 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5977,7 +7164,7 @@
 		(uuid "f37ec7b9-987c-4bbb-9640-3fb428c6fde4")
 	)
 	(label "tp22"
-		(at 194.31 190.5 0)
+		(at 334.01 187.96 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5986,6 +7173,17 @@
 			(justify left bottom)
 		)
 		(uuid "f414d210-1219-430b-8bf7-ec1ccdf701df")
+	)
+	(label "MIDI_IN"
+		(at 38.1 67.31 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f8d77fa8-d5e9-4e88-9491-ee35fa5468fd")
 	)
 	(symbol
 		(lib_id "power:+3V3")
@@ -6531,6 +7729,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 118.11 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "09197638-82dd-4fc6-ad37-658371c0dbfa")
+		(property "Reference" "R4"
+			(at 120.65 80.0099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4.7k"
+			(at 120.65 82.5499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 116.332 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 118.11 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 118.11 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "944212da-663d-4a98-b2c0-7f6783d4d0b9")
+		)
+		(pin "1"
+			(uuid "e8f4f677-cc78-40a2-83c7-6c435e5a4b5c")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 393.7 19.05 0)
 		(unit 1)
@@ -6598,7 +7866,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 97.79 245.11 270)
+		(at 228.6 251.46 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6607,7 +7875,7 @@
 		(fields_autoplaced yes)
 		(uuid "09f86e1d-c5ce-43e4-b5f1-338d60a82f07")
 		(property "Reference" "#PWR0101"
-			(at 93.98 245.11 0)
+			(at 224.79 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6616,7 +7884,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 101.6 245.1099 90)
+			(at 232.41 251.4599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6625,7 +7893,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 97.79 245.11 0)
+			(at 228.6 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6634,7 +7902,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 97.79 245.11 0)
+			(at 228.6 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6643,7 +7911,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 97.79 245.11 0)
+			(at 228.6 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6865,7 +8133,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 203.2 205.74 270)
+		(at 342.9 203.2 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6873,7 +8141,7 @@
 		(dnp no)
 		(uuid "0c645c9d-c6e2-4ef9-b623-9d2ca0de6108")
 		(property "Reference" "TP25"
-			(at 207.264 205.74 90)
+			(at 346.964 203.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6882,7 +8150,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 206.502 203.2 90)
+			(at 346.202 200.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6891,7 +8159,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 195.58 205.74 0)
+			(at 335.28 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6900,7 +8168,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 193.04 205.74 0)
+			(at 332.74 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6909,7 +8177,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 203.2 205.74 0)
+			(at 342.9 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7070,7 +8338,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 203.2 220.98 270)
+		(at 342.9 218.44 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7078,7 +8346,7 @@
 		(dnp no)
 		(uuid "0e945e26-22d3-4684-a2f8-26a1a358b2a0")
 		(property "Reference" "TP28"
-			(at 207.264 220.98 90)
+			(at 346.964 218.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7087,7 +8355,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 206.502 218.44 90)
+			(at 346.202 215.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7096,7 +8364,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 195.58 220.98 0)
+			(at 335.28 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7105,7 +8373,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 193.04 220.98 0)
+			(at 332.74 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7114,7 +8382,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 203.2 220.98 0)
+			(at 342.9 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7271,7 +8539,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 55.88 257.81 270)
+		(at 186.69 264.16 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7279,7 +8547,7 @@
 		(dnp no)
 		(uuid "0f6acc6b-2b52-4e89-9519-06f6e0a4b97f")
 		(property "Reference" "#PWR093"
-			(at 49.53 257.81 0)
+			(at 180.34 264.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7288,7 +8556,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 53.086 257.81 90)
+			(at 183.896 264.16 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7297,7 +8565,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 55.88 257.81 0)
+			(at 186.69 264.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7306,7 +8574,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 257.81 0)
+			(at 186.69 264.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7315,7 +8583,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 55.88 257.81 0)
+			(at 186.69 264.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8205,7 +9473,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 170.18 205.74 270)
+		(at 309.88 203.2 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8213,7 +9481,7 @@
 		(dnp no)
 		(uuid "1a440649-5e13-4e4b-b2d8-64d24b699c64")
 		(property "Reference" "TP15"
-			(at 174.244 205.74 90)
+			(at 313.944 203.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8222,7 +9490,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 173.482 203.2 90)
+			(at 313.182 200.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8231,7 +9499,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 162.56 205.74 0)
+			(at 302.26 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8240,7 +9508,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 160.02 205.74 0)
+			(at 299.72 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8249,7 +9517,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 170.18 205.74 0)
+			(at 309.88 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8271,7 +9539,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 236.22 185.42 270)
+		(at 375.92 182.88 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8279,7 +9547,7 @@
 		(dnp no)
 		(uuid "1ac6bff4-0f1c-4b98-a09c-5e3300170df4")
 		(property "Reference" "TP31"
-			(at 240.284 185.42 90)
+			(at 379.984 182.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8288,7 +9556,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 239.522 182.88 90)
+			(at 379.222 180.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8297,7 +9565,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 228.6 185.42 0)
+			(at 368.3 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8306,7 +9574,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 226.06 185.42 0)
+			(at 365.76 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8315,7 +9583,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 236.22 185.42 0)
+			(at 375.92 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8606,7 +9874,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 170.18 215.9 270)
+		(at 309.88 213.36 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8614,7 +9882,7 @@
 		(dnp no)
 		(uuid "1c3a53bc-d372-4479-b834-5cab2922c709")
 		(property "Reference" "TP17"
-			(at 174.244 215.9 90)
+			(at 313.944 213.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8623,7 +9891,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 173.482 213.36 90)
+			(at 313.182 210.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8632,7 +9900,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 162.56 215.9 0)
+			(at 302.26 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8641,7 +9909,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 160.02 215.9 0)
+			(at 299.72 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8650,7 +9918,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 170.18 215.9 0)
+			(at 309.88 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8875,8 +10143,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Isolator:H11L1")
+		(at 78.74 137.16 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "22512102-d486-46c0-8cb4-a8a4b55bb4d1")
+		(property "Reference" "U5"
+			(at 88.9 130.8414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "H11L1"
+			(at 88.9 133.3814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-6_W8.89mm_SMDSocket_LongPads"
+			(at 76.454 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/H11L3M-D.PDF"
+			(at 76.454 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Schmitt Trigger Output Optocoupler, High Speed, DIP-6, 1.6mA turn on threshold"
+			(at 78.74 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "a0950fe8-0653-435e-9669-54b025208721")
+		)
+		(pin "4"
+			(uuid "0276707b-d7de-406a-ac46-e72c64a96734")
+		)
+		(pin "3"
+			(uuid "b2419fcc-a675-49ec-8560-0f01ea84fc1a")
+		)
+		(pin "6"
+			(uuid "508c71f7-6a95-463a-b1fb-3c9215063397")
+		)
+		(pin "1"
+			(uuid "fab31e19-f94f-4904-9db1-94cbc61be0ca")
+		)
+		(pin "2"
+			(uuid "7581a44a-d29c-4165-9a64-a2c1a8b2d431")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "U5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 80.01 194.31 90)
+		(at 212.09 198.12 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8884,7 +10232,7 @@
 		(dnp no)
 		(uuid "238a018a-4562-4452-9fc3-5a9de2b84877")
 		(property "Reference" "#PWR096"
-			(at 86.36 194.31 0)
+			(at 218.44 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8893,7 +10241,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 82.804 194.31 90)
+			(at 214.884 198.12 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8902,7 +10250,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 80.01 194.31 0)
+			(at 212.09 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8911,7 +10259,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 194.31 0)
+			(at 212.09 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8920,7 +10268,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 80.01 194.31 0)
+			(at 212.09 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9143,6 +10491,74 @@
 			(project "picotouch_grid"
 				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
 					(reference "LED26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 57.15 162.56 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "26c17f66-3026-4695-b8d9-53b78df69625")
+		(property "Reference" "R6"
+			(at 57.15 156.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "33"
+			(at 57.15 158.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 57.15 160.782 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 57.15 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 57.15 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "51700f67-9c5b-48b0-a00b-52e2f0321135")
+		)
+		(pin "1"
+			(uuid "6f832ec1-d943-440d-b00e-621eb5b5e2e3")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -9405,6 +10821,72 @@
 			(project "picotouch_grid"
 				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
 					(reference "#PWR068")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 73.66 220.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2f01e871-2872-4096-9de8-c77ba90fabe2")
+		(property "Reference" "#PWR0155"
+			(at 73.66 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 72.136 223.266 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 73.66 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 73.66 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "185a24ae-3547-45f1-93f6-822a096ac7bd")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "#PWR0155")
 					(unit 1)
 				)
 			)
@@ -9684,7 +11166,7 @@
 	)
 	(symbol
 		(lib_id "todbot_stuff:TS20_easyeda")
-		(at 67.31 198.12 0)
+		(at 199.39 201.93 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9693,7 +11175,7 @@
 		(fields_autoplaced yes)
 		(uuid "355be702-b1f8-410e-8e6f-db52a6246045")
 		(property "Reference" "U2"
-			(at 67.31 173.99 0)
+			(at 199.39 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9701,7 +11183,7 @@
 			)
 		)
 		(property "Value" "TS20"
-			(at 67.31 176.53 0)
+			(at 199.39 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9709,7 +11191,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:TSSOP-28_L9.7-W4.4-P0.65-LS6.4-BL"
-			(at 67.31 222.25 0)
+			(at 199.39 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9718,7 +11200,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Touch-Screen-Controller-ICs_TS20_C95876.html"
-			(at 67.31 224.79 0)
+			(at 199.39 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9727,7 +11209,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 67.31 198.12 0)
+			(at 199.39 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9736,7 +11218,7 @@
 			)
 		)
 		(property "LCSC Part" "C95876"
-			(at 67.31 227.33 0)
+			(at 199.39 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10185,7 +11667,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 236.22 210.82 270)
+		(at 375.92 208.28 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10193,7 +11675,7 @@
 		(dnp no)
 		(uuid "3c78e9cd-13d7-4a78-b095-ef0b98b46af6")
 		(property "Reference" "TP36"
-			(at 240.284 210.82 90)
+			(at 379.984 208.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10202,7 +11684,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 239.522 208.28 90)
+			(at 379.222 205.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10211,7 +11693,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 228.6 210.82 0)
+			(at 368.3 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10220,7 +11702,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 226.06 210.82 0)
+			(at 365.76 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10229,7 +11711,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 236.22 210.82 0)
+			(at 375.92 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10251,7 +11733,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 236.22 190.5 270)
+		(at 375.92 187.96 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10259,7 +11741,7 @@
 		(dnp no)
 		(uuid "3c95815e-1241-4880-98d8-27654cf9cb66")
 		(property "Reference" "TP32"
-			(at 240.284 190.5 90)
+			(at 379.984 187.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10268,7 +11750,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 239.522 187.96 90)
+			(at 379.222 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10277,7 +11759,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 228.6 190.5 0)
+			(at 368.3 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10286,7 +11768,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 226.06 190.5 0)
+			(at 365.76 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10295,7 +11777,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 236.22 190.5 0)
+			(at 375.92 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10310,6 +11792,75 @@
 			(project "picotouch_grid"
 				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
 					(reference "TP32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 91.44 212.09 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3cef7a76-8c96-4ce3-9d1f-9b212b241cf6")
+		(property "Reference" "C45"
+			(at 92.71 205.486 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "47uF"
+			(at 90.17 204.724 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 87.63 213.0552 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 91.44 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 91.44 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c3f6f8fe-5bb6-4ab8-a8e5-8396ae0c635c")
+		)
+		(pin "1"
+			(uuid "d9a697c4-9b0d-4e14-8f43-49f75dbcbb35")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "C45")
 					(unit 1)
 				)
 			)
@@ -10375,6 +11926,74 @@
 			(project "picotouch_grid"
 				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
 					(reference "#PWR0117")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 57.15 167.64 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3d9bc05a-8379-4bfc-9f8f-a07696f66e26")
+		(property "Reference" "R7"
+			(at 57.15 173.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10"
+			(at 57.15 171.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 57.15 169.418 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 57.15 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 57.15 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e9b2d2f3-3825-4d4c-913e-2172d8f00a3c")
+		)
+		(pin "1"
+			(uuid "8ab9c846-74ff-41e0-a9fe-91e055aba283")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -10506,6 +12125,75 @@
 			(project "picotouch_grid"
 				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
 					(reference "#PWR0128")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 67.31 124.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "40f24e32-2cac-49a3-92ab-0bc4fb6bb2ce")
+		(property "Reference" "C43"
+			(at 60.706 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 59.944 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 68.2752 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 67.31 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 67.31 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c3c493cf-6581-4ceb-bfe1-8ca636742c3e")
+		)
+		(pin "1"
+			(uuid "9187f444-2ba9-49e0-80e4-c79829e15164")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "C43")
 					(unit 1)
 				)
 			)
@@ -10848,7 +12536,7 @@
 	)
 	(symbol
 		(lib_id "todbot_stuff:TS20_easyeda")
-		(at 68.58 251.46 0)
+		(at 199.39 257.81 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10857,7 +12545,7 @@
 		(fields_autoplaced yes)
 		(uuid "452d7c4f-c77c-4659-8101-cc24310bd3f2")
 		(property "Reference" "U3"
-			(at 68.58 227.33 0)
+			(at 199.39 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10865,7 +12553,7 @@
 			)
 		)
 		(property "Value" "TS20"
-			(at 68.58 229.87 0)
+			(at 199.39 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10873,7 +12561,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:TSSOP-28_L9.7-W4.4-P0.65-LS6.4-BL"
-			(at 68.58 275.59 0)
+			(at 199.39 281.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10882,7 +12570,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Touch-Screen-Controller-ICs_TS20_C95876.html"
-			(at 68.58 278.13 0)
+			(at 199.39 284.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10891,7 +12579,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 68.58 251.46 0)
+			(at 199.39 257.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10900,7 +12588,7 @@
 			)
 		)
 		(property "LCSC Part" "C95876"
-			(at 68.58 280.67 0)
+			(at 199.39 287.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10996,6 +12684,90 @@
 			(project "picotouch_grid"
 				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
 					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:HS96L03W2C03")
+		(at 34.29 102.87 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "45aef7e0-645e-4bac-802b-59f3d0a5af80")
+		(property "Reference" "DISP1"
+			(at 29.21 104.1401 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "HS96L03W2C03"
+			(at 29.21 101.6001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "todbot_stuff:OLED-TH_under_L27.8-W27.2-P2.54_C9900033791"
+			(at 34.29 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 34.29 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 34.29 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C5248080"
+			(at 34.29 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "493495cb-0425-44a3-840d-f7cbe56ccfad")
+		)
+		(pin "2"
+			(uuid "5abd7c82-cdc3-4a8d-a0f4-7ebdda9d65cc")
+		)
+		(pin "1"
+			(uuid "5383497e-94df-4bea-a22d-d818c862f6ae")
+		)
+		(pin "3"
+			(uuid "827d68c1-a5c9-433a-81c8-564e2500c3bc")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "DISP1")
 					(unit 1)
 				)
 			)
@@ -11290,6 +13062,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 67.31 128.27 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4ac63dfc-886f-4b16-a5cb-61c992fd012b")
+		(property "Reference" "#PWR0150"
+			(at 67.31 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 65.786 130.556 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 67.31 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 67.31 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 67.31 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1257f03a-9f38-48f4-8366-28ec4467f3a5")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "#PWR0150")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "PCM_marbastlib-various:SK6812MINI-E")
 		(at 209.55 68.58 0)
 		(unit 1)
@@ -11575,7 +13413,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 170.18 220.98 270)
+		(at 309.88 218.44 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11583,7 +13421,7 @@
 		(dnp no)
 		(uuid "4f14857c-784a-4f36-905f-5937d156984c")
 		(property "Reference" "TP18"
-			(at 174.244 220.98 90)
+			(at 313.944 218.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11592,7 +13430,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 173.482 218.44 90)
+			(at 313.182 215.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11601,7 +13439,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 162.56 220.98 0)
+			(at 302.26 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11610,7 +13448,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 160.02 220.98 0)
+			(at 299.72 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11619,7 +13457,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 170.18 220.98 0)
+			(at 309.88 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11971,8 +13809,76 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 40.64 104.14 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5692a3a3-ed1e-47ab-9ec0-3e4b705c6e36")
+		(property "Reference" "#PWR0146"
+			(at 36.83 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 44.45 104.1399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 40.64 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 40.64 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "715a11ae-784f-4196-b8af-fe7ce4d274ed")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "#PWR0146")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
-		(at 29.21 170.18 0)
+		(at 168.91 187.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11980,7 +13886,7 @@
 		(dnp no)
 		(uuid "56d53435-a20e-4696-a2e3-7234ce0c0fa1")
 		(property "Reference" "C41"
-			(at 22.606 168.656 0)
+			(at 162.306 186.436 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11989,7 +13895,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 21.59 171.196 0)
+			(at 161.29 188.976 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11998,7 +13904,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 30.1752 173.99 0)
+			(at 169.8752 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12007,7 +13913,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 29.21 170.18 0)
+			(at 168.91 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12016,7 +13922,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 29.21 170.18 0)
+			(at 168.91 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12310,7 +14216,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 135.89 226.06 270)
+		(at 275.59 223.52 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12318,7 +14224,7 @@
 		(dnp no)
 		(uuid "5d02da84-3878-40d7-9de0-a9005ecb5805")
 		(property "Reference" "TP9"
-			(at 139.954 226.06 90)
+			(at 279.654 223.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12327,7 +14233,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 139.192 223.52 90)
+			(at 278.892 220.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12336,7 +14242,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 128.27 226.06 0)
+			(at 267.97 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12345,7 +14251,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 125.73 226.06 0)
+			(at 265.43 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12354,7 +14260,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 135.89 226.06 0)
+			(at 275.59 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12369,6 +14275,141 @@
 			(project "picotouch_grid"
 				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
 					(reference "TP9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 81.28 217.17 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5d193272-6e9d-4af2-91ec-413f8cc63fd2")
+		(property "Reference" "R9"
+			(at 87.63 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100"
+			(at 85.09 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 83.058 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 81.28 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 81.28 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6b176b97-842b-4eff-84fc-6110dcf64d9c")
+		)
+		(pin "1"
+			(uuid "00466776-85a0-42d0-b4aa-358ce6a17683")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 67.31 162.56 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5db860ce-2fc6-41e6-a5b8-58f97167c076")
+		(property "Reference" "#PWR0153"
+			(at 63.5 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 71.12 162.5599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 67.31 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 67.31 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 67.31 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "79bf4a70-a4df-4f1a-9a71-21758e9718d1")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "#PWR0153")
 					(unit 1)
 				)
 			)
@@ -12442,7 +14483,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 236.22 220.98 270)
+		(at 375.92 218.44 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12450,7 +14491,7 @@
 		(dnp no)
 		(uuid "5f952ac4-94a2-4d58-8232-a74bf9d911ed")
 		(property "Reference" "TP38"
-			(at 240.284 220.98 90)
+			(at 379.984 218.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12459,7 +14500,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 239.522 218.44 90)
+			(at 379.222 215.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12468,7 +14509,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 228.6 220.98 0)
+			(at 368.3 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12477,7 +14518,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 226.06 220.98 0)
+			(at 365.76 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12486,7 +14527,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 236.22 220.98 0)
+			(at 375.92 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12839,7 +14880,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 27.94 224.79 0)
+		(at 167.64 238.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12848,7 +14889,7 @@
 		(fields_autoplaced yes)
 		(uuid "690f244f-f10c-4a0f-9b7e-498912d35caa")
 		(property "Reference" "#PWR0144"
-			(at 27.94 228.6 0)
+			(at 167.64 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12857,7 +14898,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 27.94 219.71 0)
+			(at 167.64 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12865,7 +14906,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 27.94 224.79 0)
+			(at 167.64 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12874,7 +14915,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 27.94 224.79 0)
+			(at 167.64 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12883,7 +14924,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 27.94 224.79 0)
+			(at 167.64 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12905,7 +14946,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 80.01 201.93 270)
+		(at 212.09 205.74 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12914,7 +14955,7 @@
 		(fields_autoplaced yes)
 		(uuid "69b1f306-a60e-4d2b-800d-21141d0a77fe")
 		(property "Reference" "#PWR099"
-			(at 76.2 201.93 0)
+			(at 208.28 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12923,7 +14964,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 83.82 201.9299 90)
+			(at 215.9 205.7399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12932,7 +14973,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 80.01 201.93 0)
+			(at 212.09 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12941,7 +14982,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 201.93 0)
+			(at 212.09 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12950,7 +14991,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 80.01 201.93 0)
+			(at 212.09 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12972,7 +15013,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 236.22 200.66 270)
+		(at 375.92 198.12 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12980,7 +15021,7 @@
 		(dnp no)
 		(uuid "69fdb61d-1243-4643-a85b-dbb28d9bcc64")
 		(property "Reference" "TP34"
-			(at 240.284 200.66 90)
+			(at 379.984 198.12 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12989,7 +15030,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 239.522 198.12 90)
+			(at 379.222 195.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12998,7 +15039,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 228.6 200.66 0)
+			(at 368.3 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13007,7 +15048,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 226.06 200.66 0)
+			(at 365.76 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13016,7 +15057,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 236.22 200.66 0)
+			(at 375.92 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13234,7 +15275,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 135.89 210.82 270)
+		(at 275.59 208.28 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13242,7 +15283,7 @@
 		(dnp no)
 		(uuid "6f416056-a24f-4b44-8a74-5985806f09f4")
 		(property "Reference" "TP6"
-			(at 139.954 210.82 90)
+			(at 279.654 208.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13251,7 +15292,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 139.192 208.28 90)
+			(at 278.892 205.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13260,7 +15301,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 128.27 210.82 0)
+			(at 267.97 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13269,7 +15310,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 125.73 210.82 0)
+			(at 265.43 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13278,7 +15319,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 135.89 210.82 0)
+			(at 275.59 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13293,6 +15334,143 @@
 			(project "picotouch_grid"
 				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
 					(reference "TP6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 63.5 212.09 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "70aca5d6-fdc1-4f7a-bd05-b8f14a7b2fe1")
+		(property "Reference" "R8"
+			(at 63.5 205.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "200"
+			(at 63.5 208.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 63.5 210.312 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 63.5 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 63.5 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "73733c0a-b4a0-456f-be5b-f3c8b43a1d1d")
+		)
+		(pin "1"
+			(uuid "d15948a7-bf87-49e7-bd48-d98ab3f605dc")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 73.66 217.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7202ab93-cb25-47be-ba8c-2e0b1382b048")
+		(property "Reference" "C44"
+			(at 67.056 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 66.294 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 74.6252 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 73.66 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 73.66 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f8f283ec-9c23-4fd0-8710-4b9fc8564637")
+		)
+		(pin "1"
+			(uuid "de3b95ca-982d-46ad-a1ee-b6683cd35989")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "C44")
 					(unit 1)
 				)
 			)
@@ -13500,7 +15678,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 81.28 247.65 90)
+		(at 212.09 254 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13508,7 +15686,7 @@
 		(dnp no)
 		(uuid "73faac7f-fb61-438b-ab97-19005517f04c")
 		(property "Reference" "#PWR090"
-			(at 87.63 247.65 0)
+			(at 218.44 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13517,7 +15695,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 84.074 247.65 90)
+			(at 214.884 254 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13526,7 +15704,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 247.65 0)
+			(at 212.09 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13535,7 +15713,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 247.65 0)
+			(at 212.09 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13544,7 +15722,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 81.28 247.65 0)
+			(at 212.09 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13566,7 +15744,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 54.61 204.47 270)
+		(at 186.69 208.28 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13574,7 +15752,7 @@
 		(dnp no)
 		(uuid "7563db8c-447a-4db2-b0cd-2547e2dccdf6")
 		(property "Reference" "#PWR098"
-			(at 48.26 204.47 0)
+			(at 180.34 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13583,7 +15761,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 51.816 204.47 90)
+			(at 183.896 208.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13592,7 +15770,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.61 204.47 0)
+			(at 186.69 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13601,7 +15779,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 204.47 0)
+			(at 186.69 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13610,7 +15788,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 54.61 204.47 0)
+			(at 186.69 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13697,7 +15875,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 135.89 231.14 270)
+		(at 275.59 228.6 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13705,7 +15883,7 @@
 		(dnp no)
 		(uuid "76488370-2c9b-43fa-acfe-c1eedf69732f")
 		(property "Reference" "TP10"
-			(at 139.954 231.14 90)
+			(at 279.654 228.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13714,7 +15892,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 139.192 228.6 90)
+			(at 278.892 226.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13723,7 +15901,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 128.27 231.14 0)
+			(at 267.97 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13732,7 +15910,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 125.73 231.14 0)
+			(at 265.43 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13741,7 +15919,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 135.89 231.14 0)
+			(at 275.59 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14445,7 +16623,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 236.22 215.9 270)
+		(at 375.92 213.36 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14453,7 +16631,7 @@
 		(dnp no)
 		(uuid "7face501-31e9-4b25-a9ed-995806ab1832")
 		(property "Reference" "TP37"
-			(at 240.284 215.9 90)
+			(at 379.984 213.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14462,7 +16640,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 239.522 213.36 90)
+			(at 379.222 210.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14471,7 +16649,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 228.6 215.9 0)
+			(at 368.3 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14480,7 +16658,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 226.06 215.9 0)
+			(at 365.76 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14489,7 +16667,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 236.22 215.9 0)
+			(at 375.92 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14701,34 +16879,106 @@
 		)
 	)
 	(symbol
-		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 203.2 200.66 270)
+		(lib_id "keebio:TRRS")
+		(at 35.56 127 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "812cf028-6581-41f4-bfe7-0fb0911a9e37")
-		(property "Reference" "TP24"
-			(at 207.264 200.66 90)
+		(uuid "7fe38ccc-03d1-418b-a431-268ef6dad31d")
+		(property "Reference" "J1"
+			(at 34.925 144.78 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "TRRS"
+			(at 34.925 142.24 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "Keebio-Parts:TRRS-PJ-320D"
+			(at 31.75 127 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 31.75 127 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 35.56 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(hide yes)
 			)
 		)
-		(property "Value" "Capacitive_Button"
-			(at 206.502 198.12 90)
+		(pin "1"
+			(uuid "3cac96c5-27af-42c1-8b4a-fde5dcbe90bf")
+		)
+		(pin "3"
+			(uuid "b08c5b9e-e6c9-465c-896e-871eaee4853e")
+		)
+		(pin "2"
+			(uuid "de7de659-f65f-477d-aa03-1399b7cbbd6f")
+		)
+		(pin "4"
+			(uuid "8541c6bf-8361-44a2-86d9-84e8341ccc20")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 99.06 215.9 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "80e6532b-3e68-4f33-809c-af6ccdef0b83")
+		(property "Reference" "R10"
+			(at 105.41 215.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 195.58 200.66 0)
+		(property "Value" "1.8k"
+			(at 102.87 215.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 100.838 215.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14737,7 +16987,76 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 193.04 200.66 0)
+			(at 99.06 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 99.06 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c5d79097-8975-4152-abc7-0a7a00e51f88")
+		)
+		(pin "1"
+			(uuid "89449b16-1f6f-410f-b8a7-41c67984b8ee")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "todbot_eagle2023:Capacitive_Button")
+		(at 342.9 198.12 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "812cf028-6581-41f4-bfe7-0fb0911a9e37")
+		(property "Reference" "TP24"
+			(at 346.964 198.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Capacitive_Button"
+			(at 346.202 195.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
+			(at 335.28 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 332.74 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14746,7 +17065,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 203.2 200.66 0)
+			(at 342.9 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14906,7 +17225,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 135.89 205.74 270)
+		(at 275.59 203.2 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14914,7 +17233,7 @@
 		(dnp no)
 		(uuid "8449e509-ccbf-4ced-8ca3-31f627318d17")
 		(property "Reference" "TP5"
-			(at 139.954 205.74 90)
+			(at 279.654 203.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14923,7 +17242,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 139.192 203.2 90)
+			(at 278.892 200.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14932,7 +17251,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 128.27 205.74 0)
+			(at 267.97 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14941,7 +17260,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 125.73 205.74 0)
+			(at 265.43 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14950,7 +17269,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 135.89 205.74 0)
+			(at 275.59 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15041,7 +17360,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 135.89 200.66 270)
+		(at 275.59 198.12 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15049,7 +17368,7 @@
 		(dnp no)
 		(uuid "88071655-8d8c-477b-b0c9-a8f7edcf0ff3")
 		(property "Reference" "TP4"
-			(at 139.954 200.66 90)
+			(at 279.654 198.12 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15058,7 +17377,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 139.192 198.12 90)
+			(at 278.892 195.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15067,7 +17386,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 128.27 200.66 0)
+			(at 267.97 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15076,7 +17395,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 125.73 200.66 0)
+			(at 265.43 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15085,7 +17404,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 135.89 200.66 0)
+			(at 275.59 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15176,7 +17495,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 55.88 242.57 270)
+		(at 186.69 248.92 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15184,7 +17503,7 @@
 		(dnp no)
 		(uuid "88b3ea9c-83f2-4561-986f-56c64f316b77")
 		(property "Reference" "#PWR092"
-			(at 49.53 242.57 0)
+			(at 180.34 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15193,7 +17512,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 53.086 242.57 90)
+			(at 183.896 248.92 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15202,7 +17521,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 55.88 242.57 0)
+			(at 186.69 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15211,7 +17530,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 242.57 0)
+			(at 186.69 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15220,7 +17539,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 55.88 242.57 0)
+			(at 186.69 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15977,6 +18296,79 @@
 		)
 	)
 	(symbol
+		(lib_id "keebio:TRRS")
+		(at 35.56 157.48 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "913a46ca-6f8f-458d-9eae-41e9f578f795")
+		(property "Reference" "J2"
+			(at 34.925 175.26 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "TRRS"
+			(at 34.925 172.72 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "Keebio-Parts:TRRS-PJ-320D"
+			(at 31.75 157.48 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 31.75 157.48 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 35.56 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9f1665e6-e89a-49d2-a713-c9ca8f0d0f0c")
+		)
+		(pin "3"
+			(uuid "77f69763-07b5-40ed-8365-e02facee32c8")
+		)
+		(pin "2"
+			(uuid "f203d87d-04a8-4e6b-bf07-274415956c94")
+		)
+		(pin "4"
+			(uuid "21272314-4810-47be-a277-a578f87fb19c")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 317.5 22.86 0)
 		(unit 1)
@@ -16040,6 +18432,93 @@
 			(project "picotouch_grid"
 				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
 					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 62.23 138.43 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "920d9c1b-ba4e-49cc-acbd-cf28ad7e3cbf")
+		(property "Reference" "D1"
+			(at 57.912 137.414 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 53.086 139.954 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 62.23 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.23 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 62.23 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 62.23 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 62.23 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ec2c0abb-6f91-436a-9d96-735bf8da3738")
+		)
+		(pin "1"
+			(uuid "31873bc0-5aa8-4226-9d4a-ddb0fa260341")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -16113,7 +18592,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 29.21 173.99 0)
+		(at 168.91 191.77 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16121,7 +18600,7 @@
 		(dnp no)
 		(uuid "929d565b-db8b-41d2-ad09-a693bf7b13c0")
 		(property "Reference" "#PWR0142"
-			(at 29.21 180.34 0)
+			(at 168.91 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16130,7 +18609,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 26.924 174.244 0)
+			(at 166.624 192.024 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16138,7 +18617,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 29.21 173.99 0)
+			(at 168.91 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16147,7 +18626,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 173.99 0)
+			(at 168.91 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16156,7 +18635,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 29.21 173.99 0)
+			(at 168.91 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16324,7 +18803,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 135.89 195.58 270)
+		(at 275.59 193.04 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16332,7 +18811,7 @@
 		(dnp no)
 		(uuid "9604332b-d9b9-4cec-939b-813d0dfc8ef4")
 		(property "Reference" "TP3"
-			(at 139.954 195.58 90)
+			(at 279.654 193.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16341,7 +18820,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 139.192 193.04 90)
+			(at 278.892 190.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16350,7 +18829,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 128.27 195.58 0)
+			(at 267.97 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16359,7 +18838,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 125.73 195.58 0)
+			(at 265.43 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16368,7 +18847,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 135.89 195.58 0)
+			(at 275.59 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16520,7 +18999,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 27.94 228.6 0)
+		(at 167.64 242.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16528,7 +19007,7 @@
 		(dnp no)
 		(uuid "964779fc-c9f5-437d-981f-8df9a0cf594e")
 		(property "Reference" "C42"
-			(at 21.336 227.076 0)
+			(at 161.036 241.046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16537,7 +19016,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 20.32 229.616 0)
+			(at 160.02 243.586 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16546,7 +19025,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 28.9052 232.41 0)
+			(at 168.6052 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16555,7 +19034,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 27.94 228.6 0)
+			(at 167.64 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16564,7 +19043,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 27.94 228.6 0)
+			(at 167.64 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17395,7 +19874,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 170.18 200.66 270)
+		(at 309.88 198.12 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17403,7 +19882,7 @@
 		(dnp no)
 		(uuid "a72209ab-2a7f-4580-ab10-bb676de6dfb7")
 		(property "Reference" "TP14"
-			(at 174.244 200.66 90)
+			(at 313.944 198.12 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17412,7 +19891,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 173.482 198.12 90)
+			(at 313.182 195.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17421,7 +19900,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 162.56 200.66 0)
+			(at 302.26 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17430,7 +19909,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 160.02 200.66 0)
+			(at 299.72 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17439,7 +19918,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 170.18 200.66 0)
+			(at 309.88 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17595,7 +20074,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 135.89 220.98 270)
+		(at 275.59 218.44 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17603,7 +20082,7 @@
 		(dnp no)
 		(uuid "a862de9b-1d35-437c-8107-523be55bef59")
 		(property "Reference" "TP8"
-			(at 139.954 220.98 90)
+			(at 279.654 218.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17612,7 +20091,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 139.192 218.44 90)
+			(at 278.892 215.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17621,7 +20100,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 128.27 220.98 0)
+			(at 267.97 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17630,7 +20109,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 125.73 220.98 0)
+			(at 265.43 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17639,7 +20118,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 135.89 220.98 0)
+			(at 275.59 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17661,7 +20140,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 170.18 190.5 270)
+		(at 309.88 187.96 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17669,7 +20148,7 @@
 		(dnp no)
 		(uuid "a90b2cad-0787-47fc-943d-04b071e53380")
 		(property "Reference" "TP12"
-			(at 174.244 190.5 90)
+			(at 313.944 187.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17678,7 +20157,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 173.482 187.96 90)
+			(at 313.182 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17687,7 +20166,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 162.56 190.5 0)
+			(at 302.26 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17696,7 +20175,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 160.02 190.5 0)
+			(at 299.72 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17705,7 +20184,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 170.18 190.5 0)
+			(at 309.88 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17792,7 +20271,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 203.2 185.42 270)
+		(at 342.9 182.88 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17800,7 +20279,7 @@
 		(dnp no)
 		(uuid "ab488d2b-ea3d-4750-ab21-a3c39fe02320")
 		(property "Reference" "TP21"
-			(at 207.264 185.42 90)
+			(at 346.964 182.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17809,7 +20288,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 206.502 182.88 90)
+			(at 346.202 180.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17818,7 +20297,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 195.58 185.42 0)
+			(at 335.28 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17827,7 +20306,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 193.04 185.42 0)
+			(at 332.74 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17836,7 +20315,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 203.2 185.42 0)
+			(at 342.9 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18121,34 +20600,33 @@
 		)
 	)
 	(symbol
-		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 203.2 226.06 270)
+		(lib_id "Device:R")
+		(at 54.61 134.62 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "ae55df19-0903-476a-8c6f-791d6287fd79")
-		(property "Reference" "TP29"
-			(at 207.264 226.06 90)
+		(uuid "adefc54a-36a4-4883-b697-9b0198f1c3d6")
+		(property "Reference" "R5"
+			(at 54.61 128.27 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "Capacitive_Button"
-			(at 206.502 223.52 90)
+		(property "Value" "200"
+			(at 54.61 130.81 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 195.58 226.06 0)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 54.61 132.842 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18157,7 +20635,76 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 193.04 226.06 0)
+			(at 54.61 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 54.61 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "effe5e6d-e6b4-4fcc-a0d7-5e6ec1d753cc")
+		)
+		(pin "1"
+			(uuid "9cf3bdb0-6c4c-42f5-80c5-047b7b3ce7d4")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "todbot_eagle2023:Capacitive_Button")
+		(at 342.9 223.52 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ae55df19-0903-476a-8c6f-791d6287fd79")
+		(property "Reference" "TP29"
+			(at 346.964 223.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Capacitive_Button"
+			(at 346.202 220.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
+			(at 335.28 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 332.74 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18166,7 +20713,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 203.2 226.06 0)
+			(at 342.9 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18531,7 +21078,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 203.2 190.5 270)
+		(at 342.9 187.96 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18539,7 +21086,7 @@
 		(dnp no)
 		(uuid "b342abe1-aa73-4cb4-8d57-6a92af89f2ef")
 		(property "Reference" "TP22"
-			(at 207.264 190.5 90)
+			(at 346.964 187.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18548,7 +21095,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 206.502 187.96 90)
+			(at 346.202 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18557,7 +21104,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 195.58 190.5 0)
+			(at 335.28 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18566,7 +21113,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 193.04 190.5 0)
+			(at 332.74 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18575,7 +21122,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 203.2 190.5 0)
+			(at 342.9 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18597,7 +21144,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 135.89 185.42 270)
+		(at 275.59 182.88 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18605,7 +21152,7 @@
 		(dnp no)
 		(uuid "b36280d6-3bd5-46fb-8e9f-3080181529e6")
 		(property "Reference" "TP1"
-			(at 139.954 185.42 90)
+			(at 279.654 182.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18614,7 +21161,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 139.192 182.88 90)
+			(at 278.892 180.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18623,7 +21170,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 128.27 185.42 0)
+			(at 267.97 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18632,7 +21179,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 125.73 185.42 0)
+			(at 265.43 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18641,7 +21188,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 135.89 185.42 0)
+			(at 275.59 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18934,7 +21481,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 27.94 232.41 0)
+		(at 167.64 246.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18942,7 +21489,7 @@
 		(dnp no)
 		(uuid "b7809208-1090-439d-8558-1afdd783a1cf")
 		(property "Reference" "#PWR0145"
-			(at 27.94 238.76 0)
+			(at 167.64 252.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18951,7 +21498,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 25.654 232.664 0)
+			(at 165.354 246.634 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18959,7 +21506,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 27.94 232.41 0)
+			(at 167.64 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18968,7 +21515,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 27.94 232.41 0)
+			(at 167.64 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18977,7 +21524,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 27.94 232.41 0)
+			(at 167.64 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19205,6 +21752,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 44.45 129.54 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b83ccc7c-a967-4c9e-a305-9569cd147fd2")
+		(property "Reference" "#PWR0151"
+			(at 50.8 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 46.736 128.524 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 44.45 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 44.45 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 44.45 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0d709727-9830-4cb4-898d-5dec5ba6b278")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "#PWR0151")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 386.08 96.52 0)
 		(unit 1)
@@ -19335,6 +21948,72 @@
 			(project "picotouch_grid"
 				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
 					(reference "#PWR089")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 44.45 187.96 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b9a16c39-b234-4bec-b4f6-6c28931e0a23")
+		(property "Reference" "#PWR0156"
+			(at 50.8 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 46.736 186.944 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 44.45 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 44.45 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 44.45 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "700b19ae-17bc-404f-afff-297301247129")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "#PWR0156")
 					(unit 1)
 				)
 			)
@@ -19474,7 +22153,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 170.18 226.06 270)
+		(at 309.88 223.52 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19482,7 +22161,7 @@
 		(dnp no)
 		(uuid "bc08a765-41e9-4b99-978c-6cc169ec2871")
 		(property "Reference" "TP19"
-			(at 174.244 226.06 90)
+			(at 313.944 223.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19491,7 +22170,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 173.482 223.52 90)
+			(at 313.182 220.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19500,7 +22179,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 162.56 226.06 0)
+			(at 302.26 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19509,7 +22188,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 160.02 226.06 0)
+			(at 299.72 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19518,7 +22197,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 170.18 226.06 0)
+			(at 309.88 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19613,7 +22292,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 203.2 215.9 270)
+		(at 342.9 213.36 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19621,7 +22300,7 @@
 		(dnp no)
 		(uuid "bc92ab85-7e7d-45e1-9bd3-de74fd212044")
 		(property "Reference" "TP27"
-			(at 207.264 215.9 90)
+			(at 346.964 213.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19630,7 +22309,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 206.502 213.36 90)
+			(at 346.202 210.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19639,7 +22318,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 195.58 215.9 0)
+			(at 335.28 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19648,7 +22327,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 193.04 215.9 0)
+			(at 332.74 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19657,7 +22336,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 203.2 215.9 0)
+			(at 342.9 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19679,7 +22358,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 170.18 185.42 270)
+		(at 309.88 182.88 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19687,7 +22366,7 @@
 		(dnp no)
 		(uuid "bd5573cd-9664-4cc7-a0b2-78eb68d26917")
 		(property "Reference" "TP11"
-			(at 174.244 185.42 90)
+			(at 313.944 182.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19696,7 +22375,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 173.482 182.88 90)
+			(at 313.182 180.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19705,7 +22384,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 162.56 185.42 0)
+			(at 302.26 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19714,7 +22393,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 160.02 185.42 0)
+			(at 299.72 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19723,7 +22402,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 170.18 185.42 0)
+			(at 309.88 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19811,7 +22490,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 135.89 190.5 270)
+		(at 275.59 187.96 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19819,7 +22498,7 @@
 		(dnp no)
 		(uuid "be6e2e54-aa93-405e-85e7-97495cda5d40")
 		(property "Reference" "TP2"
-			(at 139.954 190.5 90)
+			(at 279.654 187.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19828,7 +22507,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 139.192 187.96 90)
+			(at 278.892 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19837,7 +22516,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 128.27 190.5 0)
+			(at 267.97 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19846,7 +22525,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 125.73 190.5 0)
+			(at 265.43 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19855,7 +22534,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 135.89 190.5 0)
+			(at 275.59 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20287,7 +22966,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 29.21 166.37 0)
+		(at 168.91 184.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20296,7 +22975,7 @@
 		(fields_autoplaced yes)
 		(uuid "c455e48e-55d1-4ae8-839f-1e54880422ef")
 		(property "Reference" "#PWR0143"
-			(at 29.21 170.18 0)
+			(at 168.91 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20305,7 +22984,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 29.21 161.29 0)
+			(at 168.91 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20313,7 +22992,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 29.21 166.37 0)
+			(at 168.91 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20322,7 +23001,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 166.37 0)
+			(at 168.91 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20331,7 +23010,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 29.21 166.37 0)
+			(at 168.91 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20417,6 +23096,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 44.45 160.02 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c604efb4-9d5b-418d-bae3-19b6406f445c")
+		(property "Reference" "#PWR0154"
+			(at 50.8 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 46.736 159.004 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 44.45 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 44.45 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 44.45 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "08aa757e-fa16-4ee5-a812-fdd0df2d1773")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "#PWR0154")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "PCM_marbastlib-various:SK6812MINI-E")
 		(at 279.4 31.75 0)
 		(unit 1)
@@ -20490,8 +23235,74 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 40.64 106.68 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c8aad63f-4e97-4931-a8c7-f69708e9fa76")
+		(property "Reference" "#PWR0135"
+			(at 40.64 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 42.926 106.934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 40.64 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 40.64 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9914e1b8-1bd6-4b29-a9b6-289d631f4f82")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "#PWR0135")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 170.18 231.14 270)
+		(at 309.88 228.6 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20499,7 +23310,7 @@
 		(dnp no)
 		(uuid "c9b1bd56-418a-4991-b35b-8b41721ceab7")
 		(property "Reference" "TP20"
-			(at 174.244 231.14 90)
+			(at 313.944 228.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20508,7 +23319,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 173.482 228.6 90)
+			(at 313.182 226.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20517,7 +23328,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 162.56 231.14 0)
+			(at 302.26 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20526,7 +23337,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 160.02 231.14 0)
+			(at 299.72 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20535,7 +23346,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 170.18 231.14 0)
+			(at 309.88 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20626,7 +23437,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 203.2 231.14 270)
+		(at 342.9 228.6 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20634,7 +23445,7 @@
 		(dnp no)
 		(uuid "cb2526a5-e6b5-4a8c-b80d-d7d21083f4c9")
 		(property "Reference" "TP30"
-			(at 207.264 231.14 90)
+			(at 346.964 228.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20643,7 +23454,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 206.502 228.6 90)
+			(at 346.202 226.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20652,7 +23463,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 195.58 231.14 0)
+			(at 335.28 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20661,7 +23472,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 193.04 231.14 0)
+			(at 332.74 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20670,7 +23481,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 203.2 231.14 0)
+			(at 342.9 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21104,7 +23915,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 81.28 255.27 270)
+		(at 212.09 261.62 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21113,7 +23924,7 @@
 		(fields_autoplaced yes)
 		(uuid "d0e30aa1-9535-4b97-bafd-e69f398d135a")
 		(property "Reference" "#PWR091"
-			(at 77.47 255.27 0)
+			(at 208.28 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21122,7 +23933,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 85.09 255.2699 90)
+			(at 215.9 261.6199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21131,7 +23942,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 255.27 0)
+			(at 212.09 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21140,7 +23951,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 255.27 0)
+			(at 212.09 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21149,7 +23960,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 81.28 255.27 0)
+			(at 212.09 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21299,6 +24110,72 @@
 			(project "picotouch_grid"
 				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
 					(reference "#PWR060")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 78.74 144.78 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d3ad989b-d679-4c15-a3df-4b5c2b643629")
+		(property "Reference" "#PWR0152"
+			(at 78.74 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 77.216 147.066 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 78.74 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 78.74 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0c60a327-5e36-4d36-ab5a-4144e12e56ac")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "#PWR0152")
 					(unit 1)
 				)
 			)
@@ -21988,7 +24865,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 203.2 210.82 90)
+		(at 342.9 208.28 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21997,7 +24874,7 @@
 		(dnp no)
 		(uuid "dc725b83-65ae-43f3-b85b-c2da9afecb0f")
 		(property "Reference" "TP26"
-			(at 199.136 210.82 90)
+			(at 338.836 208.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22006,7 +24883,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 199.898 208.28 90)
+			(at 339.598 205.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22015,7 +24892,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 210.82 210.82 0)
+			(at 350.52 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22024,7 +24901,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 213.36 210.82 0)
+			(at 353.06 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22033,7 +24910,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 203.2 210.82 0)
+			(at 342.9 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22114,6 +24991,72 @@
 			(project "picotouch_grid"
 				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
 					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 78.74 120.65 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "de2a5bd1-7a11-459a-8b3a-145a01104bc3")
+		(property "Reference" "#PWR0149"
+			(at 78.74 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 78.74 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 78.74 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 78.74 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f7b70c80-5c4b-418c-a065-e5ddde6d792f")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "#PWR0149")
 					(unit 1)
 				)
 			)
@@ -22249,6 +25192,79 @@
 			(project "picotouch_grid"
 				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
 					(reference "#PWR071")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "keebio:TRRS")
+		(at 35.56 185.42 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "dec7d78e-523e-4fc3-99d9-5bce6bc7a6a4")
+		(property "Reference" "J3"
+			(at 34.925 203.2 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "TRRS"
+			(at 34.925 200.66 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "Keebio-Parts:TRRS-PJ-320D"
+			(at 31.75 185.42 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 31.75 185.42 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 35.56 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3335c798-c373-4e7e-8c46-a0c97b984657")
+		)
+		(pin "3"
+			(uuid "18b8a998-6d68-40d3-b44b-89f4f31833d3")
+		)
+		(pin "2"
+			(uuid "d5664ce3-9f80-431b-9d5f-6c649b7680cc")
+		)
+		(pin "4"
+			(uuid "f1a30f0a-8b00-4846-8f65-a125d0799ea6")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -22456,6 +25472,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 109.22 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e1df66f9-9c04-4964-9e46-d24b252fa5af")
+		(property "Reference" "R3"
+			(at 111.76 80.0099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4.7k"
+			(at 111.76 82.5499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 107.442 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 109.22 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 109.22 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "20cc0a62-42de-4f7a-8ce1-c0faf5e158a9")
+		)
+		(pin "1"
+			(uuid "15b88ee8-5679-4d70-8b90-1efcd12591a8")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 325.12 39.37 0)
 		(unit 1)
@@ -22596,7 +25682,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 236.22 195.58 270)
+		(at 375.92 193.04 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22604,7 +25690,7 @@
 		(dnp no)
 		(uuid "e5048d20-f322-45e8-b0c0-ef8983723493")
 		(property "Reference" "TP33"
-			(at 240.284 195.58 90)
+			(at 379.984 193.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22613,7 +25699,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 239.522 193.04 90)
+			(at 379.222 190.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22622,7 +25708,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 228.6 195.58 0)
+			(at 368.3 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22631,7 +25717,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 226.06 195.58 0)
+			(at 365.76 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22640,7 +25726,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 236.22 195.58 0)
+			(at 375.92 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22734,6 +25820,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 109.22 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e96d626f-255e-42c1-b711-ba1b94ba04c2")
+		(property "Reference" "#PWR0147"
+			(at 109.22 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 109.22 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 109.22 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6fce3f31-29c0-44ad-ada2-303f1523afde")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "#PWR0147")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 255.27 39.37 0)
 		(unit 1)
@@ -22801,7 +25953,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 236.22 231.14 270)
+		(at 375.92 228.6 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22809,7 +25961,7 @@
 		(dnp no)
 		(uuid "e9b953d2-df57-40f9-9f99-ea43e49a1cdf")
 		(property "Reference" "TP40"
-			(at 240.284 231.14 90)
+			(at 379.984 228.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22818,7 +25970,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 239.522 228.6 90)
+			(at 379.222 226.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22827,7 +25979,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 228.6 231.14 0)
+			(at 368.3 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22836,7 +25988,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 226.06 231.14 0)
+			(at 365.76 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22845,7 +25997,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 236.22 231.14 0)
+			(at 375.92 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22933,7 +26085,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 236.22 205.74 270)
+		(at 375.92 203.2 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22941,7 +26093,7 @@
 		(dnp no)
 		(uuid "ea267f1b-5bce-4faa-93a2-fcb764524218")
 		(property "Reference" "TP35"
-			(at 240.284 205.74 90)
+			(at 379.984 203.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22950,7 +26102,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 239.522 203.2 90)
+			(at 379.222 200.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22959,7 +26111,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 228.6 205.74 0)
+			(at 368.3 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22968,7 +26120,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 226.06 205.74 0)
+			(at 365.76 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22977,7 +26129,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 236.22 205.74 0)
+			(at 375.92 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23357,7 +26509,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 135.89 215.9 270)
+		(at 275.59 213.36 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23365,7 +26517,7 @@
 		(dnp no)
 		(uuid "f19345e1-7c23-464d-ac1e-21c6be4fd461")
 		(property "Reference" "TP7"
-			(at 139.954 215.9 90)
+			(at 279.654 213.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23374,7 +26526,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 139.192 213.36 90)
+			(at 278.892 210.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23383,7 +26535,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 128.27 215.9 0)
+			(at 267.97 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23392,7 +26544,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 125.73 215.9 0)
+			(at 265.43 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23401,7 +26553,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 135.89 215.9 0)
+			(at 275.59 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23488,6 +26640,72 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
+		(at 118.11 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f292a0d7-26a6-41ce-8df3-8c5c3c1d8f95")
+		(property "Reference" "#PWR0148"
+			(at 118.11 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 118.11 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 118.11 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.11 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 118.11 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "95b0bfeb-e35b-494b-8298-10f3d8b9299e")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "#PWR0148")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
 		(at 325.12 55.88 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -23554,7 +26772,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 170.18 210.82 270)
+		(at 309.88 208.28 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23562,7 +26780,7 @@
 		(dnp no)
 		(uuid "f38b5d4d-aaa9-406f-bac8-7a59e504fcf4")
 		(property "Reference" "TP16"
-			(at 174.244 210.82 90)
+			(at 313.944 208.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23571,7 +26789,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 173.482 208.28 90)
+			(at 313.182 205.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23580,7 +26798,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 162.56 210.82 0)
+			(at 302.26 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23589,7 +26807,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 160.02 210.82 0)
+			(at 299.72 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23598,7 +26816,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 170.18 210.82 0)
+			(at 309.88 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23689,7 +26907,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 170.18 195.58 270)
+		(at 309.88 193.04 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23697,7 +26915,7 @@
 		(dnp no)
 		(uuid "f4a91da0-7b43-4f07-bef3-cf9f0f8a6dad")
 		(property "Reference" "TP13"
-			(at 174.244 195.58 90)
+			(at 313.944 193.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23706,7 +26924,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 173.482 193.04 90)
+			(at 313.182 190.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23715,7 +26933,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 162.56 195.58 0)
+			(at 302.26 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23724,7 +26942,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 160.02 195.58 0)
+			(at 299.72 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23733,7 +26951,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 170.18 195.58 0)
+			(at 309.88 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23886,7 +27104,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 203.2 195.58 270)
+		(at 342.9 193.04 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23894,7 +27112,7 @@
 		(dnp no)
 		(uuid "f5b8f39b-031b-4fe0-ba4c-d25fe37177bd")
 		(property "Reference" "TP23"
-			(at 207.264 195.58 90)
+			(at 346.964 193.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23903,7 +27121,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 206.502 193.04 90)
+			(at 346.202 190.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23912,7 +27130,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 195.58 195.58 0)
+			(at 335.28 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23921,7 +27139,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 193.04 195.58 0)
+			(at 332.74 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23930,7 +27148,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 203.2 195.58 0)
+			(at 342.9 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24018,7 +27236,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 54.61 189.23 270)
+		(at 186.69 193.04 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24026,7 +27244,7 @@
 		(dnp no)
 		(uuid "f77f1e79-c64b-4358-9584-60fdbd783e08")
 		(property "Reference" "#PWR097"
-			(at 48.26 189.23 0)
+			(at 180.34 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24035,7 +27253,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 51.816 189.23 90)
+			(at 183.896 193.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24044,7 +27262,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.61 189.23 0)
+			(at 186.69 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24053,7 +27271,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 189.23 0)
+			(at 186.69 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24062,7 +27280,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 54.61 189.23 0)
+			(at 186.69 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24150,7 +27368,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 97.79 191.77 90)
+		(at 229.87 195.58 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24158,7 +27376,7 @@
 		(dnp no)
 		(uuid "f9e69a78-1db2-42a6-8a0a-a21d567a5112")
 		(property "Reference" "#PWR0100"
-			(at 104.14 191.77 0)
+			(at 236.22 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24167,7 +27385,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 100.584 191.77 90)
+			(at 232.664 195.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24176,7 +27394,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 97.79 191.77 0)
+			(at 229.87 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24185,7 +27403,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 97.79 191.77 0)
+			(at 229.87 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24194,7 +27412,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 97.79 191.77 0)
+			(at 229.87 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24216,7 +27434,7 @@
 	)
 	(symbol
 		(lib_id "todbot_eagle2023:Capacitive_Button")
-		(at 236.22 226.06 270)
+		(at 375.92 223.52 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24224,7 +27442,7 @@
 		(dnp no)
 		(uuid "fa78f54a-64a7-4cc7-8202-a5ef07073d0f")
 		(property "Reference" "TP39"
-			(at 240.284 226.06 90)
+			(at 379.984 223.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24233,7 +27451,7 @@
 			)
 		)
 		(property "Value" "Capacitive_Button"
-			(at 239.522 223.52 90)
+			(at 379.222 220.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24242,7 +27460,7 @@
 			)
 		)
 		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
-			(at 228.6 226.06 0)
+			(at 368.3 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24251,7 +27469,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 226.06 226.06 0)
+			(at 365.76 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24260,7 +27478,7 @@
 			)
 		)
 		(property "Description" "Capacitive Touch Button"
-			(at 236.22 226.06 0)
+			(at 375.92 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24537,80 +27755,6 @@
 			(project "picotouch_grid"
 				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
 					(reference "#PWR040")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "todbot_eagle2023:TouchSlider3")
-		(at 91.44 127 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ffc32cc3-364b-490b-a629-cc90cf3eef56")
-		(property "Reference" "SLIDER1"
-			(at 95.25 125.73 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "~"
-			(at 86.36 139.7 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "todbot_eagle2023:TOUCHSLIDER3_8x40B"
-			(at 91.44 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 91.44 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 91.44 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "C"
-			(uuid "bebfd4d6-d2a5-4d87-8273-450e4b878212")
-		)
-		(pin "B"
-			(uuid "23f54953-6194-4895-995a-719a26da526a")
-		)
-		(pin "A"
-			(uuid "6507e003-605b-4953-8608-76c5dabac967")
-		)
-		(instances
-			(project "picotouch_grid"
-				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
-					(reference "SLIDER1")
 					(unit 1)
 				)
 			)
