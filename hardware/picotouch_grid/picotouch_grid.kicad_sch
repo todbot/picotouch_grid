@@ -3839,10 +3839,6 @@
 		(uuid "2ae8b66a-f72d-43e7-a147-086b0f702066")
 	)
 	(no_connect
-		(at 87.63 80.01)
-		(uuid "2b26ccef-4687-41f5-9a44-5d72db3166ee")
-	)
-	(no_connect
 		(at 52.07 62.23)
 		(uuid "2c4c4298-2f8c-4e01-a9e3-12b4a118ab86")
 	)
@@ -3875,14 +3871,6 @@
 		(uuid "5e2a30d3-dfa7-4bda-a4e4-1233a6535105")
 	)
 	(no_connect
-		(at 87.63 72.39)
-		(uuid "6285161c-ad81-48e7-80e4-53df1320d2ff")
-	)
-	(no_connect
-		(at 87.63 74.93)
-		(uuid "6871e623-71f2-4030-977e-add40a580abf")
-	)
-	(no_connect
 		(at 69.85 92.71)
 		(uuid "7cede798-400f-4c8a-a46a-78c6dcad1de8")
 	)
@@ -3897,10 +3885,6 @@
 	(no_connect
 		(at 87.63 39.37)
 		(uuid "ca4fa3dc-4e60-4767-bd12-2c3168cbe7a7")
-	)
-	(no_connect
-		(at 87.63 77.47)
-		(uuid "ccc1fc08-de82-4d01-9f63-0b92e4521cb9")
 	)
 	(no_connect
 		(at 52.07 59.69)
@@ -4293,6 +4277,16 @@
 			(type default)
 		)
 		(uuid "1b153827-3131-4ad0-9b4c-1e1d18390aec")
+	)
+	(wire
+		(pts
+			(xy 87.63 74.93) (xy 100.33 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bbfd6fe-1164-45b2-a56b-d702a8950409")
 	)
 	(wire
 		(pts
@@ -5166,6 +5160,16 @@
 	)
 	(wire
 		(pts
+			(xy 87.63 80.01) (xy 100.33 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ddc00ee-12ef-4015-905b-96ea9baa3b74")
+	)
+	(wire
+		(pts
 			(xy 300.99 213.36) (xy 309.88 213.36)
 		)
 		(stroke
@@ -5763,6 +5767,16 @@
 			(type default)
 		)
 		(uuid "b42f3250-6577-48f5-b997-758e9a951149")
+	)
+	(wire
+		(pts
+			(xy 87.63 72.39) (xy 100.33 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4441d99-98e5-4f6d-aa32-bc39656d0a52")
 	)
 	(wire
 		(pts
@@ -6646,6 +6660,16 @@
 	)
 	(wire
 		(pts
+			(xy 87.63 77.47) (xy 100.33 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdb97b1f-fb8e-498b-97dc-a49c40a0c29f")
+	)
+	(wire
+		(pts
 			(xy 300.99 193.04) (xy 309.88 193.04)
 		)
 		(stroke
@@ -6814,6 +6838,17 @@
 		)
 		(uuid "1104c35c-647d-42ae-9510-07a9812ce4af")
 	)
+	(label "BUT2"
+		(at 73.66 248.92 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "120a7722-3348-482f-8198-1bdd1c8b0a74")
+	)
 	(label "tp38"
 		(at 176.53 251.46 0)
 		(fields_autoplaced yes)
@@ -6835,6 +6870,17 @@
 			(justify left bottom)
 		)
 		(uuid "13c60353-e816-441b-af81-5b83575d607e")
+	)
+	(label "BUT3"
+		(at 73.66 260.35 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "143437d8-d4c0-4e24-b79e-5477ccd8e9da")
 	)
 	(label "tp37"
 		(at 176.53 254 0)
@@ -7022,6 +7068,17 @@
 			(justify left bottom)
 		)
 		(uuid "297163bc-b28f-4dcc-bb48-b8e349918de4")
+	)
+	(label "BUT3"
+		(at 95.25 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2a7de1e8-73cb-4ef2-b620-b038bea4ee39")
 	)
 	(label "tp16"
 		(at 300.99 208.28 0)
@@ -7452,6 +7509,17 @@
 		)
 		(uuid "83949e5f-3646-4940-b18d-e0ddee71b3e0")
 	)
+	(label "BUT2"
+		(at 95.25 77.47 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "87d60484-acc0-4fc7-a780-a4c05593f6f8")
+	)
 	(label "TOUCH_SDA"
 		(at 219.71 203.2 0)
 		(fields_autoplaced yes)
@@ -7595,6 +7663,17 @@
 		)
 		(uuid "a0cee6aa-9005-4110-8404-82fd18998979")
 	)
+	(label "BUT1"
+		(at 73.66 237.49 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a63180c5-79fe-4af2-afb3-c1e44a4b0e56")
+	)
 	(label "tp34"
 		(at 367.03 198.12 0)
 		(fields_autoplaced yes)
@@ -7694,6 +7773,17 @@
 		)
 		(uuid "bf0f3e91-eb1e-4072-b84b-8a315dffeee3")
 	)
+	(label "BUT4"
+		(at 73.66 271.78 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bf3ff4b1-c8df-4fb5-8da1-eaf803a0434f")
+	)
 	(label "tp3"
 		(at 218.44 215.9 0)
 		(fields_autoplaced yes)
@@ -7737,6 +7827,17 @@
 			(justify left bottom)
 		)
 		(uuid "d1242ef9-3b8c-4e69-9999-1eaa9100b69a")
+	)
+	(label "BUT1"
+		(at 95.25 80.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d2c4b4fb-c04d-47f5-abbc-5387d7332a7c")
 	)
 	(label "tp9"
 		(at 218.44 185.42 0)
@@ -7825,6 +7926,17 @@
 			(justify left bottom)
 		)
 		(uuid "e35f162f-1e28-495a-b491-5d7fdc372f10")
+	)
+	(label "BUT4"
+		(at 95.25 72.39 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e379bb8a-9660-4609-abd6-eeab9991013a")
 	)
 	(label "tp35"
 		(at 367.03 203.2 0)
@@ -9989,7 +10101,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 269.24 264.16 0)
+		(at 256.54 267.97 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -9998,7 +10110,7 @@
 		(fields_autoplaced yes)
 		(uuid "131d13c0-b849-47f1-bb99-4ed9f236edff")
 		(property "Reference" "H2"
-			(at 271.78 262.8899 0)
+			(at 259.08 266.6999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10007,7 +10119,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 271.78 265.4299 0)
+			(at 259.08 269.2399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10016,7 +10128,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5"
-			(at 269.24 264.16 0)
+			(at 256.54 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10025,7 +10137,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 269.24 264.16 0)
+			(at 256.54 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10034,7 +10146,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 269.24 264.16 0)
+			(at 256.54 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12978,7 +13090,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 269.24 259.08 0)
+		(at 256.54 262.89 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -12987,7 +13099,7 @@
 		(fields_autoplaced yes)
 		(uuid "3cc61652-76c6-4cef-bd95-15378114e04f")
 		(property "Reference" "H1"
-			(at 271.78 257.8099 0)
+			(at 259.08 261.6199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12996,7 +13108,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 271.78 260.3499 0)
+			(at 259.08 264.1599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13005,7 +13117,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5"
-			(at 269.24 259.08 0)
+			(at 256.54 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13014,7 +13126,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 269.24 259.08 0)
+			(at 256.54 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13023,7 +13135,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 269.24 259.08 0)
+			(at 256.54 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15053,7 +15165,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 269.24 269.24 0)
+		(at 256.54 273.05 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -15062,7 +15174,7 @@
 		(fields_autoplaced yes)
 		(uuid "565a121b-57ee-429b-b9a1-2c5ce6a603b0")
 		(property "Reference" "H3"
-			(at 271.78 267.9699 0)
+			(at 259.08 271.7799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15071,7 +15183,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 271.78 270.5099 0)
+			(at 259.08 274.3199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15080,7 +15192,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5"
-			(at 269.24 269.24 0)
+			(at 256.54 273.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15089,7 +15201,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 269.24 269.24 0)
+			(at 256.54 273.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15098,7 +15210,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 269.24 269.24 0)
+			(at 256.54 273.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19136,7 +19248,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 269.24 274.32 0)
+		(at 256.54 278.13 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -19145,7 +19257,7 @@
 		(fields_autoplaced yes)
 		(uuid "867c6ea8-b77b-43c1-85eb-51112f8da385")
 		(property "Reference" "H4"
-			(at 271.78 273.0499 0)
+			(at 259.08 276.8599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19154,7 +19266,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 271.78 275.5899 0)
+			(at 259.08 279.3999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19163,7 +19275,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5"
-			(at 269.24 274.32 0)
+			(at 256.54 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19172,7 +19284,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 269.24 274.32 0)
+			(at 256.54 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19181,7 +19293,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 269.24 274.32 0)
+			(at 256.54 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23586,6 +23698,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 280.67 262.89 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b7814e17-1b97-49da-ba3b-b7279ccd9bff")
+		(property "Reference" "H5"
+			(at 283.21 261.6199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 283.21 264.1599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
+			(at 280.67 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 280.67 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 280.67 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "H5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "PCM_marbastlib-various:SK6812MINI-E")
 		(at 302.26 68.58 0)
 		(unit 1)
@@ -24928,6 +25104,70 @@
 			(project "picotouch_grid"
 				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
 					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 280.67 267.97 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c185dcc3-a029-4ab2-a8da-c36e12d0078b")
+		(property "Reference" "H6"
+			(at 283.21 266.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 283.21 269.2399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
+			(at 280.67 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 280.67 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 280.67 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "H6")
 					(unit 1)
 				)
 			)
