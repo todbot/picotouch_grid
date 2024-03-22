@@ -3707,6 +3707,12 @@
 		(uuid "99742f69-086c-4c1c-a1f8-97e9b51aec91")
 	)
 	(junction
+		(at 124.46 247.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b6b3e50e-0fa0-48bf-95b5-53d4f791ddd6")
+	)
+	(junction
 		(at 325.12 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5235,6 +5241,16 @@
 			(type default)
 		)
 		(uuid "69d44185-97f5-464c-9a27-6e7c0a43f269")
+	)
+	(wire
+		(pts
+			(xy 113.03 247.65) (xy 124.46 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69dd09c0-8072-4e98-9e41-489e68004f28")
 	)
 	(wire
 		(pts
@@ -8180,6 +8196,17 @@
 			(justify left bottom)
 		)
 		(uuid "e379bb8a-9660-4609-abd6-eeab9991013a")
+	)
+	(label "BUT6"
+		(at 113.03 247.65 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e3a5afa1-5375-47d2-90f2-22a48bf92e69")
 	)
 	(label "tp35"
 		(at 367.03 203.2 0)
@@ -11425,6 +11452,72 @@
 			(project "picotouch_grid"
 				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
 					(reference "#PWR053")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 124.46 255.27 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1f143e96-c9c8-4579-83db-2ca3fe62706e")
+		(property "Reference" "#PWR0164"
+			(at 124.46 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 122.936 257.556 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 124.46 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 124.46 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 124.46 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f6a7a58c-c8c8-4c74-9fcb-6b689b4f2ee1")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "#PWR0164")
 					(unit 1)
 				)
 			)
@@ -16912,6 +17005,74 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 124.46 251.46 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "64b5b51d-74a5-4397-8b7c-666fe2aeb23c")
+		(property "Reference" "R22"
+			(at 120.396 251.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1M"
+			(at 122.174 251.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 122.682 251.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 124.46 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 124.46 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e87f1411-521a-41fc-8a8c-385aa8f7aac6")
+		)
+		(pin "1"
+			(uuid "c3b09c30-9165-412f-b576-ccd47ff20858")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "R22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 124.46 234.95 0)
 		(mirror x)
 		(unit 1)
@@ -20455,6 +20616,73 @@
 			(project "picotouch_grid"
 				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
 					(reference "#PWR0109")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SparkFun-Switch:Capacitive Button")
+		(at 124.46 247.65 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8d0a8bda-42cd-4780-bfde-d23a81eeade4")
+		(property "Reference" "TP46"
+			(at 129.54 246.3799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Capacitive Button"
+			(at 129.54 248.9199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "todbot_stuff:Pad-CapacitiveTouch-SparkFun-10x5mm-roundrect"
+			(at 116.84 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 114.3 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 124.46 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8cb7933d-46c0-46ea-a027-a6285312c1a9")
+		)
+		(instances
+			(project "picotouch_grid"
+				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
+					(reference "TP46")
 					(unit 1)
 				)
 			)
