@@ -4374,6 +4374,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 49.53) (xy 104.14 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "226fc3f7-afe5-47f2-acab-59606b8d6be4")
+	)
+	(wire
+		(pts
 			(xy 44.45 187.96) (xy 52.07 187.96)
 		)
 		(stroke
@@ -14640,7 +14650,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "todbot_stuff:OLED-TH_under_L27.8-W27.2-P2.54_C9900033791"
+		(property "Footprint" "easyeda2kicad:OLED-TH_L27.8-W27.2-P2.54_C9900033791"
 			(at 34.29 91.44 0)
 			(effects
 				(font
@@ -19306,7 +19316,7 @@
 				)
 			)
 		)
-		(property "Footprint" "todbot_RPI_Pico:RPi_Pico_SMD"
+		(property "Footprint" "RPi_Pico:RPi_Pico_SMD_TH"
 			(at 86.36 63.5 90)
 			(effects
 				(font
@@ -20649,7 +20659,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "todbot_stuff:Pad-CapacitiveTouch-SparkFun-10x5mm-roundrect"
+		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
 			(at 116.84 247.65 0)
 			(effects
 				(font
@@ -24604,70 +24614,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 280.67 262.89 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b7814e17-1b97-49da-ba3b-b7279ccd9bff")
-		(property "Reference" "H5"
-			(at 283.21 261.6199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 283.21 264.1599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.1mm"
-			(at 280.67 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 280.67 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 280.67 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "picotouch_grid"
-				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
-					(reference "H5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "PCM_marbastlib-various:SK6812MINI-E")
 		(at 302.26 68.58 0)
 		(unit 1)
@@ -25011,7 +24957,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 104.14 49.53 270)
+		(at 106.68 49.53 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25020,7 +24966,7 @@
 		(fields_autoplaced yes)
 		(uuid "b8aee114-e18c-4869-bc42-8ce4d23b2c8e")
 		(property "Reference" "#PWR089"
-			(at 100.33 49.53 0)
+			(at 102.87 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25029,7 +24975,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 107.95 49.5299 90)
+			(at 110.49 49.5299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25038,7 +24984,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 104.14 49.53 0)
+			(at 106.68 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25047,7 +24993,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 104.14 49.53 0)
+			(at 106.68 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25056,7 +25002,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 104.14 49.53 0)
+			(at 106.68 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26016,70 +25962,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 280.67 267.97 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c185dcc3-a029-4ab2-a8da-c36e12d0078b")
-		(property "Reference" "H6"
-			(at 283.21 266.6999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 283.21 269.2399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.1mm"
-			(at 280.67 267.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 280.67 267.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 280.67 267.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "picotouch_grid"
-				(path "/036e8f10-ba17-4cdc-95e8-e722ded3fffe"
-					(reference "H6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "SparkFun-Switch:Capacitive Button")
 		(at 124.46 231.14 270)
 		(unit 1)
@@ -26107,7 +25989,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "todbot_stuff:Pad-CapacitiveTouch-SparkFun-10x5mm-roundrect"
+		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
 			(at 116.84 231.14 0)
 			(effects
 				(font
