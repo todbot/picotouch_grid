@@ -1,3 +1,5 @@
+# picotouch_grid_mpr/test3.py
+# @todbot - 10 Apr 2023
 import time, random
 from supervisor import ticks_ms
 import board, busio

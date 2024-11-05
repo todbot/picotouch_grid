@@ -1,3 +1,5 @@
+# picotouch_grid_mpr/test1.py
+# @todbot - 8 Apr 2023
 import time, random
 import board, busio
 import rainbowio
