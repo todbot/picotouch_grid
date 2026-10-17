@@ -2092,20 +2092,22 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at 0 8.89 0)
+			(property "Reference" "DISP1"
+				(at 5.08 1.2701 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
 			(property "Value" "HS96L03W2C03"
-				(at 0 -8.89 0)
+				(at 5.08 -1.2699 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
 			(property "Footprint" "easyeda2kicad:OLED-TH_L27.8-W27.2-P2.54_C9900033791"
@@ -2167,7 +2169,9 @@
 						(type none)
 					)
 				)
-				(pin unspecified line
+			)
+			(symbol "HS96L03W2C03_1_1"
+				(pin power_in line
 					(at -6.35 3.81 0)
 					(length 2.54)
 					(name "GND"
@@ -2185,7 +2189,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin power_in line
 					(at -6.35 1.27 0)
 					(length 2.54)
 					(name "VCC"
@@ -2203,7 +2207,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin bidirectional line
 					(at -6.35 -1.27 0)
 					(length 2.54)
 					(name "SCL"
@@ -2221,7 +2225,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin bidirectional line
 					(at -6.35 -3.81 0)
 					(length 2.54)
 					(name "SDA"
@@ -3879,6 +3883,10 @@
 		(uuid "56807893-7a92-48f8-a8c9-870b8fb0fa3b")
 	)
 	(no_connect
+		(at 44.45 160.02)
+		(uuid "599d4c50-0e06-4153-ac46-1f766665efc2")
+	)
+	(no_connect
 		(at 212.09 264.16)
 		(uuid "5c47d234-84b9-4a2b-8e95-0bacc57c19e6")
 	)
@@ -3899,8 +3907,16 @@
 		(uuid "ca4fa3dc-4e60-4767-bd12-2c3168cbe7a7")
 	)
 	(no_connect
+		(at 44.45 185.42)
+		(uuid "d98528fe-ffec-4b74-a020-976bf8d9097b")
+	)
+	(no_connect
 		(at 104.14 59.69)
 		(uuid "deb711d3-1150-464c-b8e9-5096d973ebc3")
+	)
+	(no_connect
+		(at 44.45 132.08)
+		(uuid "fb22c7b1-5033-49ee-8bf3-6a19d58dae7d")
 	)
 	(wire
 		(pts
@@ -14650,7 +14666,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:OLED-TH_L27.8-W27.2-P2.54_C9900033791"
+		(property "Footprint" "todbot_stuff:OLED-TH_under_fixed_L27.8-W27.2-P2.54_C9900033791"
 			(at 34.29 91.44 0)
 			(effects
 				(font
@@ -19316,7 +19332,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RPi_Pico:RPi_Pico_SMD_TH"
+		(property "Footprint" "todbot_RPI_Pico:RPi_Pico_SMD"
 			(at 86.36 63.5 90)
 			(effects
 				(font

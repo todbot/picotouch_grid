@@ -275,6 +275,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -287,6 +288,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -299,6 +301,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -311,10 +314,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/ab488d2b-ea3d-4750-ab21-a3c39fe02320")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -519,6 +525,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -531,6 +538,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -543,6 +551,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -555,10 +564,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/69fdb61d-1243-4643-a85b-dbb28d9bcc64")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -763,6 +775,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -775,6 +788,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -787,6 +801,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -799,10 +814,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/9604332b-d9b9-4cec-939b-813d0dfc8ef4")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -1007,6 +1025,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1019,6 +1038,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1031,6 +1051,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1043,10 +1064,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/a90b2cad-0787-47fc-943d-04b071e53380")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -1251,6 +1275,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1263,6 +1288,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1275,6 +1301,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1287,10 +1314,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/f5b8f39b-031b-4fe0-ba4c-d25fe37177bd")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -1539,6 +1569,8 @@
 			)
 		)
 		(path "/22695ed0-f272-4cb2-89ca-ec8ad4014a32")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_text user "${REFERENCE}"
 			(at -0.5 -21.2 90)
@@ -1657,6 +1689,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1669,6 +1702,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1681,6 +1715,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1693,10 +1728,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/812cf028-6581-41f4-bfe7-0fb0911a9e37")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -1875,15 +1913,15 @@
 			(uuid "1ba31deb-2c44-4ce2-91b7-9fe3af920070")
 		)
 	)
-	(footprint "todbot_stuff:Pad-CapacitiveTouch-SparkFun-10x5mm-roundrect"
+	(footprint "SparkFun-Switch:Pad-CapacitiveTouch"
 		(layer "F.Cu")
 		(uuid "287b8989-e6fe-43bc-b6d0-93d0c4d49ff0")
 		(at 111.6 61 90)
 		(descr "<h3>Conductive Button</h3>\n<p>Used with rubber key pads on the <a href=\"https://www.sparkfun.com/products/retired/8602\">Nordic Key FOB</a>. This one was designed and proven to work with the <a href=\"https://www.sparkfun.com/products/retired/9377\">PolyCase Key FOB enclosures</a>.</p>")
 		(property "Reference" "TP46"
-			(at 0 3.599999 -90)
+			(at 0 6.3 -90)
 			(layer "F.Fab")
-			(uuid "8460229f-81d5-4b33-9581-50d244692c5b")
+			(uuid "ba0da867-0a36-46b5-aa75-d7e5f2e3591c")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -1894,9 +1932,9 @@
 			)
 		)
 		(property "Value" "Capacitive Button"
-			(at 0 4.500001 -90)
+			(at 0 7.2 -90)
 			(layer "F.Fab")
-			(uuid "c182dc01-9dcd-4153-8119-7bf1f03b6c61")
+			(uuid "933530ff-fd06-4346-b87e-e888f85213f6")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -1906,15 +1944,16 @@
 				(justify top)
 			)
 		)
-		(property "Footprint" "todbot_stuff:Pad-CapacitiveTouch-SparkFun-10x5mm-roundrect"
+		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4e3eaec9-2630-408f-beb6-b6cbbac5187f")
+			(uuid "44ef2a1c-53dc-4dc9-bcec-1f8005b2f373")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1923,10 +1962,11 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "95d95577-c51f-47dc-bc14-29c7fc201350")
+			(uuid "a79a3625-64ef-45b6-87f1-f65fbbaffec8")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1935,17 +1975,20 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "61df582f-66a0-4855-9199-16eec5e6576f")
+			(uuid "215bd0ef-3939-4106-a5e7-e25004338443")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/8d0a8bda-42cd-4780-bfde-d23a81eeade4")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(pad "1" smd roundrect
 			(at 0 0 90)
-			(size 10 5)
+			(size 10 10)
 			(layers "F.Cu")
 			(roundrect_rratio 0.25)
 			(net 73 "/BUT6")
@@ -1953,7 +1996,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "bdf211c3-8b32-4e54-a811-f4ebcfc5c746")
+			(uuid "d2d143c0-09bf-4533-80d1-0706c3122394")
 		)
 	)
 	(footprint "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
@@ -1982,6 +2025,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1994,6 +2038,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2006,6 +2051,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2018,10 +2064,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/0c645c9d-c6e2-4ef9-b623-9d2ca0de6108")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -2226,6 +2275,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2238,6 +2288,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2250,6 +2301,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2262,10 +2314,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/bc92ab85-7e7d-45e1-9bd3-de74fd212044")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -2470,6 +2525,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2482,6 +2538,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2494,6 +2551,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2506,10 +2564,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/1ac6bff4-0f1c-4b98-a09c-5e3300170df4")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -2714,6 +2775,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2726,6 +2788,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2738,6 +2801,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2750,10 +2814,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/fa78f54a-64a7-4cc7-8202-a5ef07073d0f")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -2958,6 +3025,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2970,6 +3038,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2982,6 +3051,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2994,10 +3064,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/1c3a53bc-d372-4479-b834-5cab2922c709")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -3202,6 +3275,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3214,6 +3288,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3226,6 +3301,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3238,10 +3314,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/5d02da84-3878-40d7-9de0-a9005ecb5805")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -3446,6 +3525,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3458,6 +3538,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3470,6 +3551,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3482,10 +3564,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/bc08a765-41e9-4b99-978c-6cc169ec2871")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -3690,6 +3775,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3702,6 +3788,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3714,6 +3801,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3726,10 +3814,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/a862de9b-1d35-437c-8107-523be55bef59")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -3934,6 +4025,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3946,6 +4038,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3958,6 +4051,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3970,10 +4064,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/8449e509-ccbf-4ced-8ca3-31f627318d17")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -4178,6 +4275,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4190,6 +4288,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4202,6 +4301,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4214,10 +4314,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/e9b953d2-df57-40f9-9f99-ea43e49a1cdf")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -4422,6 +4525,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4434,6 +4538,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4446,6 +4551,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4458,10 +4564,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/7face501-31e9-4b25-a9ed-995806ab1832")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -4666,6 +4775,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4678,6 +4788,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4690,6 +4801,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4702,10 +4814,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/f4a91da0-7b43-4f07-bef3-cf9f0f8a6dad")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -4910,6 +5025,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4922,6 +5038,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4934,6 +5051,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4946,10 +5064,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/b342abe1-aa73-4cb4-8d57-6a92af89f2ef")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -5168,6 +5289,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5180,6 +5302,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5192,10 +5315,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/b4eab93c-df0d-4125-b057-5ac6b6000a65")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(pad "1" smd roundrect
 			(at 0 0 90)
 			(size 10 10)
@@ -5235,6 +5361,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5247,6 +5374,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5259,6 +5387,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5271,10 +5400,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/6f416056-a24f-4b44-8a74-5985806f09f4")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -5479,6 +5611,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5491,6 +5624,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5503,6 +5637,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5515,10 +5650,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/c9b1bd56-418a-4991-b35b-8b41721ceab7")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -5723,6 +5861,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5735,6 +5874,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5747,6 +5887,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5759,10 +5900,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/f38b5d4d-aaa9-406f-bac8-7a59e504fcf4")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -5967,6 +6111,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5979,6 +6124,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5991,6 +6137,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6003,10 +6150,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/3c95815e-1241-4880-98d8-27654cf9cb66")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -6224,6 +6374,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6236,6 +6387,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6248,10 +6400,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
+		(property ki_fp_filters "MountingHole*")
 		(path "/565a121b-57ee-429b-b9a1-2c5ce6a603b0")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -6320,6 +6476,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6332,6 +6489,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6344,6 +6502,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6356,10 +6515,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/76488370-2c9b-43fa-acfe-c1eedf69732f")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -6564,6 +6726,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6576,6 +6739,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6588,6 +6752,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6600,10 +6765,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/ea267f1b-5bce-4faa-93a2-fcb764524218")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -6808,6 +6976,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6820,6 +6989,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6832,6 +7002,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6844,10 +7015,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/0e945e26-22d3-4684-a2f8-26a1a358b2a0")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -7026,7 +7200,7 @@
 			(uuid "3a47ef51-39a2-4023-8e4f-cc19d9dcce5b")
 		)
 	)
-	(footprint "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
+	(footprint "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE_OFFSET"
 		(layer "F.Cu")
 		(uuid "9a2a0ad1-8ab3-4d4b-9d53-6035658bf3af")
 		(at 45.875 75.25)
@@ -7034,8 +7208,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(hide yes)
-			(uuid "5a953991-d668-4e65-9b4e-d63979d43c75")
+			(uuid "9b3bfb08-b422-4f6c-a587-d9c2635544eb")
 			(effects
 				(font
 					(size 1.1684 1.1684)
@@ -7048,22 +7221,24 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "57b43c61-d931-4cc1-af1f-6a8f33e4e06e")
+			(uuid "96de377c-7ca6-493d-b357-29e3e5b9c332")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
-		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
+		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE_OFFSET"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3b561f0e-c22f-48ba-b1cd-ad7a8695862d")
+			(uuid "b7590547-9fad-4854-8d4d-eec3d9c9f1f8")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7072,10 +7247,11 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3bbd6e5b-68fe-4ab1-98d8-d8446dcf75b1")
+			(uuid "332cb200-c086-4692-944b-63b1727c0fd4")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7084,14 +7260,39 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7176208d-c30a-403b-a95f-4ef429ba10b4")
+			(uuid "704ab1b9-20a9-4d29-ac04-d5aca5ef2161")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/b36280d6-3bd5-46fb-8e9f-3080181529e6")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
+		(fp_poly
+			(pts
+				(xy 6.3 -1.3) (xy 6.3 -1.4) (xy 6.1 -1.4) (xy 4.6 -1.4) (xy 1.4 -1.4) (xy 1.4 -6.3) (xy -3.8 -6.3)
+				(xy -3.95109 -6.297811) (xy -4.251066 -6.261387) (xy -4.544465 -6.189071) (xy -4.827007 -6.081916)
+				(xy -5.094574 -5.941487) (xy -5.343263 -5.769829) (xy -5.569447 -5.569447) (xy -5.769829 -5.343263)
+				(xy -5.941487 -5.094574) (xy -6.081916 -4.827007) (xy -6.189071 -4.544465) (xy -6.261387 -4.251066)
+				(xy -6.297811 -3.95109) (xy -6.3 -3.8) (xy -6.3 3.8) (xy -6.297811 3.95109) (xy -6.261387 4.251066)
+				(xy -6.189071 4.544465) (xy -6.081916 4.827007) (xy -5.941487 5.094574) (xy -5.769829 5.343263)
+				(xy -5.569447 5.569447) (xy -5.343263 5.769829) (xy -5.094574 5.941487) (xy -4.827007 6.081916)
+				(xy -4.544465 6.189071) (xy -4.251066 6.261387) (xy -3.95109 6.297811) (xy -3.8 6.3) (xy 3.8 6.3)
+				(xy 3.95109 6.297811) (xy 4.251066 6.261387) (xy 4.544465 6.189071) (xy 4.827007 6.081916) (xy 5.094574 5.941487)
+				(xy 5.343263 5.769829) (xy 5.569447 5.569447) (xy 5.769829 5.343263) (xy 5.941487 5.094574) (xy 6.081916 4.827007)
+				(xy 6.189071 4.544465) (xy 6.261387 4.251066) (xy 6.297811 3.95109) (xy 6.3 3.8)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.Cu")
+			(uuid "293268ac-33bf-4285-a30e-d1ced312b1c0")
+		)
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -7100,7 +7301,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "938673a9-6a48-4355-bd7b-3ee26f88f1b3")
+			(uuid "8980d7d3-693f-44fe-a0d6-d56ae8f676ac")
 		)
 		(fp_line
 			(start -3.81 -6.35)
@@ -7110,7 +7311,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "aa89bb2b-54fe-4855-b261-e90cb2d59b1d")
+			(uuid "3ac9a39c-4d2e-458f-9f3e-506fae23cdd6")
 		)
 		(fp_line
 			(start 3.81 6.35)
@@ -7120,7 +7321,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a1094dae-6250-4cfd-91e1-62cafa21295c")
+			(uuid "616f5e25-bbc2-435d-9c68-1906c5c38a7a")
 		)
 		(fp_line
 			(start 6.35 -3.81)
@@ -7130,7 +7331,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b36da0ad-1d96-41ef-a0de-99939112c81f")
+			(uuid "7d70813c-2a29-4f0e-a0b3-d2c7b5188b0f")
 		)
 		(fp_arc
 			(start -6.35 -3.81)
@@ -7141,7 +7342,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b651730d-a2af-4691-929a-7fe67c5ae31e")
+			(uuid "e908b119-64e9-4a74-a917-9df3a5c2975f")
 		)
 		(fp_arc
 			(start -3.81 6.35)
@@ -7152,7 +7353,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4ec929a1-f5b9-45b5-8636-820363e9682a")
+			(uuid "d6a430ac-5ff5-40b1-83e1-0aea6658a8a2")
 		)
 		(fp_arc
 			(start 3.81 -6.35)
@@ -7163,7 +7364,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6b3e9478-e1ba-43f3-b13c-0f1fc81943ab")
+			(uuid "e1487780-d3cf-4d1a-b25b-79ddf7a0f8a9")
 		)
 		(fp_arc
 			(start 6.35 3.81)
@@ -7174,51 +7375,51 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1b63f97c-ea5d-4d0c-9dab-026a5b3bef1b")
+			(uuid "554ff19a-5118-4712-b703-6f155b7f1d17")
 		)
 		(fp_line
-			(start -2.54 -2.54)
-			(end 2.54 -2.54)
+			(start 1.4 -6.48)
+			(end 6.48 -6.48)
 			(stroke
 				(width 0.127)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "7fd18e7d-ca4a-44fc-a06c-629ccd4722bc")
+			(uuid "81423a92-d863-45c0-9759-bde30a128bc3")
 		)
 		(fp_line
-			(start -2.54 2.54)
-			(end -2.54 -2.54)
+			(start 1.4 -1.4)
+			(end 1.4 -6.48)
 			(stroke
 				(width 0.127)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "d92a1263-bb3c-42c0-a874-8b9dbf512a30")
+			(uuid "1876b50e-0e02-4514-bfe3-c2c795105926")
 		)
 		(fp_line
-			(start 2.54 -2.54)
-			(end 2.54 2.54)
+			(start 6.48 -6.48)
+			(end 6.48 -1.4)
 			(stroke
 				(width 0.127)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "dad4dffd-00ac-431b-87ab-5e044b46d057")
+			(uuid "d967b2a5-cfdf-4661-a439-f2f2f2bd2103")
 		)
 		(fp_line
-			(start 2.54 2.54)
-			(end -2.54 2.54)
+			(start 6.48 -1.4)
+			(end 1.4 -1.4)
 			(stroke
 				(width 0.127)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "15986fd8-bb4b-43a4-94f6-99fdae8d976d")
+			(uuid "1aaa78f9-fd3b-44ce-a3e9-2f1956503350")
 		)
 		(pad "1" smd custom
-			(at -5.08 5.08)
-			(size 1.27 0.635)
+			(at 0.055 -0.105)
+			(size 2 1)
 			(layers "F.Cu")
 			(net 47 "/tp1")
 			(pinfunction "A")
@@ -7230,65 +7431,36 @@
 				(clearance outline)
 				(anchor rect)
 			)
-			(primitives
-				(gr_poly
-					(pts
-						(xy 2.102504 -11.532094) (xy 2.286548 -11.45586) (xy 2.44459 -11.33459) (xy 2.56586 -11.176548)
-						(xy 2.642094 -10.992504) (xy 2.667 -10.803324) (xy 2.667 -3.445722) (xy 2.74121 -3.16877) (xy 2.816565 -3.070565)
-						(xy 2.921546 -2.99001) (xy 3.043804 -2.939369) (xy 3.183328 -2.921) (xy 5.723324 -2.921) (xy 5.912504 -2.896094)
-						(xy 6.096548 -2.81986) (xy 6.25459 -2.69859) (xy 6.37586 -2.540548) (xy 6.452094 -2.356504) (xy 6.477 -2.167324)
-						(xy 6.43 0.645) (xy 7.493 0.643324) (xy 8.23828 1.397) (xy 1.266163 1.397) (xy 0.948501 1.377785)
-						(xy 0.631689 1.319727) (xy 0.324187 1.223905) (xy 0.030475 1.091716) (xy -0.24516 0.925089) (xy -0.498702 0.726452)
-						(xy -0.726452 0.498702) (xy -0.925089 0.24516) (xy -1.091716 -0.030475) (xy -1.223905 -0.324187)
-						(xy -1.319727 -0.631689) (xy -1.377785 -0.948501) (xy -1.397 -1.266163) (xy -1.397 -8.897682)
-						(xy -1.320875 -9.524627) (xy -1.223905 -9.835813) (xy -1.091716 -10.129525) (xy -0.925089 -10.40516)
-						(xy -0.726452 -10.658702) (xy -0.498702 -10.886452) (xy -0.24516 -11.085089) (xy 0.030475 -11.251716)
-						(xy 0.324187 -11.383905) (xy 0.631689 -11.479727) (xy 0.948501 -11.537785) (xy 1.266163 -11.557)
-						(xy 1.913324 -11.557)
-					)
-					(width 0)
-					(fill yes)
-				)
-				(gr_poly
-					(pts
-						(xy 9.211499 -11.537785) (xy 9.528311 -11.479727) (xy 9.835813 -11.383905) (xy 10.129525 -11.251716)
-						(xy 10.40516 -11.085089) (xy 10.658702 -10.886452) (xy 10.886452 -10.658702) (xy 11.085089 -10.40516)
-						(xy 11.251716 -10.129525) (xy 11.383905 -9.835813) (xy 11.479727 -9.528311) (xy 11.537785 -9.211499)
-						(xy 11.557 -8.893837) (xy 11.557 -1.266163) (xy 11.537785 -0.948501) (xy 11.479727 -0.631689)
-						(xy 11.383905 -0.324187) (xy 11.251716 -0.030475) (xy 11.085089 0.24516) (xy 10.886452 0.498702)
-						(xy 10.658702 0.726452) (xy 10.40516 0.925089) (xy 10.129525 1.091716) (xy 9.835813 1.223905)
-						(xy 9.528311 1.319727) (xy 9.211499 1.377785) (xy 8.893837 1.397) (xy 8.23828 1.397) (xy 7.880229 1.30106)
-						(xy 7.71541 1.17459) (xy 7.59414 1.016548) (xy 7.517906 0.832504) (xy 7.493 0.643324) (xy 7.493 -6.722672)
-						(xy 7.474631 -6.862196) (xy 7.42399 -6.984454) (xy 7.343435 -7.089435) (xy 7.238454 -7.16999)
-						(xy 7.116196 -7.220631) (xy 6.976672 -7.239) (xy 4.42828 -7.239) (xy 4.070229 -7.33494) (xy 3.90541 -7.46141)
-						(xy 3.78414 -7.619452) (xy 3.707906 -7.803496) (xy 3.683 -7.992676) (xy 3.683 -11.557) (xy 8.893837 -11.557)
-					)
-					(width 0)
-					(fill yes)
-				)
+			(primitives)
+			(uuid "39e37a25-fe51-48b9-9d66-98850c51dabe")
+		)
+		(group ""
+			(uuid "3482989c-0ca2-4a32-a213-d3f2b7d7bfa6")
+			(members "1876b50e-0e02-4514-bfe3-c2c795105926" "1aaa78f9-fd3b-44ce-a3e9-2f1956503350"
+				"81423a92-d863-45c0-9759-bde30a128bc3" "d967b2a5-cfdf-4661-a439-f2f2f2bd2103"
 			)
-			(uuid "6fb2480f-e4e0-4a2a-9228-7a8d3940f660")
 		)
 	)
-	(footprint "todbot_stuff:OLED-TH_under_L27.8-W27.2-P2.54_C9900033791"
+	(footprint "todbot_stuff:OLED-TH_under_fixed_L27.8-W27.2-P2.54_C9900033791"
 		(layer "F.Cu")
 		(uuid "9a9d813d-ebe6-4272-9f1e-3922dba49863")
 		(at 105.51 37.1)
 		(property "Reference" "DISP1"
-			(at -0.11 4.4 0)
+			(at 0 -2.75 0)
 			(layer "B.SilkS")
-			(uuid "e6a6ac80-02a3-4da8-8c5c-687a2937f539")
+			(uuid "08aaacf8-dd42-44fa-897e-ad90b9c45cc1")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(property "Value" "HS96L03W2C03"
 			(at -0.1 2.9 0)
 			(layer "B.Fab")
-			(uuid "3dc23317-152e-4373-95ac-82ff42304529")
+			(uuid "c1b568a8-780d-4a69-94ee-4a8589abd8c9")
 			(effects
 				(font
 					(size 1 1)
@@ -7296,15 +7468,16 @@
 				)
 			)
 		)
-		(property "Footprint" "todbot_stuff:OLED-TH_under_L27.8-W27.2-P2.54_C9900033791"
+		(property "Footprint" "todbot_stuff:OLED-TH_under_fixed_L27.8-W27.2-P2.54_C9900033791"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "91fb90a6-c053-4e87-8f54-932d3bdc91ac")
+			(uuid "22709761-3fae-4225-b0d6-4f7312d25bb2")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7313,10 +7486,11 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ade1c078-7d08-4f6a-9c22-9f7de8e8cce8")
+			(uuid "519c42b4-a337-424a-9799-fa5da962a1f5")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7325,10 +7499,11 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "37155f19-9148-469e-a30b-dd2a46c71678")
+			(uuid "c80680d0-81e3-4803-bcba-2b7c8166acab")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7348,44 +7523,44 @@
 		(path "/45aef7e0-645e-4bac-802b-59f3d0a5af80")
 		(attr through_hole)
 		(fp_line
-			(start -13.6 -2.2)
-			(end 13.6 -2.2)
+			(start -13.6 -1.44)
+			(end 13.6 -1.44)
 			(stroke
 				(width 0.25)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "5a509a9f-0444-4110-8e40-0ea2a8a75964")
+			(uuid "3cf095bc-649d-4176-b221-3292c6b3656a")
 		)
 		(fp_line
-			(start -13.6 25.6)
-			(end -13.6 -2.2)
+			(start -13.6 26.36)
+			(end -13.6 -1.44)
 			(stroke
 				(width 0.25)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "9a2cbd2a-0488-46af-8cb1-616d4c7a11c4")
+			(uuid "07974e23-a218-43f3-8bdf-d10fbf910dab")
 		)
 		(fp_line
 			(start -6.35 21.85)
-			(end -6.35 25.6)
+			(end -6.35 26.36)
 			(stroke
 				(width 0.25)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "aa99ee48-9e31-4a09-8f57-6f35c07298e0")
+			(uuid "b49a90e3-c9e9-4278-937d-87af337f759d")
 		)
 		(fp_line
-			(start -6.35 25.6)
-			(end -13.6 25.6)
+			(start -6.35 26.36)
+			(end -13.6 26.36)
 			(stroke
 				(width 0.25)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "a8afd9f0-5df3-4313-814f-6e3b07fc8bd7")
+			(uuid "aba3f7c6-e218-49da-8be2-08ff075f9e58")
 		)
 		(fp_line
 			(start -5.08 -1.25)
@@ -7395,7 +7570,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "a0831bb6-bc48-4778-97b6-805f3d51516a")
+			(uuid "d6a12268-c3f4-4a77-bc56-8603a4d4e446")
 		)
 		(fp_line
 			(start -5.08 -1.25)
@@ -7405,7 +7580,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "7e7e6577-eb25-4830-a633-e0a83b4ca056")
+			(uuid "0871efab-5620-4a78-853e-4c3d05f7c7d9")
 		)
 		(fp_line
 			(start -5.08 1.25)
@@ -7415,7 +7590,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "abba6e80-5ba3-4e67-babd-aa6540d70dec")
+			(uuid "be3eb131-c4f0-428c-92fe-db5cec32bde6")
 		)
 		(fp_line
 			(start 5.08 1.25)
@@ -7425,7 +7600,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "04415b21-3b9b-4d14-96e5-d06328cba4b8")
+			(uuid "04596803-4d7e-4889-859e-6a2c634e50ac")
 		)
 		(fp_line
 			(start 6.5 21.85)
@@ -7435,92 +7610,48 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "f10fee65-00d6-4ff2-aa54-6fd122e21f5d")
+			(uuid "6636b184-def9-4e59-b1e0-9fe7dc6b3123")
 		)
 		(fp_line
-			(start 6.5 25.6)
+			(start 6.5 26.36)
 			(end 6.5 21.85)
 			(stroke
 				(width 0.25)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "af3f3a6c-d704-4ce4-857c-ac4a3c56047a")
+			(uuid "67e51140-24ac-4f8b-af64-96742a210bfb")
 		)
 		(fp_line
-			(start 13.6 -2.2)
-			(end 13.6 25.6)
+			(start 13.6 -1.44)
+			(end 13.6 26.36)
 			(stroke
 				(width 0.25)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "f5c03d9f-06e9-463e-93a7-7f451a1b3e64")
+			(uuid "f3008cc5-5bc6-4207-a74d-97e6cf50f2ca")
 		)
 		(fp_line
-			(start 13.6 25.6)
-			(end 6.5 25.6)
+			(start 13.6 26.36)
+			(end 6.5 26.36)
 			(stroke
 				(width 0.25)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "3e8ee3cf-588d-4cd6-8e75-5a368602ac5f")
+			(uuid "52f13211-1997-47f4-8955-dae99fb85103")
 		)
 		(fp_rect
-			(start -11.375 5.43)
-			(end 11.375 17.43)
+			(start -11.375 3.5)
+			(end 11.375 17.5)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(fill none)
-			(layer "B.SilkS")
-			(uuid "21000dcb-d183-4db1-80bc-c794d0c087e3")
-		)
-		(fp_circle
-			(center -11.75 -0.2)
-			(end -10.48 -0.2)
-			(stroke
-				(width 0.25)
-				(type solid)
-			)
-			(fill none)
-			(layer "B.SilkS")
-			(uuid "3e333bf1-3c3d-4f37-bd17-bc91072fa9d6")
-		)
-		(fp_circle
-			(center -11.75 23.6)
-			(end -10.48 23.6)
-			(stroke
-				(width 0.25)
-				(type solid)
-			)
-			(fill none)
-			(layer "B.SilkS")
-			(uuid "90cb4dcd-cd33-47e5-869c-676b628fac49")
-		)
-		(fp_circle
-			(center 11.75 -0.2)
-			(end 13.02 -0.2)
-			(stroke
-				(width 0.25)
-				(type solid)
-			)
-			(fill none)
-			(layer "B.SilkS")
-			(uuid "d3b50f9d-0a86-41a0-989e-cc2337d474e3")
-		)
-		(fp_circle
-			(center 11.75 23.6)
-			(end 13.02 23.6)
-			(stroke
-				(width 0.25)
-				(type solid)
-			)
-			(fill none)
-			(layer "B.SilkS")
-			(uuid "89084105-1125-42ca-b10a-e9680063f7c0")
+			(layer "Edge.Cuts")
+			(uuid "a353a3fe-4d3d-4994-9477-3a167e6b560a")
 		)
 		(fp_circle
 			(center -13.6 25.6)
@@ -7531,12 +7662,12 @@
 			)
 			(fill none)
 			(layer "F.Fab")
-			(uuid "5cc34512-1c70-4d6b-bdcc-8afc62d04436")
+			(uuid "ff940aa8-fbd7-4ac4-8024-21bad012ffec")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "7a4540c6-35a5-4882-96a1-8473fa9cbb07")
+			(uuid "81cf2f93-548d-46cd-aede-b01592d882e8")
 			(effects
 				(font
 					(size 1 1)
@@ -7552,8 +7683,8 @@
 			(remove_unused_layers no)
 			(net 2 "GND")
 			(pinfunction "GND")
-			(pintype "unspecified")
-			(uuid "e4058144-53a3-4a64-b7df-21012a620563")
+			(pintype "power_in")
+			(uuid "4e410f84-c48e-4289-ac65-52ddd7f56200")
 		)
 		(pad "2" thru_hole circle
 			(at -1.27 0)
@@ -7563,8 +7694,8 @@
 			(remove_unused_layers no)
 			(net 3 "+3V3")
 			(pinfunction "VCC")
-			(pintype "unspecified")
-			(uuid "3d76dfd8-0f39-4833-8190-ec6e370a2640")
+			(pintype "power_in")
+			(uuid "a9807460-4ee7-470f-9d1c-f06323c560ef")
 		)
 		(pad "3" thru_hole circle
 			(at 1.27 0)
@@ -7574,8 +7705,8 @@
 			(remove_unused_layers no)
 			(net 102 "/DISP_SCL")
 			(pinfunction "SCL")
-			(pintype "unspecified")
-			(uuid "7d46e1a8-683a-420b-a185-eb8248207c66")
+			(pintype "bidirectional")
+			(uuid "0a4d50a9-d286-477b-8e55-23e885c67b0f")
 		)
 		(pad "4" thru_hole circle
 			(at 3.81 0)
@@ -7585,12 +7716,8 @@
 			(remove_unused_layers no)
 			(net 103 "/DISP_SDA")
 			(pinfunction "SDA")
-			(pintype "unspecified")
-			(uuid "516a33c0-974b-4935-8fd3-401a8db19b55")
-		)
-		(group ""
-			(uuid "cbbb20a2-fa3f-4900-9ccf-d6a6c7c6f5aa")
-			(members "21000dcb-d183-4db1-80bc-c794d0c087e3")
+			(pintype "bidirectional")
+			(uuid "706f62a4-d731-4aa2-8222-af60e364c7e2")
 		)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/OLED-TH_L27.8-W27.2-P2.54_C9900033791.wrl"
 			(offset
@@ -7630,6 +7757,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7642,6 +7770,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7654,6 +7783,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7666,10 +7796,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/cb2526a5-e6b5-4a8c-b80d-d7d21083f4c9")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -7874,6 +8007,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7886,6 +8020,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7898,6 +8033,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7910,10 +8046,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/dc725b83-65ae-43f3-b85b-c2da9afecb0f")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -8118,6 +8257,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8130,6 +8270,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8142,6 +8283,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8154,10 +8296,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/5f952ac4-94a2-4d58-8232-a74bf9d911ed")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -8362,6 +8507,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8374,6 +8520,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8386,6 +8533,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8398,10 +8546,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/f19345e1-7c23-464d-ac1e-21c6be4fd461")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -8622,6 +8773,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8634,6 +8786,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8646,10 +8799,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/bc09fe82-83fa-4d9a-af05-e0a7d1bc8664")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(pad "1" smd roundrect
 			(at 0 0 90)
 			(size 10 10)
@@ -8689,6 +8845,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8701,6 +8858,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8713,6 +8871,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8725,10 +8884,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/88071655-8d8c-477b-b0c9-a8f7edcf0ff3")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -8933,6 +9095,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8945,6 +9108,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8957,6 +9121,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8969,10 +9134,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/bd5573cd-9664-4cc7-a0b2-78eb68d26917")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -9190,6 +9358,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9202,6 +9371,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9214,10 +9384,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
+		(property ki_fp_filters "MountingHole*")
 		(path "/3cc61652-76c6-4cef-bd95-15378114e04f")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -9286,6 +9460,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9298,6 +9473,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9310,6 +9486,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9322,10 +9499,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/1a440649-5e13-4e4b-b2d8-64d24b699c64")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -9530,6 +9710,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9542,6 +9723,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9554,6 +9736,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9566,10 +9749,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/ae55df19-0903-476a-8c6f-791d6287fd79")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -9748,16 +9934,15 @@
 			(uuid "b654e5c8-4c30-4c4c-860c-a4d70c6d6bc3")
 		)
 	)
-	(footprint "todbot_stuff:Pad-CapacitiveTouch-SparkFun-10x5mm-roundrect"
+	(footprint "SparkFun-Switch:Pad-CapacitiveTouch"
 		(layer "F.Cu")
 		(uuid "cae3f045-b559-457d-a764-4342fc699f29")
 		(at 99.2 61.2 90)
 		(descr "<h3>Conductive Button</h3>\n<p>Used with rubber key pads on the <a href=\"https://www.sparkfun.com/products/retired/8602\">Nordic Key FOB</a>. This one was designed and proven to work with the <a href=\"https://www.sparkfun.com/products/retired/9377\">PolyCase Key FOB enclosures</a>.</p>")
 		(property "Reference" "TP45"
-			(at 0 3.599999 -90)
+			(at 0 6.3 -90)
 			(layer "F.Fab")
-			(hide yes)
-			(uuid "37a765c6-b78c-4b4f-8eeb-07725a11277c")
+			(uuid "289bc93e-7eaf-490c-8138-7371f17cbac2")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -9768,10 +9953,9 @@
 			)
 		)
 		(property "Value" "Capacitive Button"
-			(at 0 4.500001 -90)
+			(at 0 7.2 -90)
 			(layer "F.Fab")
-			(hide yes)
-			(uuid "c1b92f80-8436-4d4b-9703-cebad08d83de")
+			(uuid "1121f6a3-dbe9-409d-aabd-34b14b7878a6")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -9781,15 +9965,16 @@
 				(justify top)
 			)
 		)
-		(property "Footprint" "todbot_stuff:Pad-CapacitiveTouch-SparkFun-10x5mm-roundrect"
+		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a6623ffc-ca28-4b38-b5b7-0d7c3e846a61")
+			(uuid "81f46d99-bcd2-4b83-a6d4-54d39c4fe75f")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9798,10 +9983,11 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a4b51c3e-f181-4943-b279-6883dd1c125b")
+			(uuid "a7c9de9c-2459-498b-b986-dabecff79c93")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9810,17 +9996,20 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bbdf89f9-6ada-47cf-b230-dc8adeec1d10")
+			(uuid "58734a72-70d5-4af7-b874-e52ab353c754")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/c3596bec-a74c-4916-b150-0b68217ce484")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(pad "1" smd roundrect
 			(at 0 0 90)
-			(size 10 5)
+			(size 10 10)
 			(layers "F.Cu")
 			(roundrect_rratio 0.25)
 			(net 127 "/BUT5")
@@ -9828,7 +10017,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "8c895c2d-6a1a-4d65-9799-9a819718c820")
+			(uuid "bdf4918f-6441-409e-b6a1-9f9f288ecbf4")
 		)
 	)
 	(footprint "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
@@ -9857,6 +10046,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9869,6 +10059,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9881,6 +10072,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9893,10 +10085,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/4f14857c-784a-4f36-905f-5937d156984c")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -10117,6 +10312,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10129,6 +10325,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10141,10 +10338,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/03ba274a-e937-45e5-8a62-7e9fe7d69257")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(pad "1" smd roundrect
 			(at 0 0 90)
 			(size 10 10)
@@ -10184,6 +10384,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10196,6 +10397,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10208,6 +10410,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10220,10 +10423,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/3c78e9cd-13d7-4a78-b095-ef0b98b46af6")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -10441,6 +10647,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10453,6 +10660,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10465,10 +10673,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
+		(property ki_fp_filters "MountingHole*")
 		(path "/867c6ea8-b77b-43c1-85eb-51112f8da385")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -10550,6 +10762,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10562,6 +10775,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10574,10 +10788,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
+		(property ki_fp_filters "MountingHole*")
 		(path "/131d13c0-b849-47f1-bb99-4ed9f236edff")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -10689,6 +10907,8 @@
 			)
 		)
 		(path "/fbb1c53f-fef5-4e1e-8a3f-a516aca6b147")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_text user "${REFERENCE}"
 			(at -0.5 -21.2 90)
@@ -10781,7 +11001,7 @@
 			(uuid "1081a178-2454-4fdf-a8d7-b0f8b0af0f67")
 		)
 	)
-	(footprint "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
+	(footprint "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE_OFFSET"
 		(layer "F.Cu")
 		(uuid "eb96fe39-f532-4e54-95ed-283da9b4cb9d")
 		(at 62.475 75.25)
@@ -10789,8 +11009,7 @@
 			(at -5.334 -6.858 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(hide yes)
-			(uuid "5dde1423-ee73-4913-828a-fff173b53c13")
+			(uuid "277cebb1-d259-43ad-a500-500746e4c18b")
 			(effects
 				(font
 					(size 1.1684 1.1684)
@@ -10803,22 +11022,24 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "248c2dcb-8654-41b9-969a-ce6939efd546")
+			(uuid "8bb3eef2-9313-4c30-828c-a63cbab6cb26")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
-		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
+		(property "Footprint" "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE_OFFSET"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "85ce5329-9c4c-445c-9d88-fc6da1620786")
+			(uuid "4029e7bb-f0d9-415c-90f9-73f79db8b056")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10827,10 +11048,11 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "08f7768a-1fab-4856-b701-142274d59a17")
+			(uuid "487f8113-f3de-4221-b659-f69a07daeef9")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10839,14 +11061,39 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5e5bb16e-7f69-4a9f-852a-d7e616456ec8")
+			(uuid "f7c5bf6a-f095-4d96-96bb-1ee6b2ea8e21")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/be6e2e54-aa93-405e-85e7-97495cda5d40")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
+		(fp_poly
+			(pts
+				(xy 6.3 -1.3) (xy 6.3 -1.4) (xy 6.1 -1.4) (xy 4.6 -1.4) (xy 1.4 -1.4) (xy 1.4 -6.3) (xy -3.8 -6.3)
+				(xy -3.95109 -6.297811) (xy -4.251066 -6.261387) (xy -4.544465 -6.189071) (xy -4.827007 -6.081916)
+				(xy -5.094574 -5.941487) (xy -5.343263 -5.769829) (xy -5.569447 -5.569447) (xy -5.769829 -5.343263)
+				(xy -5.941487 -5.094574) (xy -6.081916 -4.827007) (xy -6.189071 -4.544465) (xy -6.261387 -4.251066)
+				(xy -6.297811 -3.95109) (xy -6.3 -3.8) (xy -6.3 3.8) (xy -6.297811 3.95109) (xy -6.261387 4.251066)
+				(xy -6.189071 4.544465) (xy -6.081916 4.827007) (xy -5.941487 5.094574) (xy -5.769829 5.343263)
+				(xy -5.569447 5.569447) (xy -5.343263 5.769829) (xy -5.094574 5.941487) (xy -4.827007 6.081916)
+				(xy -4.544465 6.189071) (xy -4.251066 6.261387) (xy -3.95109 6.297811) (xy -3.8 6.3) (xy 3.8 6.3)
+				(xy 3.95109 6.297811) (xy 4.251066 6.261387) (xy 4.544465 6.189071) (xy 4.827007 6.081916) (xy 5.094574 5.941487)
+				(xy 5.343263 5.769829) (xy 5.569447 5.569447) (xy 5.769829 5.343263) (xy 5.941487 5.094574) (xy 6.081916 4.827007)
+				(xy 6.189071 4.544465) (xy 6.261387 4.251066) (xy 6.297811 3.95109) (xy 6.3 3.8)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.Cu")
+			(uuid "b4f01e63-a22f-468e-b1d0-8b19f852ec14")
+		)
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -10855,7 +11102,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "46e2b51d-d924-4c84-8833-777de57ba102")
+			(uuid "566d442c-8c95-46e2-8f97-c270bb4cdb53")
 		)
 		(fp_line
 			(start -3.81 -6.35)
@@ -10865,7 +11112,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a87e59dc-4dc3-4c3d-91be-87a2d70d31f7")
+			(uuid "4e5d5d0a-2a12-4aad-a720-39147ba158ea")
 		)
 		(fp_line
 			(start 3.81 6.35)
@@ -10875,7 +11122,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "12ea84d4-f909-4399-96ab-0dcec7e58178")
+			(uuid "88d38065-9031-4fd2-b8bd-b25c57bade26")
 		)
 		(fp_line
 			(start 6.35 -3.81)
@@ -10885,7 +11132,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2832e70c-26d3-4fd6-85db-775aaa1bf1a5")
+			(uuid "0c00fa90-3bcf-461f-8c8e-8d9b6bb751c4")
 		)
 		(fp_arc
 			(start -6.35 -3.81)
@@ -10896,7 +11143,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "995c5a0d-dba8-4ada-8b51-d013e6b250b9")
+			(uuid "1405133c-2caf-4028-a14e-b52398513466")
 		)
 		(fp_arc
 			(start -3.81 6.35)
@@ -10907,7 +11154,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "41950ec8-cace-4fcd-b9c9-92a4932ec714")
+			(uuid "1e7ec00b-cf82-4b9f-a14e-38c4ba691bee")
 		)
 		(fp_arc
 			(start 3.81 -6.35)
@@ -10918,7 +11165,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e4824baa-25a8-4a11-a513-5741f5268736")
+			(uuid "93fbff09-d021-4eb7-a492-712f7604b48b")
 		)
 		(fp_arc
 			(start 6.35 3.81)
@@ -10929,51 +11176,51 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "55b0b5aa-2c0c-4904-8d24-74878d7901ab")
+			(uuid "1b70c0d6-f1cb-4b8e-b92c-2c94e15bdc06")
 		)
 		(fp_line
-			(start -2.54 -2.54)
-			(end 2.54 -2.54)
+			(start 1.4 -6.48)
+			(end 6.48 -6.48)
 			(stroke
 				(width 0.127)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "399a68f7-be19-455d-a92b-4b0210977ffc")
+			(uuid "afe12bc6-3ece-4943-b9ee-724346506361")
 		)
 		(fp_line
-			(start -2.54 2.54)
-			(end -2.54 -2.54)
+			(start 1.4 -1.4)
+			(end 1.4 -6.48)
 			(stroke
 				(width 0.127)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "c9882f01-a60e-4753-ae0e-388d8dd9e1e0")
+			(uuid "9cb059a6-fefb-49a9-9ddd-ba75edb5a776")
 		)
 		(fp_line
-			(start 2.54 -2.54)
-			(end 2.54 2.54)
+			(start 6.48 -6.48)
+			(end 6.48 -1.4)
 			(stroke
 				(width 0.127)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "a5df2bf4-5187-4898-823a-9cedaa67928f")
+			(uuid "8b1fcb22-73ef-44cd-9851-e2d6401c0009")
 		)
 		(fp_line
-			(start 2.54 2.54)
-			(end -2.54 2.54)
+			(start 6.48 -1.4)
+			(end 1.4 -1.4)
 			(stroke
 				(width 0.127)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "fe2d132b-158b-48e8-9755-15c665913083")
+			(uuid "2dcf17f3-b0f1-4a6f-a7d1-12646971d2e1")
 		)
 		(pad "1" smd custom
-			(at -5.08 5.08)
-			(size 1.27 0.635)
+			(at 0.055 -0.105)
+			(size 2 1)
 			(layers "F.Cu")
 			(net 48 "/tp2")
 			(pinfunction "A")
@@ -10985,44 +11232,14 @@
 				(clearance outline)
 				(anchor rect)
 			)
-			(primitives
-				(gr_poly
-					(pts
-						(xy 2.102504 -11.532094) (xy 2.286548 -11.45586) (xy 2.44459 -11.33459) (xy 2.56586 -11.176548)
-						(xy 2.642094 -10.992504) (xy 2.667 -10.803324) (xy 2.667 -3.445722) (xy 2.74121 -3.16877) (xy 2.816565 -3.070565)
-						(xy 2.921546 -2.99001) (xy 3.043804 -2.939369) (xy 3.183328 -2.921) (xy 5.723324 -2.921) (xy 5.912504 -2.896094)
-						(xy 6.096548 -2.81986) (xy 6.25459 -2.69859) (xy 6.37586 -2.540548) (xy 6.452094 -2.356504) (xy 6.477 -2.167324)
-						(xy 6.43 0.645) (xy 7.493 0.643324) (xy 8.23828 1.397) (xy 1.266163 1.397) (xy 0.948501 1.377785)
-						(xy 0.631689 1.319727) (xy 0.324187 1.223905) (xy 0.030475 1.091716) (xy -0.24516 0.925089) (xy -0.498702 0.726452)
-						(xy -0.726452 0.498702) (xy -0.925089 0.24516) (xy -1.091716 -0.030475) (xy -1.223905 -0.324187)
-						(xy -1.319727 -0.631689) (xy -1.377785 -0.948501) (xy -1.397 -1.266163) (xy -1.397 -8.897682)
-						(xy -1.320875 -9.524627) (xy -1.223905 -9.835813) (xy -1.091716 -10.129525) (xy -0.925089 -10.40516)
-						(xy -0.726452 -10.658702) (xy -0.498702 -10.886452) (xy -0.24516 -11.085089) (xy 0.030475 -11.251716)
-						(xy 0.324187 -11.383905) (xy 0.631689 -11.479727) (xy 0.948501 -11.537785) (xy 1.266163 -11.557)
-						(xy 1.913324 -11.557)
-					)
-					(width 0)
-					(fill yes)
-				)
-				(gr_poly
-					(pts
-						(xy 9.211499 -11.537785) (xy 9.528311 -11.479727) (xy 9.835813 -11.383905) (xy 10.129525 -11.251716)
-						(xy 10.40516 -11.085089) (xy 10.658702 -10.886452) (xy 10.886452 -10.658702) (xy 11.085089 -10.40516)
-						(xy 11.251716 -10.129525) (xy 11.383905 -9.835813) (xy 11.479727 -9.528311) (xy 11.537785 -9.211499)
-						(xy 11.557 -8.893837) (xy 11.557 -1.266163) (xy 11.537785 -0.948501) (xy 11.479727 -0.631689)
-						(xy 11.383905 -0.324187) (xy 11.251716 -0.030475) (xy 11.085089 0.24516) (xy 10.886452 0.498702)
-						(xy 10.658702 0.726452) (xy 10.40516 0.925089) (xy 10.129525 1.091716) (xy 9.835813 1.223905)
-						(xy 9.528311 1.319727) (xy 9.211499 1.377785) (xy 8.893837 1.397) (xy 8.23828 1.397) (xy 7.880229 1.30106)
-						(xy 7.71541 1.17459) (xy 7.59414 1.016548) (xy 7.517906 0.832504) (xy 7.493 0.643324) (xy 7.493 -6.722672)
-						(xy 7.474631 -6.862196) (xy 7.42399 -6.984454) (xy 7.343435 -7.089435) (xy 7.238454 -7.16999)
-						(xy 7.116196 -7.220631) (xy 6.976672 -7.239) (xy 4.42828 -7.239) (xy 4.070229 -7.33494) (xy 3.90541 -7.46141)
-						(xy 3.78414 -7.619452) (xy 3.707906 -7.803496) (xy 3.683 -7.992676) (xy 3.683 -11.557) (xy 8.893837 -11.557)
-					)
-					(width 0)
-					(fill yes)
-				)
+			(primitives)
+			(uuid "caa59e76-5ec9-4163-b2cc-9e71d11d849b")
+		)
+		(group ""
+			(uuid "31465933-7e5f-414a-a3b5-f1a3657e687c")
+			(members "2dcf17f3-b0f1-4a6f-a7d1-12646971d2e1" "8b1fcb22-73ef-44cd-9851-e2d6401c0009"
+				"9cb059a6-fefb-49a9-9ddd-ba75edb5a776" "afe12bc6-3ece-4943-b9ee-724346506361"
 			)
-			(uuid "5ade01e9-f401-408d-87e6-33fadbd71fc3")
 		)
 	)
 	(footprint "todbot_eagle2023:TOUCHPAD_KEY_0.5IN_LEDHOLE"
@@ -11051,6 +11268,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11063,6 +11281,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11075,6 +11294,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11087,10 +11307,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/a72209ab-2a7f-4580-ab10-bb676de6dfb7")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -11309,6 +11532,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11321,6 +11545,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11333,10 +11558,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/6c24c08f-e289-44e0-ac86-d0d591feeb9f")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(pad "1" smd roundrect
 			(at 0 0 90)
 			(size 10 10)
@@ -11376,6 +11604,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11388,6 +11617,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11400,6 +11630,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11412,10 +11643,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/e5048d20-f322-45e8-b0c0-ef8983723493")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(fp_line
 			(start -6.35 3.81)
 			(end -6.35 -3.81)
@@ -11633,6 +11867,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -11646,6 +11881,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -11659,11 +11895,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/8eafb09f-8e58-4aaa-879f-7d776f661710")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -11844,6 +12084,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -11857,6 +12098,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -11870,6 +12112,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -11889,6 +12132,8 @@
 			)
 		)
 		(path "/452d7c4f-c77c-4659-8101-cc24310bd3f2")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 4.93 1.77)
@@ -12289,6 +12534,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -12302,6 +12548,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -12315,11 +12562,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/89d979a1-9d66-4e56-ac56-88009e648258")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -12471,7 +12721,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -12482,7 +12732,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -12504,7 +12754,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -12708,6 +12958,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -12721,6 +12972,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -12734,11 +12986,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/77cec771-5c8a-4e52-821e-7b45fc3e0009")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -12921,6 +13177,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -12934,6 +13191,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -12947,11 +13205,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/3a1227d1-049e-4906-8bc3-f11e76ba157d")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -13103,7 +13364,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -13114,7 +13375,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -13136,7 +13397,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -13340,6 +13601,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -13353,6 +13615,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -13366,11 +13629,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/c6c227da-14e2-4c2d-86b5-4dcc076429ee")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -13522,7 +13788,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -13533,7 +13799,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -13555,7 +13821,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -13759,6 +14025,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -13772,6 +14039,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -13785,11 +14053,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/32383b1f-6dc6-4e4d-9663-721e594d2cf7")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -13972,6 +14244,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -13985,6 +14258,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -13998,11 +14272,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/cda6c1ad-58fe-4665-bce7-57a9c2789c94")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -14185,6 +14463,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -14198,6 +14477,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -14211,11 +14491,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/adefc54a-36a4-4883-b697-9b0198f1c3d6")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 0.5225)
@@ -14398,6 +14682,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -14411,6 +14696,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -14424,11 +14710,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/d9bb8d5f-7140-41b1-b2de-275da0cffeff")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -14580,7 +14869,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -14591,7 +14880,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -14613,7 +14902,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -14817,6 +15106,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -14830,6 +15120,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -14843,11 +15134,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/26bae627-31c2-46f8-bacd-78ca5e84d8df")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -14999,7 +15293,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -15010,7 +15304,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -15032,7 +15326,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -15236,6 +15530,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -15249,6 +15544,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -15262,11 +15558,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/a9e0af32-8a20-48ac-8c87-f091ecd6144f")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 0.5225)
@@ -15446,6 +15746,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -15459,6 +15760,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -15472,11 +15774,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/dec7d78e-523e-4fc3-99d9-5bce6bc7a6a4")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.05 -12.1)
@@ -15595,7 +15900,7 @@
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 116 "unconnected-(J3-RING2-Pad4)")
 			(pinfunction "RING2")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "e9cd952f-e817-41a1-a345-a39f62d66e6a")
 		)
 	)
@@ -15638,6 +15943,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -15651,6 +15957,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -15664,11 +15971,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/8a9b3d49-8a7c-4776-9db8-e19a4ba05d92")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -15851,6 +16162,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -15864,6 +16176,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -15877,11 +16190,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/f13ca013-c47b-4aba-904e-a45b3506e20c")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 0.5225)
@@ -16064,6 +16381,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -16077,6 +16395,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -16090,11 +16409,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/3cef7a76-8c96-4ce3-9d1f-9b212b241cf6")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -16277,6 +16600,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -16290,6 +16614,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -16303,11 +16628,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/85f83c59-3e0b-4fec-9e62-791db406b07d")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -16490,6 +16819,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -16503,6 +16833,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -16516,11 +16847,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/a80ea3b7-80a3-44f5-88ec-cd4f82069b93")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -16703,6 +17038,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -16716,6 +17052,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -16729,11 +17066,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/56d53435-a20e-4696-a2e3-7234ce0c0fa1")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -16916,6 +17257,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -16929,6 +17271,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -16942,11 +17285,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/964779fc-c9f5-437d-981f-8df9a0cf594e")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -17129,6 +17476,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -17142,6 +17490,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -17155,11 +17504,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/e1df66f9-9c04-4964-9e46-d24b252fa5af")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 0.5225)
@@ -17342,6 +17695,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -17355,6 +17709,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -17368,11 +17723,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/0abf5be4-1bff-4bb2-b75b-e10f9b0dbddb")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -17555,6 +17914,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -17568,6 +17928,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -17581,11 +17942,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/7e2d1c34-1742-4a88-bb02-abbf26481e4f")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -17768,6 +18133,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -17781,6 +18147,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -17794,11 +18161,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/b785301e-e430-4e6d-93cd-03fe6cd18b60")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -17950,7 +18320,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -17961,7 +18331,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -17983,7 +18353,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -18151,7 +18521,7 @@
 	(footprint "PCM_marbastlib-various:LED_6028R"
 		(layer "B.Cu")
 		(uuid "3d458e91-9425-478a-bfe1-8e3ef2508c74")
-		(at 62.475 75.25)
+		(at 66.04 71.374)
 		(descr "rear-mount SMD 6028 RGB LED")
 		(tags "LED RGB 6028 rear mount reverse")
 		(property "Reference" "LED2"
@@ -18187,6 +18557,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -18200,6 +18571,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -18213,11 +18585,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/48f6eda7-45d6-4f2f-a657-296176dc2386")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -18369,7 +18744,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -18380,7 +18755,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -18402,7 +18777,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -18606,6 +18981,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -18619,6 +18995,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -18632,11 +19009,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/bc2abf56-211b-4214-8666-141202a1e864")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -18788,7 +19168,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -18799,7 +19179,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -18821,7 +19201,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -19025,6 +19405,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -19038,6 +19419,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -19051,11 +19433,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/40f24e32-2cac-49a3-92ab-0bc4fb6bb2ce")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 -0.51)
@@ -19238,6 +19624,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -19251,6 +19638,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -19264,11 +19652,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/d3c47f1e-d95e-4a29-b421-abe49f1e2f0f")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -19420,7 +19811,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -19431,7 +19822,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -19453,7 +19844,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -19657,6 +20048,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -19670,6 +20062,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -19683,11 +20076,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/3604abec-84d4-4d70-905c-50448980bc40")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -19870,6 +20267,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -19883,6 +20281,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -19896,11 +20295,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/b550e3f8-938e-47db-84b7-7d9ba9340631")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -20052,7 +20454,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -20063,7 +20465,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -20085,7 +20487,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -20289,6 +20691,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -20302,6 +20705,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -20315,11 +20719,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/77775673-f3ee-4396-b28e-0143bcbbf27d")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -20471,7 +20878,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -20482,7 +20889,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -20504,7 +20911,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -20708,6 +21115,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -20721,6 +21129,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -20734,11 +21143,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/26637be5-3c76-4125-a85e-16562a1b26ed")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -20921,6 +21334,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -20934,6 +21348,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -20947,11 +21362,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/60635959-2c1f-483c-bc38-61c684de2f44")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -21134,6 +21553,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -21147,6 +21567,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -21160,11 +21581,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/eb613e14-f0ea-442f-a280-18f5e8c175ff")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -21316,7 +21740,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -21327,7 +21751,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -21349,7 +21773,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -21553,6 +21977,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -21566,6 +21991,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -21579,11 +22005,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/b7889a3a-e39e-4a2c-ad3b-43f97db64a5a")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -21766,6 +22196,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -21779,6 +22210,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -21792,11 +22224,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/5f2b6ebd-cde8-4ce3-9ec9-8fb074c56b76")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 0.5225)
@@ -21979,6 +22415,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -21992,6 +22429,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -22005,11 +22443,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/c41ff9e1-07ef-4a6b-bd8f-0fa36a373140")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -22161,7 +22602,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -22172,7 +22613,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -22194,7 +22635,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -22398,6 +22839,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -22411,6 +22853,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -22424,11 +22867,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/f44aea23-b190-4054-8d30-cafd751cedc3")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -22611,6 +23058,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -22624,6 +23072,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -22637,11 +23086,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/ded07c39-e433-489e-a763-8e6d77d8a7de")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -22824,6 +23277,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -22837,6 +23291,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -22850,11 +23305,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/4c4acdb0-6b09-42b6-b6b7-233bb23bec8d")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -23006,7 +23464,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -23017,7 +23475,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -23039,7 +23497,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -23243,6 +23701,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -23256,6 +23715,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -23269,11 +23729,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/cb7d9250-97a5-4417-ad90-296eb62e716d")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -23425,7 +23888,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -23436,7 +23899,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -23458,7 +23921,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -23662,6 +24125,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -23675,6 +24139,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -23688,11 +24153,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/de7629c7-deee-4f3b-ae36-6ae2b68635f0")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -23875,6 +24344,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -23888,6 +24358,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -23901,11 +24372,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/84424573-4cdf-490e-90f3-edce67f28daf")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -24088,6 +24563,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -24101,6 +24577,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -24114,11 +24591,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/c155d9b0-2abc-4e67-a26b-113a88a5617b")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -24270,7 +24750,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -24281,7 +24761,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -24303,7 +24783,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -24507,6 +24987,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -24520,6 +25001,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -24533,11 +25015,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/9298bb62-f8f0-4f5c-b914-00d339958f3c")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 0.5225)
@@ -24720,6 +25206,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -24733,6 +25220,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -24746,11 +25234,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/946240eb-85eb-4883-bd97-bab8192b4d79")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -24902,7 +25393,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -24913,7 +25404,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -24935,7 +25426,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -25139,6 +25630,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -25152,6 +25644,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -25165,11 +25658,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/7b7da81c-da3f-4b9f-9a1f-e69b72fb8947")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -25352,6 +25849,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -25365,6 +25863,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -25378,11 +25877,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/3d9bc05a-8379-4bfc-9f8f-a07696f66e26")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 -0.5225)
@@ -25565,6 +26068,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -25578,6 +26082,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -25591,11 +26096,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/1098bb60-f0ff-45f2-85f7-945cb07a437f")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -25778,6 +26287,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -25791,6 +26301,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -25804,11 +26315,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/a6edb37f-fe60-453b-96cd-acc2701ec329")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -25991,6 +26506,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -26004,6 +26520,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -26017,11 +26534,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/5d193272-6e9d-4af2-91ec-413f8cc63fd2")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 -0.5225)
@@ -26204,6 +26725,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -26217,6 +26739,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -26230,11 +26753,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/b2f60a61-5af2-4cc0-bb60-985a1fdb8cf2")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -26386,7 +26912,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -26397,7 +26923,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -26419,7 +26945,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -26623,6 +27149,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -26636,6 +27163,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -26649,11 +27177,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/3a216050-b77f-4653-9b2c-0e809f26f8e7")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -26805,7 +27336,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -26816,7 +27347,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -26838,7 +27369,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -27042,6 +27573,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -27055,6 +27587,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -27068,11 +27601,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/65212b57-65ab-4819-bb88-7d232cb45d36")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 -0.5225)
@@ -27255,6 +27792,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -27268,6 +27806,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -27281,11 +27820,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/1bb26156-3219-46fe-b212-e9b8d9b0569a")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -27437,7 +27979,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -27448,7 +27990,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -27470,7 +28012,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -27674,6 +28216,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -27687,6 +28230,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -27700,11 +28244,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "Pin* Test*")
 		(path "/700c7742-37ed-4933-8e6c-39bd259520e1")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -27789,6 +28337,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -27802,6 +28351,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -27815,11 +28365,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/584ae6ba-07d7-43b7-b180-7454ce921445")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -28002,6 +28556,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -28015,6 +28570,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -28028,11 +28584,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/2656816a-6fd8-40e5-8374-dd3a19cf2b92")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 0.5225)
@@ -28215,6 +28775,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -28228,6 +28789,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -28241,11 +28803,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/a49bbb5b-08ba-4ff3-93c0-5cf13d78d891")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -28397,7 +28962,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -28408,7 +28973,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -28430,7 +28995,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -28634,6 +29199,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -28647,6 +29213,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -28660,11 +29227,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/e8c6f050-8343-4820-a32b-c4ebece4730b")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -28816,7 +29386,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -28827,7 +29397,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -28849,7 +29419,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -29053,6 +29623,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -29066,6 +29637,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -29079,11 +29651,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/ad0a5dfa-f62a-4353-a7da-6b74b337dad0")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -29266,6 +29842,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -29279,6 +29856,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -29292,11 +29870,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/11d9d61c-801f-4e83-9d6b-5e1174a073c7")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 0.5225)
@@ -29479,6 +30061,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -29492,6 +30075,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -29505,11 +30089,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/4e89bc9d-abbd-407b-a8ec-ba0782e98c62")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -29661,7 +30248,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -29672,7 +30259,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -29694,7 +30281,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -29898,6 +30485,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -29911,6 +30499,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -29924,11 +30513,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/91dd89c6-7947-4334-bbe4-3cee165f8610")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -30111,6 +30704,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30124,6 +30718,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30137,11 +30732,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "DIP*W7.62mm* DIP*W10.16mm* SMDIP*W9.53mm*")
 		(path "/22512102-d486-46c0-8cb4-a8a4b55bb4d1")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 6.235 3.93)
@@ -30485,6 +31084,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30498,6 +31098,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30511,11 +31112,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/70aca5d6-fdc1-4f7a-bd05-b8f14a7b2fe1")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 -0.5225)
@@ -30698,6 +31303,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30711,6 +31317,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30724,11 +31331,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/e8ece631-5eb6-4d74-9140-50ed1c8ba96e")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 0.5225)
@@ -30911,6 +31522,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30924,6 +31536,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30937,11 +31550,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/ed2d25ad-2cbb-49e1-b6a3-e568d630fedd")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -31093,7 +31709,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -31104,7 +31720,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -31126,7 +31742,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -31294,7 +31910,7 @@
 	(footprint "PCM_marbastlib-various:LED_6028R"
 		(layer "B.Cu")
 		(uuid "91ac5db7-3bbf-4f9b-a621-831f89aac18c")
-		(at 45.875 75.25)
+		(at 49.53 71.374)
 		(descr "rear-mount SMD 6028 RGB LED")
 		(tags "LED RGB 6028 rear mount reverse")
 		(property "Reference" "LED1"
@@ -31330,6 +31946,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -31343,6 +31960,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -31356,11 +31974,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/7b2be262-0011-4021-8a54-55c5725b3e59")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -31512,7 +32133,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -31523,7 +32144,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -31545,7 +32166,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -31749,6 +32370,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -31762,6 +32384,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -31775,11 +32398,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/73ca9371-f4b1-489d-bf07-d34d52f8e350")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -31962,6 +32589,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -31975,6 +32603,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -31988,11 +32617,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/cabc52e8-581f-4dbb-afa9-32eda1ca82a1")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -32175,6 +32808,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -32188,6 +32822,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -32201,11 +32836,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/b1c24858-000b-4dd0-95bf-ff0827698d4c")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -32388,6 +33027,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -32401,6 +33041,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -32414,11 +33055,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/57991d9a-3872-4fb9-9a67-aafb822257bd")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -32601,6 +33246,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -32614,6 +33260,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -32627,11 +33274,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/d304ab3b-207f-4070-9d06-a2f53b395212")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -32812,6 +33463,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -32825,6 +33477,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -32838,6 +33491,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -32857,6 +33511,8 @@
 			)
 		)
 		(path "/355be702-b1f8-410e-8e6f-db52a6246045")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 4.93 1.77)
@@ -33257,6 +33913,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -33270,6 +33927,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -33283,11 +33941,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/80e6532b-3e68-4f33-809c-af6ccdef0b83")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 -0.5225)
@@ -33470,6 +34132,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -33483,6 +34146,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -33496,11 +34160,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/afae91cc-585d-47ef-8a19-ccbaa2f1cbb6")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -33683,6 +34351,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -33696,6 +34365,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -33709,11 +34379,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/cb62a6be-ab24-4128-b330-5eea03d724a3")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -33865,7 +34538,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -33876,7 +34549,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -33898,7 +34571,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -34102,6 +34775,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -34115,6 +34789,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -34128,11 +34803,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/0890446f-2edc-4deb-8b7b-40eee2f60ba7")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -34284,7 +34962,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -34295,7 +34973,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -34317,7 +34995,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -34521,6 +35199,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -34534,6 +35213,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -34547,11 +35227,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/eab95b6c-d153-4e65-b8c5-15727f037f67")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -34734,6 +35418,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -34747,6 +35432,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -34760,11 +35446,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/e4ad4e0d-6d50-46ba-a97b-13ef6d7ed2c5")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -34916,7 +35605,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -34927,7 +35616,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -34949,7 +35638,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -35153,6 +35842,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -35166,6 +35856,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -35179,11 +35870,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/4a4ccd72-2106-4aa1-8b61-b8002233fdb0")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -35335,7 +36029,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -35346,7 +36040,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -35368,7 +36062,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -35572,6 +36266,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -35585,6 +36280,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -35598,11 +36294,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/09197638-82dd-4fc6-ad37-658371c0dbfa")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 0.5225)
@@ -35785,6 +36485,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -35798,6 +36499,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -35811,11 +36513,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/439ab2d0-6dd4-468c-89c8-f60fa1f66c89")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -35967,7 +36672,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -35978,7 +36683,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -36000,7 +36705,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -36204,6 +36909,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -36217,6 +36923,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -36230,11 +36937,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/7202ab93-cb25-47be-ba8c-2e0b1382b048")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -36417,6 +37128,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -36430,6 +37142,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -36443,11 +37156,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/1f1a4b33-3435-4752-82bb-45d08895a43e")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -36599,7 +37315,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -36610,7 +37326,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -36632,7 +37348,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -36836,6 +37552,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -36849,6 +37566,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -36862,11 +37580,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/da8dd4e7-7bd5-49a7-b967-df63a250666c")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -37018,7 +37739,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -37029,7 +37750,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -37051,7 +37772,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -37255,6 +37976,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -37268,6 +37990,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -37281,11 +38004,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/475f1afe-8b05-4f4a-965c-0e0aa6f1bfab")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -37468,6 +38195,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -37481,6 +38209,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -37494,11 +38223,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/26c17f66-3026-4695-b8d9-53b78df69625")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 0.5225)
@@ -37681,6 +38414,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -37694,6 +38428,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -37707,11 +38442,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/45f0bce7-ef9c-4a1c-b594-c18475c7e14d")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -37863,7 +38601,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -37874,7 +38612,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -37896,7 +38634,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -38100,6 +38838,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -38113,6 +38852,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -38126,11 +38866,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/b8722e95-07eb-4928-b881-a524d2822f2e")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -38313,6 +39057,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -38326,6 +39071,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -38339,11 +39085,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/d6221137-4578-49ba-9d02-5623a081436b")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -38496,7 +39246,7 @@
 		(property "Reference" "U1"
 			(at -0.01 1.37 90)
 			(layer "B.SilkS")
-			(uuid "929fe798-7251-49df-903e-79591026f768")
+			(uuid "d2221bac-bcfc-4b3a-850c-1fe7a3c773e3")
 			(effects
 				(font
 					(size 1 1)
@@ -38508,7 +39258,7 @@
 		(property "Value" "Pico"
 			(at 0 -2.159001 90)
 			(layer "B.Fab")
-			(uuid "73615e0b-98a5-4af2-9cf2-4bba16ebd4a9")
+			(uuid "c0fd8ac4-130a-4818-a14b-a0cacac9fd8e")
 			(effects
 				(font
 					(size 1 1)
@@ -38522,10 +39272,11 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "9dfb2e63-ec7e-44cf-9aec-e1b3c77fadb7")
+			(uuid "b00eb2e9-6805-4638-9be1-c4474a21e68f")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -38535,10 +39286,11 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "2c2ef9ba-1912-402a-a6ab-bb4eb719427b")
+			(uuid "88fc9a71-e2cc-4051-a5e5-a4f00e76144f")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -38548,15 +39300,18 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "2e9b8687-b168-4165-87df-2f3a9e69839c")
+			(uuid "cddaf371-7e2d-466a-94f6-084707401d2b")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/7fd901af-56f7-4614-9b62-4a023f005550")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -7.493 25.5)
@@ -38566,7 +39321,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "42b5ba71-b7b4-4c0d-8ab5-6652f3bde7c4")
+			(uuid "9f48bbeb-d398-4101-babb-7e55b9bab0ae")
 		)
 		(fp_line
 			(start 10.5 25.5)
@@ -38576,7 +39331,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "cdc528c9-44ab-423c-9907-9c53d31cee8b")
+			(uuid "7d311b40-9518-45c3-8a30-316a23479692")
 		)
 		(fp_line
 			(start -10.5 25.2)
@@ -38586,7 +39341,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "c70ec0d6-9c46-4c65-8a1a-5bfaa300e3db")
+			(uuid "47ff20d7-a0ee-49ae-b354-b03c05d734d0")
 		)
 		(fp_line
 			(start 10.5 25.2)
@@ -38596,7 +39351,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "d2831127-68ac-4d74-85b6-851c104c05c8")
+			(uuid "212dbe4e-380d-494b-a427-614417b60799")
 		)
 		(fp_line
 			(start -7.493 22.833)
@@ -38606,7 +39361,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "637e90ec-f0e6-4a51-9742-7a413be6560d")
+			(uuid "789fbd8f-c35c-4b3d-8081-1c68eb62a20e")
 		)
 		(fp_line
 			(start -10.5 22.7)
@@ -38616,7 +39371,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "e6427b0e-55a0-4059-b524-dba3cf0aa29b")
+			(uuid "77eef44a-d14c-4c39-931b-a732ec020be8")
 		)
 		(fp_line
 			(start 10.5 22.7)
@@ -38626,7 +39381,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "004bc832-a179-4c23-beb1-308d19cd49d6")
+			(uuid "8c6f0690-e78a-49d3-8720-91f4e26c232a")
 		)
 		(fp_line
 			(start -10.5 20.1)
@@ -38636,7 +39391,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "b0b16f23-354c-437d-a58e-8506b7bf161e")
+			(uuid "4c25d8fd-a3bc-42d7-956a-c207efa145bf")
 		)
 		(fp_line
 			(start 10.5 20.1)
@@ -38646,7 +39401,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "39bbcfd8-bfeb-4c41-8a21-0f1d47c70848")
+			(uuid "e3d2cbf3-59b9-459c-82db-d9f262a2eeef")
 		)
 		(fp_line
 			(start -10.5 17.6)
@@ -38656,7 +39411,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "7352b730-6e47-4fa2-bb69-3309d79c2ee0")
+			(uuid "32d8f8f3-a6df-49af-9fb0-30d0114e7e22")
 		)
 		(fp_line
 			(start 10.5 17.6)
@@ -38666,7 +39421,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "cd65fb39-4259-4218-b793-599d19bc09ed")
+			(uuid "29493719-ea27-4dc0-9f1e-da5260b122bf")
 		)
 		(fp_line
 			(start -10.5 15)
@@ -38676,7 +39431,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "b616ffaa-2dc5-494f-8a5f-1084d86aac7a")
+			(uuid "1d7e4550-6f6d-4ef0-90a2-7105a8943be0")
 		)
 		(fp_line
 			(start 10.5 15)
@@ -38686,7 +39441,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "26faf7c5-6cd5-4b08-a445-44c0a7c57e90")
+			(uuid "212f2092-20b5-4fd5-9447-e1cf45f6eee0")
 		)
 		(fp_line
 			(start -10.5 12.5)
@@ -38696,7 +39451,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "75b74a13-c475-48e0-afcd-088b7ee55c12")
+			(uuid "29b8e54e-931b-4251-abbe-61aac46f8e0a")
 		)
 		(fp_line
 			(start 10.5 12.5)
@@ -38706,7 +39461,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "2bdf597f-737f-4c4a-851c-76983ee2fe5d")
+			(uuid "8101422a-0905-4d3b-b609-38cbe498b24b")
 		)
 		(fp_line
 			(start -10.5 10)
@@ -38716,7 +39471,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "b51601e9-7a93-431c-ab11-b70fcd650284")
+			(uuid "c5e27659-91b2-4e3a-9a74-a79077f057a0")
 		)
 		(fp_line
 			(start 10.5 10)
@@ -38726,7 +39481,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "d2599747-b784-4fe1-be92-94596eb3969a")
+			(uuid "1e245f4c-8a43-479d-8442-d070585aea9b")
 		)
 		(fp_line
 			(start -10.5 7.4)
@@ -38736,7 +39491,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "d4b5972a-5683-4522-994f-3a02261b308f")
+			(uuid "1ebd48cf-b6ca-4fa2-81d1-47b2d9d79266")
 		)
 		(fp_line
 			(start 10.5 7.4)
@@ -38746,7 +39501,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "a016de42-bff6-4bfd-8cd5-3d3d8446ebfa")
+			(uuid "f57d5137-2d90-4b0d-82c0-3344bc721204")
 		)
 		(fp_line
 			(start -10.5 4.9)
@@ -38756,7 +39511,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "40865f84-e5e3-4226-ab68-076e5f3d80f2")
+			(uuid "e9133b36-ef56-4c64-9121-88640b41a16e")
 		)
 		(fp_line
 			(start 10.5 4.9)
@@ -38766,7 +39521,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "ee88a0a1-1ddd-438b-8dda-ab4c1dbed563")
+			(uuid "10b3d9b6-9f58-4698-bebe-5289312a41d0")
 		)
 		(fp_line
 			(start -10.5 2.3)
@@ -38776,7 +39531,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "6a1e48ca-e5b7-4f2a-bfbd-5a7bbc21f031")
+			(uuid "be8f0747-2c8a-49d5-b62f-9f0a1f4771f4")
 		)
 		(fp_line
 			(start 10.5 2.3)
@@ -38786,7 +39541,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "0b3d82c3-63ca-4b77-a927-074d493796dd")
+			(uuid "d6bc0ede-51a8-4508-8f9c-c370f57c83c2")
 		)
 		(fp_line
 			(start -10.5 -0.2)
@@ -38796,7 +39551,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "7f130f28-961f-42de-914a-16a4be60a680")
+			(uuid "b022e3da-66d7-45ec-b500-c002d0a5fdf5")
 		)
 		(fp_line
 			(start 10.5 -0.2)
@@ -38806,7 +39561,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "51a37e10-70fc-4a60-b057-1a0598e19350")
+			(uuid "b9a26b84-fb86-48be-8dd7-5c6615dbb780")
 		)
 		(fp_line
 			(start -10.5 -2.7)
@@ -38816,7 +39571,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "a62e5d38-78ba-49a3-86fb-2a812bb7ca3d")
+			(uuid "169093fe-e0bb-43c8-a4e1-12381f133741")
 		)
 		(fp_line
 			(start 10.5 -2.7)
@@ -38826,7 +39581,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "ed6052d0-0c95-4be7-a561-e968f8991861")
+			(uuid "53244a8f-2b46-41e3-a881-3f7d73b5ee2b")
 		)
 		(fp_line
 			(start -10.5 -5.3)
@@ -38836,7 +39591,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "cb740e9f-e21b-4c49-9616-066e47449ba1")
+			(uuid "30f5fc99-a37b-4138-96f3-7b99f71fc28a")
 		)
 		(fp_line
 			(start 10.5 -5.3)
@@ -38846,7 +39601,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "34806da0-5ed4-42c1-83a5-0523cf5c2d30")
+			(uuid "3eff64cc-e5f6-41fa-8e3f-f638be1b3ece")
 		)
 		(fp_line
 			(start -10.5 -7.8)
@@ -38856,7 +39611,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "72997429-cb03-4485-8252-4b0b538dabc1")
+			(uuid "92d660b4-ef5f-4340-89a9-0d8c1bb2d733")
 		)
 		(fp_line
 			(start 10.5 -7.8)
@@ -38866,7 +39621,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "6066e887-b131-4bdf-8a57-1c25ee42861c")
+			(uuid "0458b1f6-e48f-44f9-874a-ba13d779eeaa")
 		)
 		(fp_line
 			(start -10.5 -10.4)
@@ -38876,7 +39631,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "ff7bfe94-deee-479d-912a-e12272daf43f")
+			(uuid "b363a335-b1d6-4055-a726-4c23dbfb26a8")
 		)
 		(fp_line
 			(start 10.5 -10.4)
@@ -38886,7 +39641,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "b6e69bad-e492-400a-a5d5-f89120664b3d")
+			(uuid "ec8f6cdd-6024-41ea-a704-45b944e60c87")
 		)
 		(fp_line
 			(start -10.5 -12.9)
@@ -38896,7 +39651,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "6d0d2e68-e78c-4481-8232-e6f348d073f9")
+			(uuid "e813317e-76b9-46e8-875b-ab436f1b9324")
 		)
 		(fp_line
 			(start 10.5 -12.9)
@@ -38906,7 +39661,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "83fb8493-9319-4085-baa6-97bbaca0b666")
+			(uuid "8667aa15-75fd-42e9-a36d-e06d6c77d102")
 		)
 		(fp_line
 			(start -10.5 -15.5)
@@ -38916,7 +39671,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "a95174bb-1571-48a8-a5bb-c99dcca8191c")
+			(uuid "5819cf78-15d3-439f-b151-03dee3cc7cf0")
 		)
 		(fp_line
 			(start 10.5 -15.5)
@@ -38926,7 +39681,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "40e355f3-fc60-4c18-b16b-1025ff1b1f3f")
+			(uuid "8e2c8aa3-6ee7-46a6-b37d-2b6ad46bfd7e")
 		)
 		(fp_line
 			(start -10.5 -18)
@@ -38936,7 +39691,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "2d432259-8b3c-46eb-a0a1-884f03ad423f")
+			(uuid "fb6f9e06-0877-4f4f-a310-825a7666492f")
 		)
 		(fp_line
 			(start 10.5 -18)
@@ -38946,7 +39701,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "7034f948-a33b-4645-bd55-42cc6e7c4b0f")
+			(uuid "d5291e7a-64d2-4ea2-80d3-540408401064")
 		)
 		(fp_line
 			(start -10.5 -20.5)
@@ -38956,7 +39711,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "e2ee3694-0cda-4ba3-89a6-282402cfa511")
+			(uuid "82a3e172-0a67-42f5-9163-cd842ad0cfaa")
 		)
 		(fp_line
 			(start 10.5 -20.5)
@@ -38966,7 +39721,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "88bf9ac2-f510-408e-b306-c92bca2c2a13")
+			(uuid "96e6de30-476d-4081-8609-3763d61af462")
 		)
 		(fp_line
 			(start -10.5 -23.1)
@@ -38976,7 +39731,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "e6dc6cb6-6035-4e6b-9604-1f189dd0654e")
+			(uuid "b7375816-3335-45c2-927e-4e14a647a2dc")
 		)
 		(fp_line
 			(start 10.5 -23.1)
@@ -38986,7 +39741,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "da7ef6cc-6f74-4849-aa3e-eadcdfa3315f")
+			(uuid "2db6100b-1182-4e11-b576-934e132eec63")
 		)
 		(fp_line
 			(start -10.5 -25.5)
@@ -38996,7 +39751,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "e952a69f-219a-45b7-97ad-67d2fae2a3a9")
+			(uuid "50fe0090-6d79-49a8-969b-3ffdfb1b5b44")
 		)
 		(fp_line
 			(start -1.1 -25.5)
@@ -39006,7 +39761,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "0a8d8cf0-fac2-44b0-a4a8-52c727faf684")
+			(uuid "c59cdc14-1307-4e00-b044-7c54090d08e8")
 		)
 		(fp_line
 			(start 1.5 -25.5)
@@ -39016,7 +39771,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "f0db4650-e2a0-44bd-9638-8c7d16f7b80f")
+			(uuid "2eaa372c-be21-45eb-89d1-7c9efb147e77")
 		)
 		(fp_line
 			(start 3.7 -25.5)
@@ -39026,7 +39781,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "eda14f5f-ab80-4486-90a1-3c6501b449ec")
+			(uuid "3e83be81-ced4-4399-aafd-7d0d484ad4b0")
 		)
 		(fp_line
 			(start -11 26)
@@ -39036,7 +39791,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "4828c268-8448-48df-90ad-67fda97e9548")
+			(uuid "c4b6346f-96ff-42bb-9c14-589ca38f0858")
 		)
 		(fp_line
 			(start 11 26)
@@ -39046,7 +39801,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "b8a73b86-62aa-46ad-a6d8-b6a913a267fd")
+			(uuid "472b6331-f2f8-4547-a35c-a1bcd3423e13")
 		)
 		(fp_line
 			(start -11 -26)
@@ -39056,7 +39811,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "f53e1dda-d1bc-43f5-9573-60208ba9ee6d")
+			(uuid "5708a92f-543b-4caf-ba64-e3d33c74e233")
 		)
 		(fp_line
 			(start 11 -26)
@@ -39066,7 +39821,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "2bb680e6-ffc3-48e8-9305-c6fd451c8130")
+			(uuid "eb2448d5-a6b8-4318-8a16-beadab2db093")
 		)
 		(fp_line
 			(start -10.5 25.5)
@@ -39076,7 +39831,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "7500499b-8aec-46da-8694-6947e14c8e47")
+			(uuid "afde4e7e-b7c6-494e-a71d-2f6ac8b4a1c8")
 		)
 		(fp_line
 			(start -9.2 25.5)
@@ -39086,7 +39841,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "ac86be7c-ae60-4955-a681-fedc8e2505ac")
+			(uuid "16659c6f-15b9-4670-80f6-302361203a7e")
 		)
 		(fp_line
 			(start 10.5 25.5)
@@ -39096,7 +39851,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "29278fd9-db8f-4dcc-bb61-3556e3b142dd")
+			(uuid "b16a3f92-02f0-4a49-bf82-c2f640236dd7")
 		)
 		(fp_line
 			(start -10.5 -25.5)
@@ -39106,7 +39861,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "7939d3fd-72b3-49fb-a4a6-02cad0d49f84")
+			(uuid "f26dfc76-3c6a-4120-bb06-9b09be7819cb")
 		)
 		(fp_line
 			(start 10.5 -25.5)
@@ -39116,384 +39871,12 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "32146461-f785-453b-97a6-332c7c0e7135")
+			(uuid "b9c606ca-2556-49fd-9f66-5c6894b37cc1")
 		)
-		(fp_text user "GND"
-			(at -12.8 6.35 -135)
+		(fp_text user "ADC_VREF"
+			(at 14 12.5 -135)
 			(layer "B.SilkS")
-			(uuid "04e3d9d1-fad1-4a0f-a2c3-cb8cec77f36f")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GP13"
-			(at -13.054 -16.51 -135)
-			(layer "B.SilkS")
-			(uuid "0bc625ee-b1f7-4c3e-be0d-8f4d3ba744c6")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GND"
-			(at -12.8 -6.35 -135)
-			(layer "B.SilkS")
-			(uuid "142ab627-7219-42cc-811e-7dc99823be7e")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GP2"
-			(at -12.9 16.509999 -135)
-			(layer "B.SilkS")
-			(uuid "18247afa-dc8c-4d10-9331-0e2feab79da6")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GP1"
-			(at -12.9 21.6 -135)
-			(layer "B.SilkS")
-			(uuid "2256cb85-c0cf-4df7-bfc7-9cfaa1bcfe67")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GP16"
-			(at 13.054 -24.130001 -135)
-			(layer "B.SilkS")
-			(uuid "2576ccbc-cf9a-4846-a739-e9eb5922d34b")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GP6"
-			(at -12.8 3.81 -135)
-			(layer "B.SilkS")
-			(uuid "27daf097-dd61-4efd-8912-2d3005255e2b")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GND"
-			(at 12.8 -19.05 -135)
-			(layer "B.SilkS")
-			(uuid "365abe92-5ec3-4f2a-89c6-25cab17c0186")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GP9"
-			(at -12.8 -3.81 -135)
-			(layer "B.SilkS")
-			(uuid "393a94b3-7be2-4599-a507-f37704ec979e")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GP19"
-			(at 13.054 -13.97 -135)
-			(layer "B.SilkS")
-			(uuid "3cce853b-2281-4a86-8a0d-e39baec42d61")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "RUN"
-			(at 13 -1.27 -135)
-			(layer "B.SilkS")
-			(uuid "3f85b77f-8bd7-435a-8375-fe43437828d7")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GP5"
-			(at -12.8 8.89 -135)
-			(layer "B.SilkS")
-			(uuid "46e7bff9-ffac-43b5-baed-d6c9a7fab232")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GND"
-			(at -12.8 19.05 -135)
-			(layer "B.SilkS")
-			(uuid "4be2589c-cb55-4db8-8303-1ca0db70c83e")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GP20"
-			(at 13.053999 -11.43 -135)
-			(layer "B.SilkS")
-			(uuid "50100c4d-1045-4882-9e1c-28d9a908d3b1")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GP21"
-			(at 13.054 -8.9 -135)
-			(layer "B.SilkS")
-			(uuid "518b3f99-f45d-4034-be33-035a3a91c746")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "SWCLK"
-			(at -5.7 -26.2 90)
-			(layer "B.SilkS")
-			(uuid "56f62a22-6cc5-4d66-9c10-f07acc8bdce1")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "AGND"
-			(at 13.054 6.35 -135)
-			(layer "B.SilkS")
-			(uuid "589ff3e9-5ae7-4169-9d86-1a8cb034687e")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GND"
-			(at -12.8 -19.05 -135)
-			(layer "B.SilkS")
-			(uuid "5c9fa6f7-7736-4d89-a2f2-8f56f588f5ed")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "3V3_EN"
-			(at 13.7 17.200001 -135)
-			(layer "B.SilkS")
-			(uuid "6543faa6-1df1-46da-b285-72699bbc75e9")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GP3"
-			(at -12.8 13.97 -135)
-			(layer "B.SilkS")
-			(uuid "6d92449a-b4d2-42fc-9ac1-9b3b78968ed3")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GND"
-			(at 12.8 19.05 -135)
-			(layer "B.SilkS")
-			(uuid "7dfa0e2a-3d27-427f-86fc-99f2ade1b2da")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "3V3"
-			(at 12.9 13.9 -135)
-			(layer "B.SilkS")
-			(uuid "7fd15ff5-6fec-43e1-8566-6125aad7b992")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GP27"
-			(at 13.054 3.8 -135)
-			(layer "B.SilkS")
-			(uuid "80edc241-8fa4-45e1-be87-5cbdbd91c1c6")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GP17"
-			(at 13.054 -21.589999 -135)
-			(layer "B.SilkS")
-			(uuid "812d67a8-fd27-4d9f-9ccb-89b00ad4e20b")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GP7"
-			(at -12.7 1.3 -135)
-			(layer "B.SilkS")
-			(uuid "84c04779-f182-4be0-a170-266e0e0c2816")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GP12"
-			(at -13.2 -13.97 -135)
-			(layer "B.SilkS")
-			(uuid "8ef5aa95-9abd-4512-aa09-6d12471cf5eb")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GND"
-			(at 12.8 -6.35 -135)
-			(layer "B.SilkS")
-			(uuid "933af9d1-6414-40e1-88e2-6e59e94a889c")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GP28"
-			(at 13.054 9.143999 -135)
-			(layer "B.SilkS")
-			(uuid "97a86fe3-84b2-429c-9db7-f7a392de2475")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "VSYS"
-			(at 13.2 21.59 -135)
-			(layer "B.SilkS")
-			(uuid "aa50a71a-12dc-4b00-81a4-a22bb3db2051")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "VBUS"
-			(at 13.3 24.2 -135)
-			(layer "B.SilkS")
-			(uuid "acb3f9da-d7af-462d-99c2-a8c3387764ae")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GP22"
-			(at 13.054 -3.81 45)
-			(layer "B.SilkS")
-			(uuid "c1673c2d-cb60-45b8-8160-63274980f838")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "GP26"
-			(at 13.054 1.270001 -135)
-			(layer "B.SilkS")
-			(uuid "cd1efcc6-010f-4f78-8de1-4bbc88b6367a")
+			(uuid "026f3a3c-27bd-4a93-9e73-3488f1cff54a")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -39505,7 +39888,7 @@
 		(fp_text user "GP0"
 			(at -12.8 24.13 -135)
 			(layer "B.SilkS")
-			(uuid "ce105009-2a5d-40f3-a06c-48223da33bd0")
+			(uuid "075de267-04c2-4c9f-9fac-db5b738860f6")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -39514,10 +39897,46 @@
 				(justify mirror)
 			)
 		)
-		(fp_text user "GP11"
-			(at -13.2 -11.43 -135)
+		(fp_text user "GP12"
+			(at -13.2 -13.97 -135)
 			(layer "B.SilkS")
-			(uuid "db3d067b-9335-4816-b5de-b8847017516d")
+			(uuid "0fb8e09b-28b2-4970-aef7-b47ab22a4b34")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GP20"
+			(at 13.053999 -11.43 -135)
+			(layer "B.SilkS")
+			(uuid "15edac4a-202e-4316-bcad-05de62d5f180")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GND"
+			(at -12.8 -19.05 -135)
+			(layer "B.SilkS")
+			(uuid "160d3a2a-1e59-4799-9436-6101c7464c93")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GND"
+			(at 12.8 -19.05 -135)
+			(layer "B.SilkS")
+			(uuid "18cbd0bd-b7bc-4896-9dda-31da989295c4")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -39529,7 +39948,7 @@
 		(fp_text user "SWDIO"
 			(at 5.6 -26.2 90)
 			(layer "B.SilkS")
-			(uuid "dc3e29bf-9ceb-4ef4-8182-d53ac92a2a8a")
+			(uuid "18f90f3e-93f8-41ce-83a2-e50f3a52f00f")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -39538,10 +39957,10 @@
 				(justify mirror)
 			)
 		)
-		(fp_text user "GP14"
-			(at -13.1 -21.59 -135)
+		(fp_text user "GND"
+			(at -12.8 6.35 -135)
 			(layer "B.SilkS")
-			(uuid "e74e411a-d43c-4588-85fa-ff5e729117b9")
+			(uuid "1fb4a42a-7c9c-49b2-8557-ebab86296113")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -39550,10 +39969,10 @@
 				(justify mirror)
 			)
 		)
-		(fp_text user "GP4"
-			(at -12.8 11.43 -135)
+		(fp_text user "GND"
+			(at 12.8 -6.35 -135)
 			(layer "B.SilkS")
-			(uuid "f24c8b73-6753-43ad-b2a9-f11dbd9cfb48")
+			(uuid "2313df74-b88d-4633-baa5-14815d9b665f")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -39562,10 +39981,10 @@
 				(justify mirror)
 			)
 		)
-		(fp_text user "GP18"
-			(at 13.054 -16.51 -135)
+		(fp_text user "GP3"
+			(at -12.8 13.97 -135)
 			(layer "B.SilkS")
-			(uuid "f501bbee-0279-462d-a6ad-683c33dcce19")
+			(uuid "25ec72c3-46de-44d8-b7c3-603a3a6a43af")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -39574,10 +39993,10 @@
 				(justify mirror)
 			)
 		)
-		(fp_text user "ADC_VREF"
-			(at 14 12.5 -135)
+		(fp_text user "GP13"
+			(at -13.054 -16.51 -135)
 			(layer "B.SilkS")
-			(uuid "f69ed931-0d26-4745-b2e6-0d8a08c9b9c4")
+			(uuid "2f694775-c607-48d0-bfc5-5af08e1864d9")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -39586,10 +40005,94 @@
 				(justify mirror)
 			)
 		)
-		(fp_text user "GP10"
-			(at -13.054 -8.89 -135)
+		(fp_text user "GND"
+			(at -12.8 -6.35 -135)
 			(layer "B.SilkS")
-			(uuid "fe3bf419-825e-4f67-bea6-1a7fc0aa3cb2")
+			(uuid "301822a3-5c05-4764-93a1-0e1fc9b01ee3")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GP17"
+			(at 13.054 -21.589999 -135)
+			(layer "B.SilkS")
+			(uuid "3ebdb9d3-2d8e-4d04-a241-edc772de49ed")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "3V3_EN"
+			(at 13.7 17.200001 -135)
+			(layer "B.SilkS")
+			(uuid "41969a27-88d4-452e-bb33-d77cab6df6a4")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GP27"
+			(at 13.054 3.8 -135)
+			(layer "B.SilkS")
+			(uuid "45943711-1d71-41af-8f7f-264a9627f350")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "VSYS"
+			(at 13.2 21.59 -135)
+			(layer "B.SilkS")
+			(uuid "47bd454a-d526-46b9-aeff-4ae36b7c7798")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "SWCLK"
+			(at -5.7 -26.2 90)
+			(layer "B.SilkS")
+			(uuid "48d2278f-9f56-498f-b0a5-beea94d89806")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GP7"
+			(at -12.7 1.3 -135)
+			(layer "B.SilkS")
+			(uuid "4b06fb00-1d51-4209-8d2b-91f0f8d4de76")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "AGND"
+			(at 13.054 6.35 -135)
+			(layer "B.SilkS")
+			(uuid "4d067848-d240-4de8-9c57-525b7a9bad5a")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -39601,7 +40104,211 @@
 		(fp_text user "GP8"
 			(at -12.8 -1.27 -135)
 			(layer "B.SilkS")
-			(uuid "ff233f46-5d22-4661-ae3e-ce4d09bbd4b7")
+			(uuid "559268e4-e653-482f-903f-ce7f30749c1e")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GP14"
+			(at -13.1 -21.59 -135)
+			(layer "B.SilkS")
+			(uuid "64e45754-f8c8-4a92-afbf-4bb8143584b9")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GP5"
+			(at -12.8 8.89 -135)
+			(layer "B.SilkS")
+			(uuid "677b9441-5fd8-422d-9342-7bf8d3f845eb")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GP10"
+			(at -13.054 -8.89 -135)
+			(layer "B.SilkS")
+			(uuid "6bc93022-69d2-4b03-9b85-c3d0eae2eeaa")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GP2"
+			(at -12.9 16.509999 -135)
+			(layer "B.SilkS")
+			(uuid "87ae586c-f8c2-40ac-8908-6ee1a4ec77d5")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GND"
+			(at 12.8 19.05 -135)
+			(layer "B.SilkS")
+			(uuid "87f58427-0618-44c7-8ca8-5f0454f3c7d4")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GP21"
+			(at 13.054 -8.9 -135)
+			(layer "B.SilkS")
+			(uuid "8a03916e-e11c-40c1-b602-1626215b053d")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GP4"
+			(at -12.8 11.43 -135)
+			(layer "B.SilkS")
+			(uuid "95ede34a-788a-4427-8313-f5a88af63ca0")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GP18"
+			(at 13.054 -16.51 -135)
+			(layer "B.SilkS")
+			(uuid "9cccf5a8-83fa-41b6-aea8-acd46a3d55d6")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "3V3"
+			(at 12.9 13.9 -135)
+			(layer "B.SilkS")
+			(uuid "a292cf30-26a7-4033-aba5-d270e6fe045b")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GND"
+			(at -12.8 19.05 -135)
+			(layer "B.SilkS")
+			(uuid "ad22bfe9-8c3c-4713-851a-dcde0ba8f777")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GP16"
+			(at 13.054 -24.130001 -135)
+			(layer "B.SilkS")
+			(uuid "b7aea10f-b753-4969-80dd-a219c9eade67")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GP11"
+			(at -13.2 -11.43 -135)
+			(layer "B.SilkS")
+			(uuid "baaad4ba-5100-4076-b74a-e721b3dcce48")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GP9"
+			(at -12.8 -3.81 -135)
+			(layer "B.SilkS")
+			(uuid "bb9d95fe-dc47-445f-90b1-da00a86b04da")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GP1"
+			(at -12.9 21.6 -135)
+			(layer "B.SilkS")
+			(uuid "ca46e894-4988-4e0a-9771-0bfd0952cb2a")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GP6"
+			(at -12.8 3.81 -135)
+			(layer "B.SilkS")
+			(uuid "d6dccdbb-4f6e-48e6-96b1-6ea81a2fe250")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GP26"
+			(at 13.054 1.270001 -135)
+			(layer "B.SilkS")
+			(uuid "d6eccc8e-7ea9-4288-b3f0-a971edac6e3f")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GP22"
+			(at 13.054 -3.81 -135)
+			(layer "B.SilkS")
+			(uuid "e1f8a23b-ddec-466c-8fcf-fc0860fa825e")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -39613,7 +40320,55 @@
 		(fp_text user "GP15"
 			(at -13.054 -24.130001 -135)
 			(layer "B.SilkS")
-			(uuid "ff8785a3-15c2-429e-bbd1-4934175de842")
+			(uuid "e2046742-78e0-47c9-b650-4849196a6cc9")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GP19"
+			(at 13.054 -13.97 -135)
+			(layer "B.SilkS")
+			(uuid "eb079b77-48d9-400a-9c95-ef1e731f7f30")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "RUN"
+			(at 13 -1.27 -135)
+			(layer "B.SilkS")
+			(uuid "f1ca4147-8566-413e-9726-5ffe82c38a56")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "GP28"
+			(at 13.054 9.143999 -135)
+			(layer "B.SilkS")
+			(uuid "f627ed14-f743-459a-9a36-86654e466fba")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "VBUS"
+			(at 13.3 24.2 -135)
+			(layer "B.SilkS")
+			(uuid "fd351c55-f6c3-4458-ac90-b612b67241e2")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -39625,7 +40380,7 @@
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
 			(layer "B.Fab")
-			(uuid "c4be86ff-597f-4125-85d0-8fd6a904f4ef")
+			(uuid "d356783d-199c-4539-baf2-850e578bf296")
 			(effects
 				(font
 					(size 1 1)
@@ -39644,7 +40399,7 @@
 			(net 122 "/UART_TX")
 			(pinfunction "GPIO0")
 			(pintype "bidirectional")
-			(uuid "94515f19-464a-4161-a536-d3bdf29eaa34")
+			(uuid "763582fc-5f1b-453b-97e1-2ab1a3e03a32")
 		)
 		(pad "2" smd rect
 			(at -8.89 21.59 270)
@@ -39656,7 +40411,7 @@
 			(net 121 "/UART_RX")
 			(pinfunction "GPIO1")
 			(pintype "bidirectional")
-			(uuid "8a396fe0-bb4b-4480-b199-2a96ed24429c")
+			(uuid "e8671583-feb7-44bc-ab3e-d6d13bbfe097")
 		)
 		(pad "3" smd rect
 			(at -8.89 19.05 270)
@@ -39668,7 +40423,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "49c05982-09b5-4a43-8234-1cb192a7d0d4")
+			(uuid "36ad577f-4581-4d32-a569-8ccf09bfdb3e")
 		)
 		(pad "4" smd rect
 			(at -8.89 16.51 270)
@@ -39680,7 +40435,7 @@
 			(net 118 "/FADER1A")
 			(pinfunction "GPIO2")
 			(pintype "bidirectional")
-			(uuid "52827271-d60c-4aed-86c7-46d6ff23a5e6")
+			(uuid "6ca3557b-a990-419e-a0e5-c567a3799fbb")
 		)
 		(pad "5" smd rect
 			(at -8.89 13.97 270)
@@ -39692,7 +40447,7 @@
 			(net 119 "/FADER1B")
 			(pinfunction "GPIO3")
 			(pintype "bidirectional")
-			(uuid "ba629709-f70a-4c85-a08f-88fd97cd649b")
+			(uuid "21dbaba8-031d-4421-9f35-ee9fdce50390")
 		)
 		(pad "6" smd rect
 			(at -8.89 11.43 270)
@@ -39704,7 +40459,7 @@
 			(net 120 "/FADER1C")
 			(pinfunction "GPIO4")
 			(pintype "bidirectional")
-			(uuid "7ac7c905-1603-46b8-800f-bad3ee338604")
+			(uuid "32c5fe44-50bb-43bb-97bd-66d1dd1a7cd3")
 		)
 		(pad "7" smd rect
 			(at -8.89 8.89 270)
@@ -39716,7 +40471,7 @@
 			(net 128 "/FADER2A")
 			(pinfunction "GPIO5")
 			(pintype "bidirectional")
-			(uuid "686d6c2c-8a49-4fc7-af3c-7870d561aab8")
+			(uuid "d2d92830-86de-41ed-a8f9-82450140e16c")
 		)
 		(pad "8" smd rect
 			(at -8.89 6.35 270)
@@ -39728,7 +40483,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "53379057-1974-4e7f-9726-1bdfa5e35a27")
+			(uuid "e5489b46-6abe-4bab-8ce2-feb33adb550e")
 		)
 		(pad "9" smd rect
 			(at -8.89 3.81 270)
@@ -39740,7 +40495,7 @@
 			(net 129 "/FADER2B")
 			(pinfunction "GPIO6")
 			(pintype "bidirectional")
-			(uuid "de92c5cc-3575-41fc-a1b0-3123fbd9d6fc")
+			(uuid "5e3fe1d1-b8b6-431e-97cf-9a0bae29f1f0")
 		)
 		(pad "10" smd rect
 			(at -8.89 1.27 270)
@@ -39752,7 +40507,7 @@
 			(net 130 "/FADER2C")
 			(pinfunction "GPIO7")
 			(pintype "bidirectional")
-			(uuid "2a816c85-73f0-48cd-b203-511af66209a3")
+			(uuid "f7a93c15-2e03-4e0b-af0f-4f51e67ef7c2")
 		)
 		(pad "11" smd rect
 			(at -8.89 -1.27 270)
@@ -39764,7 +40519,7 @@
 			(net 111 "/MIDI_OUT")
 			(pinfunction "GPIO8")
 			(pintype "bidirectional")
-			(uuid "057648c6-93c3-4cd5-86bf-d61dce297442")
+			(uuid "cbcd232f-d3fd-468a-b5f4-072fac8e4f77")
 		)
 		(pad "12" smd rect
 			(at -8.89 -3.81 270)
@@ -39776,7 +40531,7 @@
 			(net 113 "/MIDI_IN")
 			(pinfunction "GPIO9")
 			(pintype "bidirectional")
-			(uuid "229227e0-f132-4a42-9a93-d0cf445587c9")
+			(uuid "7a9ecfe3-75bb-4803-a867-8201fff3b073")
 		)
 		(pad "13" smd rect
 			(at -8.89 -6.35 270)
@@ -39788,7 +40543,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "2f97694f-075b-4fd2-b1ac-efd412cdfc75")
+			(uuid "2f633880-b139-4f78-997b-3ff222a60d7d")
 		)
 		(pad "14" smd rect
 			(at -8.89 -8.89 270)
@@ -39800,7 +40555,7 @@
 			(net 117 "/PWM_AUDIO")
 			(pinfunction "GPIO10")
 			(pintype "bidirectional")
-			(uuid "fa047a83-19a4-4320-989f-7dbb0404a354")
+			(uuid "9520fa13-75c2-46de-ba7a-36a60327605d")
 		)
 		(pad "15" smd rect
 			(at -8.89 -11.43 270)
@@ -39812,7 +40567,7 @@
 			(net 81 "unconnected-(U1-GPIO11-Pad15)")
 			(pinfunction "GPIO11")
 			(pintype "bidirectional+no_connect")
-			(uuid "8b7ae61d-6764-4e5f-85f2-9f677900b075")
+			(uuid "179cd53d-7599-452e-bdb7-400bf9413ad9")
 		)
 		(pad "16" smd rect
 			(at -8.89 -13.97 270)
@@ -39824,7 +40579,7 @@
 			(net 82 "/TOUCH_SDA")
 			(pinfunction "GPIO12")
 			(pintype "bidirectional")
-			(uuid "148278f1-b297-4eba-90cc-2837ddb6e71d")
+			(uuid "4d8b6e37-480f-4092-8273-2655c2877e18")
 		)
 		(pad "17" smd rect
 			(at -8.89 -16.51 270)
@@ -39836,7 +40591,7 @@
 			(net 83 "/TOUCH_SCL")
 			(pinfunction "GPIO13")
 			(pintype "bidirectional")
-			(uuid "d3e54560-1e81-46c6-97d3-d4d621077ca4")
+			(uuid "e47aff25-dd8b-4da1-9f94-7b4cc71d83f3")
 		)
 		(pad "18" smd rect
 			(at -8.89 -19.05 270)
@@ -39848,7 +40603,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "699ac6e6-a8d6-4ed4-8bec-ae0351f8104e")
+			(uuid "1ad71202-26d1-42d1-a598-3b75fc0e80b8")
 		)
 		(pad "19" smd rect
 			(at -8.89 -21.59 270)
@@ -39860,7 +40615,7 @@
 			(net 103 "/DISP_SDA")
 			(pinfunction "GPIO14")
 			(pintype "bidirectional")
-			(uuid "2ec11d09-1fad-48d3-a96a-b9838d8c2a7d")
+			(uuid "9f8f8ccd-1988-4543-957c-49fbea3d58be")
 		)
 		(pad "20" smd rect
 			(at -8.89 -24.13 270)
@@ -39872,7 +40627,7 @@
 			(net 102 "/DISP_SCL")
 			(pinfunction "GPIO15")
 			(pintype "bidirectional")
-			(uuid "46b802eb-bab5-4ccb-8beb-13f81e775561")
+			(uuid "edf49b55-34c8-44bc-b2dc-a574f4ab66fc")
 		)
 		(pad "21" smd rect
 			(at 8.89 -24.13 270)
@@ -39884,7 +40639,7 @@
 			(net 123 "/BUT1")
 			(pinfunction "GPIO16")
 			(pintype "bidirectional")
-			(uuid "c30a653d-3e49-4f10-b264-0a04efd347d5")
+			(uuid "0a3e29bf-5425-4acd-b220-911ce5927fae")
 		)
 		(pad "22" smd rect
 			(at 8.89 -21.59 270)
@@ -39896,7 +40651,7 @@
 			(net 124 "/BUT2")
 			(pinfunction "GPIO17")
 			(pintype "bidirectional")
-			(uuid "f21ae3f5-5bb4-44bc-9e8a-87ce1a91a687")
+			(uuid "38b49063-036f-4cdc-b1d3-53384ee9a080")
 		)
 		(pad "23" smd rect
 			(at 8.89 -19.05 270)
@@ -39908,7 +40663,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "deb3342b-acc0-48c8-a9ce-795d57b9ac09")
+			(uuid "0dd2b1d8-f3de-45d9-946e-0b94a7b0ff66")
 		)
 		(pad "24" smd rect
 			(at 8.89 -16.51 270)
@@ -39920,7 +40675,7 @@
 			(net 125 "/BUT3")
 			(pinfunction "GPIO18")
 			(pintype "bidirectional")
-			(uuid "b5d2f199-11f3-4cc6-a4b8-07a6405a16a7")
+			(uuid "d4acdc8f-c90b-4743-9199-0afabd74b71b")
 		)
 		(pad "25" smd rect
 			(at 8.89 -13.97 270)
@@ -39932,7 +40687,7 @@
 			(net 126 "/BUT4")
 			(pinfunction "GPIO19")
 			(pintype "bidirectional")
-			(uuid "fbcc0fa6-0606-4f1f-9770-23c92a5ea302")
+			(uuid "ebf7d670-9af9-4daa-8a2c-9b921eae69a7")
 		)
 		(pad "26" smd rect
 			(at 8.89 -11.43 270)
@@ -39944,7 +40699,7 @@
 			(net 127 "/BUT5")
 			(pinfunction "GPIO20")
 			(pintype "bidirectional")
-			(uuid "07044738-cfcc-43e4-bae1-9250e4c87db7")
+			(uuid "2942bb8e-505a-43e6-a0fd-81b2bf905b8b")
 		)
 		(pad "27" smd rect
 			(at 8.89 -8.89 270)
@@ -39956,7 +40711,7 @@
 			(net 73 "/BUT6")
 			(pinfunction "GPIO21")
 			(pintype "bidirectional")
-			(uuid "aa99afe7-d09b-4383-be2d-94abdaa9bea1")
+			(uuid "c06b60f3-256e-43d3-9280-017d2ff094e7")
 		)
 		(pad "28" smd rect
 			(at 8.89 -6.35 270)
@@ -39968,7 +40723,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "5f4dbd03-1064-4960-a4d8-fe2c4cca9179")
+			(uuid "dc8b1129-93f6-4c0a-a401-aaba1512ed3a")
 		)
 		(pad "29" smd rect
 			(at 8.89 -3.81 270)
@@ -39980,7 +40735,7 @@
 			(net 72 "unconnected-(U1-GPIO22-Pad29)")
 			(pinfunction "GPIO22")
 			(pintype "bidirectional+no_connect")
-			(uuid "2ba3b002-72ac-4616-ad95-07d1dbfe8d1f")
+			(uuid "59f6dcb4-2877-42ed-b58e-ad5613256eca")
 		)
 		(pad "30" smd rect
 			(at 8.89 -1.27 270)
@@ -39992,7 +40747,7 @@
 			(net 69 "unconnected-(U1-RUN-Pad30)")
 			(pinfunction "RUN")
 			(pintype "input+no_connect")
-			(uuid "2f3b58ec-241d-479a-8c9f-a050604492df")
+			(uuid "00e90496-251f-4b2d-850a-eb4c34bd41cc")
 		)
 		(pad "31" smd rect
 			(at 8.89 1.27 270)
@@ -40004,7 +40759,7 @@
 			(net 74 "unconnected-(U1-GPIO26_ADC0-Pad31)")
 			(pinfunction "GPIO26_ADC0")
 			(pintype "bidirectional+no_connect")
-			(uuid "604cc11f-b0c3-4194-9074-daf1ed3590fa")
+			(uuid "fed1355b-4025-401a-ad0f-32bbf212b2e0")
 		)
 		(pad "32" smd rect
 			(at 8.89 3.81 270)
@@ -40016,7 +40771,7 @@
 			(net 76 "unconnected-(U1-GPIO27_ADC1-Pad32)")
 			(pinfunction "GPIO27_ADC1")
 			(pintype "bidirectional+no_connect")
-			(uuid "4f83b7f8-c485-4d49-9abc-3fd60c5c847f")
+			(uuid "abe2d154-da4c-4ca2-b7b5-a8f6453cd6ea")
 		)
 		(pad "33" smd rect
 			(at 8.89 6.35 270)
@@ -40028,7 +40783,7 @@
 			(net 44 "unconnected-(U1-AGND-Pad33)")
 			(pinfunction "AGND")
 			(pintype "power_in+no_connect")
-			(uuid "19a27f64-21c1-427c-9eb0-e64c81ee83ad")
+			(uuid "e53fddbe-7087-47f5-bf10-fb8fff365b83")
 		)
 		(pad "34" smd rect
 			(at 8.89 8.89 270)
@@ -40040,7 +40795,7 @@
 			(net 1 "/NEOPIXEL_DATA")
 			(pinfunction "GPIO28_ADC2")
 			(pintype "bidirectional")
-			(uuid "d490ce27-31c9-4ea2-9365-b5f3fc9ff79c")
+			(uuid "6988c7d2-cbc2-4d04-903c-0c96b321d93e")
 		)
 		(pad "35" smd rect
 			(at 8.89 11.43 270)
@@ -40052,7 +40807,7 @@
 			(net 75 "unconnected-(U1-ADC_VREF-Pad35)")
 			(pinfunction "ADC_VREF")
 			(pintype "power_in+no_connect")
-			(uuid "12c6c8b0-10eb-4f19-84b7-6b1f6453b766")
+			(uuid "e5549892-a49e-484c-a3fc-0fd0c469d492")
 		)
 		(pad "36" smd rect
 			(at 8.89 13.97 270)
@@ -40064,7 +40819,7 @@
 			(net 3 "+3V3")
 			(pinfunction "3V3")
 			(pintype "power_out")
-			(uuid "a4f180e1-080c-4f1d-862c-223df4682ba0")
+			(uuid "1f46cfa6-155a-4706-813e-b90158e66d4e")
 		)
 		(pad "37" smd rect
 			(at 8.89 16.51 270)
@@ -40076,7 +40831,7 @@
 			(net 79 "unconnected-(U1-3V3_EN-Pad37)")
 			(pinfunction "3V3_EN")
 			(pintype "input+no_connect")
-			(uuid "e8c57047-8d82-470a-a81a-820355a70b58")
+			(uuid "049f1db2-d550-4dbb-9d0a-7479823829d4")
 		)
 		(pad "38" smd rect
 			(at 8.89 19.05 270)
@@ -40088,7 +40843,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "26ceafe8-01f6-49d6-8b8e-065664d0b223")
+			(uuid "3bac553c-1c3a-4f29-8dab-4124c6cb2c1d")
 		)
 		(pad "39" smd rect
 			(at 8.89 21.59 270)
@@ -40100,7 +40855,7 @@
 			(net 78 "unconnected-(U1-VSYS-Pad39)")
 			(pinfunction "VSYS")
 			(pintype "power_in+no_connect")
-			(uuid "24b1beeb-22c5-4823-8a11-20e5fa68fa98")
+			(uuid "5db48e76-dce7-464e-b304-9b5d60e4e134")
 		)
 		(pad "40" smd rect
 			(at 8.89 24.13 270)
@@ -40112,7 +40867,7 @@
 			(net 70 "unconnected-(U1-VBUS-Pad40)")
 			(pinfunction "VBUS")
 			(pintype "power_in+no_connect")
-			(uuid "5b9a7de7-9cde-4752-937f-e7fe4c7c1f22")
+			(uuid "c022ec0a-5071-49d9-9d93-e99772b96081")
 		)
 		(pad "41" smd rect
 			(at -2.54 -23.9 180)
@@ -40124,7 +40879,7 @@
 			(net 77 "unconnected-(U1-SWCLK-Pad41)")
 			(pinfunction "SWCLK")
 			(pintype "input+no_connect")
-			(uuid "8875d7be-c52d-4fa0-ba3b-1c9a386ca39a")
+			(uuid "eea714a7-7981-4920-918b-6388a53dcb43")
 		)
 		(pad "42" smd rect
 			(at 0 -23.9 180)
@@ -40136,7 +40891,7 @@
 			(net 71 "unconnected-(U1-GND-Pad42)")
 			(pinfunction "GND")
 			(pintype "power_in+no_connect")
-			(uuid "82216c54-0e63-439c-ad48-daa5b7edee56")
+			(uuid "5985ad81-3d4f-4484-bd0f-f1d5fa08d966")
 		)
 		(pad "43" smd rect
 			(at 2.54 -23.9 180)
@@ -40148,13 +40903,13 @@
 			(net 80 "unconnected-(U1-SWDIO-Pad43)")
 			(pinfunction "SWDIO")
 			(pintype "bidirectional+no_connect")
-			(uuid "a0358ced-b991-4fdd-a4e6-3bdb5fa1b1bd")
+			(uuid "2239f977-cfbe-4962-8715-382786328131")
 		)
 		(zone
 			(net 0)
 			(net_name "")
 			(layer "B.Cu")
-			(uuid "b51bd333-c344-4080-8bdd-89535527a0cd")
+			(uuid "7a116765-46b7-49fd-8056-7625dd837c27")
 			(hatch edge 0.5)
 			(connect_pads
 				(clearance 0)
@@ -40182,7 +40937,7 @@
 			(net 0)
 			(net_name "")
 			(layer "B.Cu")
-			(uuid "4082ce5e-cc43-422d-8f22-ca4f0f21f493")
+			(uuid "d6910641-467f-436e-97a7-60f22f44615d")
 			(hatch edge 0.5)
 			(connect_pads
 				(clearance 0)
@@ -40210,7 +40965,7 @@
 			(net 0)
 			(net_name "")
 			(layer "B.Cu")
-			(uuid "33875c8f-4777-4d09-8c40-ae1a169e8fad")
+			(uuid "d3383b19-feb0-458a-a568-3c92c0a17f33")
 			(hatch edge 0.5)
 			(connect_pads
 				(clearance 0)
@@ -40238,7 +40993,7 @@
 			(net 0)
 			(net_name "")
 			(layer "B.Cu")
-			(uuid "ec540325-1e55-44f8-a962-1536a005859b")
+			(uuid "31e8b8f4-5c9c-4e30-9c2f-f43a65f22fb9")
 			(hatch edge 0.5)
 			(connect_pads
 				(clearance 0)
@@ -40324,6 +41079,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -40337,6 +41093,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -40350,11 +41107,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/ed2c999c-5a85-4c00-b345-fe160d301463")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -40506,7 +41266,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -40517,7 +41277,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -40539,7 +41299,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -40743,6 +41503,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -40756,6 +41517,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -40769,11 +41531,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/41792499-ca91-4163-bf0b-af3a9a2f9301")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 0.5225)
@@ -40956,6 +41722,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -40969,6 +41736,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -40982,11 +41750,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/965c5e1f-7267-4a54-a32f-131d949efc51")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -41169,6 +41941,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -41182,6 +41955,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -41195,11 +41969,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/32db37b2-7433-4ece-89a9-0cad96dfa3bd")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -41351,7 +42128,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -41362,7 +42139,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -41384,7 +42161,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -41588,6 +42365,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -41601,6 +42379,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -41614,11 +42393,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/12a83474-6db0-4d49-b375-4ac5a1756b3e")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -41770,7 +42552,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -41781,7 +42563,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -41803,7 +42585,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -42007,6 +42789,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -42020,6 +42803,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -42033,6 +42817,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -42065,7 +42850,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/920d9c1b-ba4e-49cc-acbd-cf28ad7e3cbf")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -42330,6 +43118,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -42343,6 +43132,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -42356,11 +43146,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/0f2c527d-0018-4a27-9260-9f8ee41275b4")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -42543,6 +43337,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -42556,6 +43351,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -42569,11 +43365,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/0e61e67a-e9a5-4ad3-b2ec-d210e3076f31")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -42725,7 +43524,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -42736,7 +43535,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -42758,7 +43557,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -42962,6 +43761,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -42975,6 +43775,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -42988,11 +43789,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/64b5b51d-74a5-4397-8b7c-666fe2aeb23c")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 -0.5225)
@@ -43175,6 +43980,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -43188,6 +43994,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -43201,11 +44008,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/0ef637fe-aa97-4ba6-822b-a48d5baf157d")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 0.5225)
@@ -43388,6 +44199,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -43401,6 +44213,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -43414,11 +44227,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/573e6a09-bce2-4e0e-9d2b-44946f32b433")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 0.5225)
@@ -43601,6 +44418,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -43614,6 +44432,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -43627,11 +44446,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/53ffc0e6-0fce-446d-bbab-9025142700cf")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -43814,6 +44637,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -43827,6 +44651,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -43840,11 +44665,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/4dec682f-8a3f-4edd-a073-62953f7e7dea")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -43996,7 +44824,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -44007,7 +44835,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -44029,7 +44857,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -44233,6 +45061,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -44246,6 +45075,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -44259,11 +45089,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/8340b5e4-2089-42cf-afcf-709d677ab472")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -44446,6 +45280,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -44459,6 +45294,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -44472,11 +45308,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/70569679-3dfc-491f-8a38-cd9e427d552f")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 0.5225)
@@ -44659,6 +45499,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -44672,6 +45513,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -44685,11 +45527,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/92b72c7f-1f6e-40d3-929c-63239426a24c")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -44841,7 +45686,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -44852,7 +45697,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -44874,7 +45719,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -45075,6 +45920,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -45088,6 +45934,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -45101,11 +45948,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/7fe38ccc-03d1-418b-a431-268ef6dad31d")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.05 -12.1)
@@ -45224,7 +46074,7 @@
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 106 "unconnected-(J1-RING2-Pad4)")
 			(pinfunction "RING2")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "8b76aca5-2ad5-439e-8c0a-f51579327992")
 		)
 	)
@@ -45267,6 +46117,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -45280,6 +46131,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -45293,11 +46145,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/9d05f38e-bfb6-4f4a-aa27-2b4818d23566")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -45480,6 +46336,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -45493,6 +46350,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -45506,11 +46364,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/022d380a-cbc2-4a3b-8f55-649da8d800ee")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -45693,6 +46555,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -45706,6 +46569,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -45719,11 +46583,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "Pin* Test*")
 		(path "/d3cef913-b0d6-4507-94ca-9ac7d9e5e8e5")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -45808,6 +46676,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -45821,6 +46690,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -45834,11 +46704,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/88aa5868-472a-4fea-abb1-0c23adda9ab6")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.14058 0.51)
@@ -46021,6 +46895,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -46034,6 +46909,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -46047,11 +46923,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/06c019f8-3ae0-4b99-b51d-1f7ba3b51efa")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.8 -1.5)
@@ -46203,7 +47082,7 @@
 		)
 		(fp_arc
 			(start 1.046711 -1.568296)
-			(mid 1.63807 -1.504033)
+			(mid 1.638069 -1.504034)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -46214,7 +47093,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702842)
-			(mid 1.712536 -0.814064)
+			(mid 1.712536 -0.814065)
 			(end 1.749484 -0.919719)
 			(stroke
 				(width 0.1)
@@ -46236,7 +47115,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919721)
-			(mid 1.712526 0.814069)
+			(mid 1.712539 0.814068)
 			(end 1.699999 0.702843)
 			(stroke
 				(width 0.1)
@@ -46437,6 +47316,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -46450,6 +47330,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -46463,11 +47344,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/913a46ca-6f8f-458d-9eae-41e9f578f795")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.05 -12.1)
@@ -46586,7 +47470,7 @@
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 109 "unconnected-(J2-RING2-Pad4)")
 			(pinfunction "RING2")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "a47fccbc-8077-4393-a8f0-bd2be3db608f")
 		)
 	)
@@ -46629,6 +47513,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -46642,6 +47527,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -46655,11 +47541,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/11d678ca-841b-4bc8-95f0-a4d9b13be8fb")
+		(sheetname "Root")
+		(sheetfile "picotouch_grid.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 0.5225)
@@ -47317,17 +48207,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "0378b6b1-3c29-4fbf-ac79-5e66d551058e")
-	)
-	(gr_rect
-		(start 94.2 42.7)
-		(end 116.7 54.5)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(fill none)
-		(layer "Edge.Cuts")
-		(uuid "301c84a4-6df8-4a42-bb9d-4de504d743c5")
 	)
 	(gr_arc
 		(start 207 30)
